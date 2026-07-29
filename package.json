@@ -1,0 +1,11 @@
+{
+  "name": "almost-said-it-bold-v8",
+  "private": true,
+  "version": "10.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

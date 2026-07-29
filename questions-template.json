@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "my-pack-001",
+      "category": "Моя категория",
+      "points": 1,
+      "context": "",
+      "question": "Текст вопроса",
+      "answer": "Правильный ответ",
+      "explanation": "Короткое объяснение",
+      "fact": "Интересный факт",
+      "source": "Источник"
+    }
+  ]
+}

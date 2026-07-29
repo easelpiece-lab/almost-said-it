@@ -1,0 +1,12485 @@
+window.ASI_QUESTION_BANK = [
+  {
+    "id": "geo-0046",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какую страну на карте часто сравнивают с сапогом?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "geo-0049",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна особенно известна фьордами и северным побережьем?",
+    "answer": "Норвегия",
+    "accepted_answers": [
+      "Норвегия"
+    ]
+  },
+  {
+    "id": "geo-0052",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна известна кенгуру и Большим Барьерным рифом?",
+    "answer": "Австралия",
+    "accepted_answers": [
+      "Австралия"
+    ]
+  },
+  {
+    "id": "geo-0059",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна известна шоколадом, часами и Альпами?",
+    "answer": "Швейцария",
+    "accepted_answers": [
+      "Швейцария"
+    ]
+  },
+  {
+    "id": "geo-0065",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна известна сауной и тысячами озёр?",
+    "answer": "Финляндия",
+    "accepted_answers": [
+      "Финляндия"
+    ]
+  },
+  {
+    "id": "geo-0047",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какую страну называют Страной восходящего солнца?",
+    "answer": "Япония",
+    "accepted_answers": [
+      "Япония"
+    ]
+  },
+  {
+    "id": "geo-0048",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "На флаге какой страны изображён красный кленовый лист?",
+    "answer": "Канада",
+    "accepted_answers": [
+      "Канада"
+    ]
+  },
+  {
+    "id": "geo-0071",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна считается родиной пиццы и имеет столицу Рим?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "geo-0050",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "С какой страной чаще всего связывают тюльпаны, мельницы и каналы?",
+    "answer": "Нидерланды",
+    "accepted_answers": [
+      "Нидерланды",
+      "Голландия"
+    ]
+  },
+  {
+    "id": "geo-0051",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "В какой стране находятся пирамиды Гизы и протекает Нил?",
+    "answer": "Египет",
+    "accepted_answers": [
+      "Египет"
+    ]
+  },
+  {
+    "id": "geo-0073",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна известна замками, пабами и озером Лох-Несс?",
+    "answer": "Великобритания",
+    "accepted_answers": [
+      "Великобритания",
+      "Соединённое Королевство"
+    ]
+  },
+  {
+    "id": "geo-0053",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна занимает самую большую площадь в мире?",
+    "answer": "Россия",
+    "accepted_answers": [
+      "Россия"
+    ]
+  },
+  {
+    "id": "geo-0075",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна расположена на острове к юго-востоку от Индии и известна чаем?",
+    "answer": "Шри-Ланка",
+    "accepted_answers": [
+      "Шри-Ланка",
+      "Шри Ланка"
+    ]
+  },
+  {
+    "id": "geo-0054",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая крупнейшая страна Южной Америки говорит по-португальски?",
+    "answer": "Бразилия",
+    "accepted_answers": [
+      "Бразилия"
+    ]
+  },
+  {
+    "id": "geo-0055",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "У какой страны самая длинная береговая линия в мире?",
+    "answer": "Канада",
+    "accepted_answers": [
+      "Канада"
+    ]
+  },
+  {
+    "id": "geo-0077",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна фараонами, Сфинксом и Красным морем?",
+    "answer": "Египет",
+    "accepted_answers": [
+      "Египет"
+    ]
+  },
+  {
+    "id": "geo-0056",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "С какой страной связаны фламенко, паэлья и Пиренейский полуостров?",
+    "answer": "Испания",
+    "accepted_answers": [
+      "Испания"
+    ]
+  },
+  {
+    "id": "geo-0057",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна на карте напоминает длинную узкую ленту вдоль Тихого океана?",
+    "answer": "Чили",
+    "accepted_answers": [
+      "Чили"
+    ]
+  },
+  {
+    "id": "geo-0079",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна сакурой, суши и скоростными поездами?",
+    "answer": "Япония",
+    "accepted_answers": [
+      "Япония"
+    ]
+  },
+  {
+    "id": "geo-0081",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна славится кленовым сиропом и Ниагарским водопадом?",
+    "answer": "Канада",
+    "accepted_answers": [
+      "Канада"
+    ]
+  },
+  {
+    "id": "geo-0061",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна ассоциируется с Эйфелевой башней и Лувром?",
+    "answer": "Франция",
+    "accepted_answers": [
+      "Франция"
+    ]
+  },
+  {
+    "id": "geo-0083",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна Октоберфестом и Баварскими Альпами?",
+    "answer": "Германия",
+    "accepted_answers": [
+      "Германия"
+    ]
+  },
+  {
+    "id": "geo-0062",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "В какой стране появились Олимпийские игры древности?",
+    "answer": "Греция",
+    "accepted_answers": [
+      "Греция"
+    ]
+  },
+  {
+    "id": "geo-0063",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна занимает большую часть Аравийского полуострова?",
+    "answer": "Саудовская Аравия",
+    "accepted_answers": [
+      "Саудовская Аравия"
+    ]
+  },
+  {
+    "id": "geo-0064",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "С какой страной чаще всего связывают викингов, IKEA и Стокгольм?",
+    "answer": "Швеция",
+    "accepted_answers": [
+      "Швеция"
+    ]
+  },
+  {
+    "id": "geo-0066",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "В какой стране находятся города Стамбул и Анталья?",
+    "answer": "Турция",
+    "accepted_answers": [
+      "Турция"
+    ]
+  },
+  {
+    "id": "geo-0088",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна каналами Венеции и Колизеем?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "geo-0067",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна знаменита карнавалом в Рио и пляжем Копакабана?",
+    "answer": "Бразилия",
+    "accepted_answers": [
+      "Бразилия"
+    ]
+  },
+  {
+    "id": "geo-0069",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "Какая страна известна танго и Патагонией?",
+    "answer": "Аргентина",
+    "accepted_answers": [
+      "Аргентина"
+    ]
+  },
+  {
+    "id": "geo-0111",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна Южной Америки не имеет выхода к морю и известна солончаком Уюни?",
+    "answer": "Боливия",
+    "accepted_answers": [
+      "Боливия"
+    ]
+  },
+  {
+    "id": "geo-0068",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "В какой стране находятся Голливуд, Нью-Йорк и Гранд-Каньон?",
+    "answer": "США",
+    "accepted_answers": [
+      "США",
+      "Соединённые Штаты",
+      "Соединённые Штаты Америки"
+    ]
+  },
+  {
+    "id": "geo-0090",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна Прагой и Карловым мостом?",
+    "answer": "Чехия",
+    "accepted_answers": [
+      "Чехия"
+    ]
+  },
+  {
+    "id": "geo-0070",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "В какой стране находятся Мачу-Пикчу и древние земли инков?",
+    "answer": "Перу",
+    "accepted_answers": [
+      "Перу"
+    ]
+  },
+  {
+    "id": "geo-0092",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "Какая страна известна конструктором LEGO, сказками Андерсена и велосипедами Копенгагена?",
+    "answer": "Дания",
+    "accepted_answers": [
+      "Дания"
+    ]
+  },
+  {
+    "id": "geo-0072",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находятся замок Нойшванштайн и Бранденбургские ворота?",
+    "answer": "Германия",
+    "accepted_answers": [
+      "Германия"
+    ]
+  },
+  {
+    "id": "geo-0094",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна известна островом Пхукет и храмами Бангкока?",
+    "answer": "Таиланд",
+    "accepted_answers": [
+      "Таиланд"
+    ]
+  },
+  {
+    "id": "geo-0074",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находятся Дублин и знаменитые зелёные пейзажи?",
+    "answer": "Ирландия",
+    "accepted_answers": [
+      "Ирландия"
+    ]
+  },
+  {
+    "id": "geo-0076",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "Какую страну называют землёй огня и льда из-за вулканов и ледников?",
+    "answer": "Исландия",
+    "accepted_answers": [
+      "Исландия"
+    ]
+  },
+  {
+    "id": "geo-0058",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 1,
+    "question": "В какой стране находится Тадж-Махал?",
+    "answer": "Индия",
+    "accepted_answers": [
+      "Индия"
+    ]
+  },
+  {
+    "id": "geo-0101",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "Какая страна состоит из более чем семи тысяч островов и имеет столицу Манила?",
+    "answer": "Филиппины",
+    "accepted_answers": [
+      "Филиппины"
+    ]
+  },
+  {
+    "id": "geo-0080",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 2,
+    "question": "В какой стране находится древний город Петра, высеченный в скалах?",
+    "answer": "Иордания",
+    "accepted_answers": [
+      "Иордания"
+    ]
+  },
+  {
+    "id": "geo-0103",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна известна пустыней Гоби и кочевой культурой?",
+    "answer": "Монголия",
+    "accepted_answers": [
+      "Монголия"
+    ]
+  },
+  {
+    "id": "geo-0082",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находятся Амстердам и Роттердам?",
+    "answer": "Нидерланды",
+    "accepted_answers": [
+      "Нидерланды",
+      "Голландия"
+    ]
+  },
+  {
+    "id": "geo-0105",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна известна Дедом Морозом из Лапландии и северным сиянием?",
+    "answer": "Финляндия",
+    "accepted_answers": [
+      "Финляндия"
+    ]
+  },
+  {
+    "id": "geo-0084",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находятся Лиссабон и город Порту?",
+    "answer": "Португалия",
+    "accepted_answers": [
+      "Португалия"
+    ]
+  },
+  {
+    "id": "geo-0085",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна ассоциируется с Дракулой и Трансильванией?",
+    "answer": "Румыния",
+    "accepted_answers": [
+      "Румыния"
+    ]
+  },
+  {
+    "id": "geo-0086",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая европейская страна по форме напоминает шестиугольник?",
+    "answer": "Франция",
+    "accepted_answers": [
+      "Франция"
+    ]
+  },
+  {
+    "id": "geo-0108",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "Какая страна известна сигарами, Гаваной и ретро-автомобилями?",
+    "answer": "Куба",
+    "accepted_answers": [
+      "Куба"
+    ]
+  },
+  {
+    "id": "geo-0087",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находятся Будапешт и озеро Балатон?",
+    "answer": "Венгрия",
+    "accepted_answers": [
+      "Венгрия"
+    ]
+  },
+  {
+    "id": "geo-0091",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 3,
+    "question": "В какой стране находится Вена и звучала музыка Моцарта?",
+    "answer": "Австрия",
+    "accepted_answers": [
+      "Австрия"
+    ]
+  },
+  {
+    "id": "geo-0113",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "Какая страна известна Веллингтоном, киви и съёмками «Властелина колец»?",
+    "answer": "Новая Зеландия",
+    "accepted_answers": [
+      "Новая Зеландия"
+    ]
+  },
+  {
+    "id": "geo-0093",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "В какой стране находятся Ханой и бухта Халонг?",
+    "answer": "Вьетнам",
+    "accepted_answers": [
+      "Вьетнам"
+    ]
+  },
+  {
+    "id": "geo-0115",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 5,
+    "question": "Какая страна Центральной Америки известна тропическими лесами, вулканами и выражением «pura vida»?",
+    "answer": "Коста-Рика",
+    "accepted_answers": [
+      "Коста-Рика",
+      "Коста Рика"
+    ]
+  },
+  {
+    "id": "geo-0095",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "В какой стране находятся Сеул и остров Чеджу?",
+    "answer": "Южная Корея",
+    "accepted_answers": [
+      "Южная Корея",
+      "Республика Корея"
+    ]
+  },
+  {
+    "id": "geo-0096",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Угадай страну",
+    "points": 4,
+    "question": "Какая страна занимает большую часть Скандинавского полуострова вместе со Швецией?",
+    "answer": "Норвегия",
+    "accepted_answers": [
+      "Норвегия"
+    ]
+  },
+  {
+    "id": "geo-0121",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "Какой город известен каналами и гондолами вместо обычных улиц?",
+    "answer": "Венеция",
+    "accepted_answers": [
+      "Венеция"
+    ]
+  },
+  {
+    "id": "geo-0125",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "Какой город известен Голливудом и районом Беверли-Хиллз?",
+    "answer": "Лос-Анджелес",
+    "accepted_answers": [
+      "Лос-Анджелес",
+      "Лос Анджелес"
+    ]
+  },
+  {
+    "id": "geo-0135",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "Какой город известен Карловым мостом и Пражским градом?",
+    "answer": "Прага",
+    "accepted_answers": [
+      "Прага"
+    ]
+  },
+  {
+    "id": "geo-0119",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "Какой американский город знаменит Статуей Свободы?",
+    "answer": "Нью-Йорк",
+    "accepted_answers": [
+      "Нью-Йорк",
+      "Нью Йорк"
+    ]
+  },
+  {
+    "id": "geo-0122",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится храм Саграда Фамилия?",
+    "answer": "Барселона",
+    "accepted_answers": [
+      "Барселона"
+    ]
+  },
+  {
+    "id": "geo-0123",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "Какой город стоит на двух континентах и разделён проливом Босфор?",
+    "answer": "Стамбул",
+    "accepted_answers": [
+      "Стамбул"
+    ]
+  },
+  {
+    "id": "geo-0124",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится знаменитый оперный театр с белыми «парусами»?",
+    "answer": "Сидней",
+    "accepted_answers": [
+      "Сидней"
+    ]
+  },
+  {
+    "id": "geo-0143",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "Какой город известен статуей Христа-Искупителя на горе?",
+    "answer": "Рио-де-Жанейро",
+    "accepted_answers": [
+      "Рио-де-Жанейро",
+      "Рио де Жанейро",
+      "Рио"
+    ]
+  },
+  {
+    "id": "geo-0126",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится небоскрёб Бурдж-Халифа?",
+    "answer": "Дубай",
+    "accepted_answers": [
+      "Дубай"
+    ]
+  },
+  {
+    "id": "geo-0127",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "Какой город называют городом любви и моды, а через него течёт Сена?",
+    "answer": "Париж",
+    "accepted_answers": [
+      "Париж"
+    ]
+  },
+  {
+    "id": "geo-0131",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "Какой город известен мостом Золотые Ворота?",
+    "answer": "Сан-Франциско",
+    "accepted_answers": [
+      "Сан-Франциско",
+      "Сан Франциско"
+    ]
+  },
+  {
+    "id": "geo-0147",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "Какой город известен каналами, велосипедами и музеем Ван Гога?",
+    "answer": "Амстердам",
+    "accepted_answers": [
+      "Амстердам"
+    ]
+  },
+  {
+    "id": "geo-0130",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "В каком городе можно увидеть Бранденбургские ворота?",
+    "answer": "Берлин",
+    "accepted_answers": [
+      "Берлин"
+    ]
+  },
+  {
+    "id": "geo-0116",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится Эйфелева башня?",
+    "answer": "Париж",
+    "accepted_answers": [
+      "Париж"
+    ]
+  },
+  {
+    "id": "geo-0117",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "В каком городе можно увидеть Колизей?",
+    "answer": "Рим",
+    "accepted_answers": [
+      "Рим"
+    ]
+  },
+  {
+    "id": "geo-0133",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город часто называют Северной Венецией из-за каналов и разводных мостов?",
+    "answer": "Санкт-Петербург",
+    "accepted_answers": [
+      "Санкт-Петербург",
+      "Санкт Петербург",
+      "Петербург"
+    ]
+  },
+  {
+    "id": "geo-0118",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится Биг-Бен?",
+    "answer": "Лондон",
+    "accepted_answers": [
+      "Лондон"
+    ]
+  },
+  {
+    "id": "geo-0151",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город известен красными двухэтажными автобусами?",
+    "answer": "Лондон",
+    "accepted_answers": [
+      "Лондон"
+    ]
+  },
+  {
+    "id": "geo-0152",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "В каком городе находится Гранд-Базар — один из самых известных крытых рынков мира?",
+    "answer": "Стамбул",
+    "accepted_answers": [
+      "Стамбул"
+    ]
+  },
+  {
+    "id": "geo-0120",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 1,
+    "question": "В каком городе находится Красная площадь?",
+    "answer": "Москва",
+    "accepted_answers": [
+      "Москва"
+    ]
+  },
+  {
+    "id": "geo-0137",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "Какой город знаменит перекрёстком Сибуя и кварталом Синдзюку?",
+    "answer": "Токио",
+    "accepted_answers": [
+      "Токио"
+    ]
+  },
+  {
+    "id": "geo-0139",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "Какой город известен фонтаном Треви?",
+    "answer": "Рим",
+    "accepted_answers": [
+      "Рим"
+    ]
+  },
+  {
+    "id": "geo-0155",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город известен горой Фудзи на горизонте в ясную погоду?",
+    "answer": "Токио",
+    "accepted_answers": [
+      "Токио"
+    ]
+  },
+  {
+    "id": "geo-0157",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город известен казино и яркой улицей Стрип?",
+    "answer": "Лас-Вегас",
+    "accepted_answers": [
+      "Лас-Вегас",
+      "Лас Вегас"
+    ]
+  },
+  {
+    "id": "geo-0141",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город знаменит трамваями, крутыми холмами и частыми туманами?",
+    "answer": "Сан-Франциско",
+    "accepted_answers": [
+      "Сан-Франциско",
+      "Сан Франциско"
+    ]
+  },
+  {
+    "id": "geo-0142",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "В каком городе находится площадь Пикадилли и Букингемский дворец?",
+    "answer": "Лондон",
+    "accepted_answers": [
+      "Лондон"
+    ]
+  },
+  {
+    "id": "geo-0160",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 5,
+    "question": "В каком городе находится крепость и дворцовый комплекс Алькасар, известный садами?",
+    "answer": "Севилья",
+    "accepted_answers": [
+      "Севилья"
+    ]
+  },
+  {
+    "id": "geo-0128",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "В каком городе находится Лувр?",
+    "answer": "Париж",
+    "accepted_answers": [
+      "Париж"
+    ]
+  },
+  {
+    "id": "geo-0161",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 5,
+    "question": "Какой город известен голубой мечетью и Айя-Софией?",
+    "answer": "Стамбул",
+    "accepted_answers": [
+      "Стамбул"
+    ]
+  },
+  {
+    "id": "geo-0129",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "Какой город знаменит площадью Таймс-сквер?",
+    "answer": "Нью-Йорк",
+    "accepted_answers": [
+      "Нью-Йорк",
+      "Нью Йорк"
+    ]
+  },
+  {
+    "id": "geo-0145",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 4,
+    "question": "Какой город знаменит домами Гауди и парком Гуэль?",
+    "answer": "Барселона",
+    "accepted_answers": [
+      "Барселона"
+    ]
+  },
+  {
+    "id": "geo-0146",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 3,
+    "question": "В каком городе находится башня Бурдж-эль-Араб в форме паруса?",
+    "answer": "Дубай",
+    "accepted_answers": [
+      "Дубай"
+    ]
+  },
+  {
+    "id": "geo-0164",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 5,
+    "question": "В каком городе находится самый известный район Гангнам?",
+    "answer": "Сеул",
+    "accepted_answers": [
+      "Сеул"
+    ]
+  },
+  {
+    "id": "geo-0132",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 2,
+    "question": "В каком городе находится дворец Альгамбра?",
+    "answer": "Гранада",
+    "accepted_answers": [
+      "Гранада"
+    ]
+  },
+  {
+    "id": "geo-0149",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Города и места",
+    "points": 5,
+    "question": "Какой город разделён Дунаем на исторические части Буда и Пешт?",
+    "answer": "Будапешт",
+    "accepted_answers": [
+      "Будапешт"
+    ]
+  },
+  {
+    "id": "geo-0172",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Какой океан находится между Америкой и Европой с Африкой?",
+    "answer": "Атлантический океан",
+    "accepted_answers": [
+      "Атлантический океан",
+      "Атлантика",
+      "Атлантический"
+    ]
+  },
+  {
+    "id": "geo-0175",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Какая гора является самой высокой точкой Земли над уровнем моря?",
+    "answer": "Эверест",
+    "accepted_answers": [
+      "Эверест",
+      "Джомолунгма"
+    ]
+  },
+  {
+    "id": "geo-0176",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Как называется самая большая жаркая пустыня мира?",
+    "answer": "Сахара",
+    "accepted_answers": [
+      "Сахара"
+    ]
+  },
+  {
+    "id": "geo-0178",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какое море на самом деле является крупнейшим озером мира?",
+    "answer": "Каспийское море",
+    "accepted_answers": [
+      "Каспийское море",
+      "Каспий"
+    ]
+  },
+  {
+    "id": "geo-0179",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река протекает через Египет и впадает в Средиземное море?",
+    "answer": "Нил",
+    "accepted_answers": [
+      "Нил"
+    ]
+  },
+  {
+    "id": "geo-0183",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река протекает через Будапешт, Вену и Белград?",
+    "answer": "Дунай",
+    "accepted_answers": [
+      "Дунай"
+    ]
+  },
+  {
+    "id": "geo-0185",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река вместе с Тигром образует историческое Междуречье?",
+    "answer": "Евфрат",
+    "accepted_answers": [
+      "Евфрат"
+    ]
+  },
+  {
+    "id": "geo-0186",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река считается самой полноводной в мире?",
+    "answer": "Амазонка",
+    "accepted_answers": [
+      "Амазонка"
+    ]
+  },
+  {
+    "id": "geo-0171",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Какой океан самый большой на Земле?",
+    "answer": "Тихий океан",
+    "accepted_answers": [
+      "Тихий океан",
+      "Тихий"
+    ]
+  },
+  {
+    "id": "geo-0187",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Какой водопад находится на границе США и Канады?",
+    "answer": "Ниагарский водопад",
+    "accepted_answers": [
+      "Ниагарский водопад",
+      "Ниагара"
+    ]
+  },
+  {
+    "id": "geo-0205",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 4,
+    "question": "Какое море известно тем, что в нём легко держаться на воде из-за соли?",
+    "answer": "Мёртвое море",
+    "accepted_answers": [
+      "Мёртвое море",
+      "Мертвое море"
+    ]
+  },
+  {
+    "id": "geo-0188",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какой водопад считается самым высоким в мире?",
+    "answer": "Анхель",
+    "accepted_answers": [
+      "Анхель",
+      "водопад Анхель"
+    ]
+  },
+  {
+    "id": "geo-0173",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 1,
+    "question": "Какой океан омывает южные берега Азии?",
+    "answer": "Индийский океан",
+    "accepted_answers": [
+      "Индийский океан",
+      "Индийский"
+    ]
+  },
+  {
+    "id": "geo-0189",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Как называется огромный коралловый риф у берегов Австралии?",
+    "answer": "Большой Барьерный риф",
+    "accepted_answers": [
+      "Большой Барьерный риф"
+    ]
+  },
+  {
+    "id": "geo-0174",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какой океан считается самым маленьким?",
+    "answer": "Северный Ледовитый океан",
+    "accepted_answers": [
+      "Северный Ледовитый океан",
+      "Северный Ледовитый"
+    ]
+  },
+  {
+    "id": "geo-0191",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 3,
+    "question": "Как называются горы, разделяющие Европу и Азию в России?",
+    "answer": "Уральские горы",
+    "accepted_answers": [
+      "Уральские горы",
+      "Урал"
+    ]
+  },
+  {
+    "id": "geo-0192",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 3,
+    "question": "Какая горная система тянется вдоль западного края Южной Америки?",
+    "answer": "Анды",
+    "accepted_answers": [
+      "Анды"
+    ]
+  },
+  {
+    "id": "geo-0177",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какое озеро считается самым глубоким в мире?",
+    "answer": "Байкал",
+    "accepted_answers": [
+      "Байкал"
+    ]
+  },
+  {
+    "id": "geo-0193",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 3,
+    "question": "Какие горы дугой проходят через Францию, Швейцарию, Италию и Австрию?",
+    "answer": "Альпы",
+    "accepted_answers": [
+      "Альпы"
+    ]
+  },
+  {
+    "id": "geo-0194",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Как называется горная система, где находится Эверест?",
+    "answer": "Гималаи",
+    "accepted_answers": [
+      "Гималаи"
+    ]
+  },
+  {
+    "id": "geo-0195",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 3,
+    "question": "Какие горы отделяют Пиренейский полуостров от остальной Европы?",
+    "answer": "Пиренеи",
+    "accepted_answers": [
+      "Пиренеи"
+    ]
+  },
+  {
+    "id": "geo-0180",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река протекает через Париж?",
+    "answer": "Сена",
+    "accepted_answers": [
+      "Сена"
+    ]
+  },
+  {
+    "id": "geo-0196",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 3,
+    "question": "Какой вулкан возвышается рядом с Неаполем и погубил Помпеи?",
+    "answer": "Везувий",
+    "accepted_answers": [
+      "Везувий"
+    ]
+  },
+  {
+    "id": "geo-0181",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река протекает через Лондон?",
+    "answer": "Темза",
+    "accepted_answers": [
+      "Темза"
+    ]
+  },
+  {
+    "id": "geo-0182",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Природа и планета",
+    "points": 2,
+    "question": "Какая река протекает через Рим?",
+    "answer": "Тибр",
+    "accepted_answers": [
+      "Тибр"
+    ]
+  },
+  {
+    "id": "geo-0231",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая островная страна находится между Европой и Африкой и имеет столицу Валлетта?",
+    "answer": "Мальта",
+    "accepted_answers": [
+      "Мальта"
+    ]
+  },
+  {
+    "id": "geo-0234",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна расположена непосредственно к югу от Германии и известна Альпами?",
+    "answer": "Австрия",
+    "accepted_answers": [
+      "Австрия"
+    ]
+  },
+  {
+    "id": "geo-0226",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна находится прямо к северу от США?",
+    "answer": "Канада",
+    "accepted_answers": [
+      "Канада"
+    ]
+  },
+  {
+    "id": "geo-0228",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна соединяет Северную и Южную Америку через Панамский перешеек?",
+    "answer": "Панама",
+    "accepted_answers": [
+      "Панама"
+    ]
+  },
+  {
+    "id": "geo-0229",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна расположена к западу от Испании на Пиренейском полуострове?",
+    "answer": "Португалия",
+    "accepted_answers": [
+      "Португалия"
+    ]
+  },
+  {
+    "id": "geo-0244",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна находится южнее Польши и известна Прагой?",
+    "answer": "Чехия",
+    "accepted_answers": [
+      "Чехия"
+    ]
+  },
+  {
+    "id": "geo-0230",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна находится между Испанией и Францией в горах?",
+    "answer": "Андорра",
+    "accepted_answers": [
+      "Андорра"
+    ]
+  },
+  {
+    "id": "geo-0232",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 3,
+    "question": "Какая страна полностью окружена территорией Италии и является центром католического мира?",
+    "answer": "Ватикан",
+    "accepted_answers": [
+      "Ватикан"
+    ]
+  },
+  {
+    "id": "geo-0233",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая небольшая страна находится на Лазурном берегу рядом с Францией?",
+    "answer": "Монако",
+    "accepted_answers": [
+      "Монако"
+    ]
+  },
+  {
+    "id": "geo-0249",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 3,
+    "question": "Какая страна находится к западу от Болгарии и имеет столицу Белград?",
+    "answer": "Сербия",
+    "accepted_answers": [
+      "Сербия"
+    ]
+  },
+  {
+    "id": "geo-0235",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая страна находится между Францией, Германией, Австрией и Италией?",
+    "answer": "Швейцария",
+    "accepted_answers": [
+      "Швейцария"
+    ]
+  },
+  {
+    "id": "geo-0236",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 3,
+    "question": "Какая страна граничит и с Испанией, и с Германией?",
+    "answer": "Франция",
+    "accepted_answers": [
+      "Франция"
+    ]
+  },
+  {
+    "id": "geo-0237",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 3,
+    "question": "Какая страна отделена от Франции проливом Ла-Манш?",
+    "answer": "Великобритания",
+    "accepted_answers": [
+      "Великобритания",
+      "Соединённое Королевство"
+    ]
+  },
+  {
+    "id": "geo-0238",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 2,
+    "question": "Какая островная страна находится к западу от Великобритании?",
+    "answer": "Ирландия",
+    "accepted_answers": [
+      "Ирландия"
+    ]
+  },
+  {
+    "id": "geo-0239",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "Карта и соседи",
+    "points": 3,
+    "question": "Какая страна занимает полуостров к северу от Германии и соединена мостом со Швецией?",
+    "answer": "Дания",
+    "accepted_answers": [
+      "Дания"
+    ]
+  },
+  {
+    "id": "geo-0273",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 2,
+    "question": "На каком материке находится Египет, если говорить о большей части страны?",
+    "answer": "Африка",
+    "accepted_answers": [
+      "Африка"
+    ]
+  },
+  {
+    "id": "geo-0276",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 2,
+    "question": "Какой континент занимает второе место в мире и по площади, и по населению?",
+    "answer": "Африка",
+    "accepted_answers": [
+      "Африка"
+    ]
+  },
+  {
+    "id": "geo-0271",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 1,
+    "question": "На каком материке находится Бразилия?",
+    "answer": "Южная Америка",
+    "accepted_answers": [
+      "Южная Америка"
+    ]
+  },
+  {
+    "id": "geo-0277",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 2,
+    "question": "Какой материк одновременно омывают Тихий, Атлантический, Индийский и Северный Ледовитый океаны?",
+    "answer": "Евразия",
+    "accepted_answers": [
+      "Евразия"
+    ]
+  },
+  {
+    "id": "geo-0272",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 1,
+    "question": "На каком материке находится Канада?",
+    "answer": "Северная Америка",
+    "accepted_answers": [
+      "Северная Америка"
+    ]
+  },
+  {
+    "id": "geo-0278",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 2,
+    "question": "Какую часть света образуют Испания, Германия, Италия и Польша?",
+    "answer": "Европа",
+    "accepted_answers": [
+      "Европа"
+    ]
+  },
+  {
+    "id": "geo-0279",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 2,
+    "question": "Какой материк лежит сразу в Северном, Южном, Западном и Восточном полушариях?",
+    "answer": "Африка",
+    "accepted_answers": [
+      "Африка"
+    ]
+  },
+  {
+    "id": "geo-0274",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 1,
+    "question": "В какой части света находится Япония?",
+    "answer": "Азия",
+    "accepted_answers": [
+      "Азия"
+    ]
+  },
+  {
+    "id": "geo-0275",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 1,
+    "question": "В какой части света находится Франция?",
+    "answer": "Европа",
+    "accepted_answers": [
+      "Европа"
+    ]
+  },
+  {
+    "id": "geo-0281",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География без зубрёжки",
+    "points": 3,
+    "question": "Какой язык чаще всего можно услышать в Мексике?",
+    "answer": "Испанский язык",
+    "accepted_answers": [
+      "Испанский язык",
+      "испанский"
+    ]
+  },
+  {
+    "id": "geo-0291",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 1,
+    "question": "Какая звезда помогает определить направление на север?",
+    "answer": "Полярная звезда",
+    "accepted_answers": [
+      "Полярная звезда",
+      "Полярная"
+    ]
+  },
+  {
+    "id": "geo-0292",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 1,
+    "question": "Через какой район Лондона проходит нулевой меридиан?",
+    "answer": "Гринвич",
+    "accepted_answers": [
+      "Гринвич"
+    ]
+  },
+  {
+    "id": "geo-0293",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 1,
+    "question": "Как называются линии на карте, идущие от Северного полюса к Южному?",
+    "answer": "Меридианы",
+    "accepted_answers": [
+      "Меридианы"
+    ]
+  },
+  {
+    "id": "geo-0294",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 2,
+    "question": "Как называются линии на карте, проведённые параллельно экватору?",
+    "answer": "Параллели",
+    "accepted_answers": [
+      "Параллели"
+    ]
+  },
+  {
+    "id": "geo-0295",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 2,
+    "question": "Как называется расстояние к северу или югу от экватора?",
+    "answer": "Широта",
+    "accepted_answers": [
+      "Широта",
+      "географическая широта"
+    ]
+  },
+  {
+    "id": "geo-0296",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 2,
+    "question": "Как называется расстояние к востоку или западу от нулевого меридиана?",
+    "answer": "Долгота",
+    "accepted_answers": [
+      "Долгота",
+      "географическая долгота"
+    ]
+  },
+  {
+    "id": "geo-0297",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 2,
+    "question": "Как называется зелёный участок с водой посреди пустыни?",
+    "answer": "Оазис",
+    "accepted_answers": [
+      "Оазис"
+    ]
+  },
+  {
+    "id": "geo-0298",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 3,
+    "question": "Как называется узкая морская бухта с высокими скалистыми берегами?",
+    "answer": "Фьорд",
+    "accepted_answers": [
+      "Фьорд"
+    ]
+  },
+  {
+    "id": "geo-0299",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 3,
+    "question": "Как называется источник, который время от времени выбрасывает горячую воду и пар?",
+    "answer": "Гейзер",
+    "accepted_answers": [
+      "Гейзер"
+    ]
+  },
+  {
+    "id": "geo-0300",
+    "category": "География",
+    "category_key": "geography",
+    "subcategory": "География вокруг нас",
+    "points": 3,
+    "question": "Как называется глубокая речная долина с крутыми склонами?",
+    "answer": "Каньон",
+    "accepted_answers": [
+      "Каньон"
+    ]
+  },
+  {
+    "id": "math-0081",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 2,
+    "question": "Сколько составляет 10% от 250?",
+    "answer": "25",
+    "accepted_answers": [
+      "25"
+    ]
+  },
+  {
+    "id": "math-0082",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 2,
+    "question": "Сколько составляет 20% от 180?",
+    "answer": "36",
+    "accepted_answers": [
+      "36"
+    ]
+  },
+  {
+    "id": "math-0083",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 2,
+    "question": "Сколько составляет 25% от 200?",
+    "answer": "50",
+    "accepted_answers": [
+      "50"
+    ]
+  },
+  {
+    "id": "math-0084",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 2,
+    "question": "Сколько составляет 50% от 74?",
+    "answer": "37",
+    "accepted_answers": [
+      "37"
+    ]
+  },
+  {
+    "id": "math-0085",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 5% от 300?",
+    "answer": "15",
+    "accepted_answers": [
+      "15"
+    ]
+  },
+  {
+    "id": "math-0086",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 15% от 200?",
+    "answer": "30",
+    "accepted_answers": [
+      "30"
+    ]
+  },
+  {
+    "id": "math-0087",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 30% от 150?",
+    "answer": "45",
+    "accepted_answers": [
+      "45"
+    ]
+  },
+  {
+    "id": "math-0088",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 40% от 90?",
+    "answer": "36",
+    "accepted_answers": [
+      "36"
+    ]
+  },
+  {
+    "id": "math-0089",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 75% от 80?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0090",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 3,
+    "question": "Сколько составляет 10% от 470?",
+    "answer": "47",
+    "accepted_answers": [
+      "47"
+    ]
+  },
+  {
+    "id": "math-0091",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 4,
+    "question": "Сколько составляет 20% от 320?",
+    "answer": "64",
+    "accepted_answers": [
+      "64"
+    ]
+  },
+  {
+    "id": "math-0092",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 4,
+    "question": "Сколько составляет 25% от 360?",
+    "answer": "90",
+    "accepted_answers": [
+      "90"
+    ]
+  },
+  {
+    "id": "math-0093",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 4,
+    "question": "Сколько составляет 50% от 126?",
+    "answer": "63",
+    "accepted_answers": [
+      "63"
+    ]
+  },
+  {
+    "id": "math-0094",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 4,
+    "question": "Сколько составляет 5% от 460?",
+    "answer": "23",
+    "accepted_answers": [
+      "23"
+    ]
+  },
+  {
+    "id": "math-0095",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 4,
+    "question": "Сколько составляет 15% от 120?",
+    "answer": "18",
+    "accepted_answers": [
+      "18"
+    ]
+  },
+  {
+    "id": "math-0096",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 5,
+    "question": "Сколько составляет 30% от 240?",
+    "answer": "72",
+    "accepted_answers": [
+      "72"
+    ]
+  },
+  {
+    "id": "math-0097",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 5,
+    "question": "Сколько составляет 40% от 350?",
+    "answer": "140",
+    "accepted_answers": [
+      "140"
+    ]
+  },
+  {
+    "id": "math-0098",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 5,
+    "question": "Сколько составляет 75% от 120?",
+    "answer": "90",
+    "accepted_answers": [
+      "90"
+    ]
+  },
+  {
+    "id": "math-0099",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 5,
+    "question": "Сколько составляет 10% от 990?",
+    "answer": "99",
+    "accepted_answers": [
+      "99"
+    ]
+  },
+  {
+    "id": "math-0100",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Проценты",
+    "points": 5,
+    "question": "Сколько составляет 20% от 650?",
+    "answer": "130",
+    "accepted_answers": [
+      "130"
+    ]
+  },
+  {
+    "id": "math-0111",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 1,
+    "question": "Чему равна 1/2 от числа 84?",
+    "answer": "42",
+    "accepted_answers": [
+      "42"
+    ]
+  },
+  {
+    "id": "math-0112",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 2,
+    "question": "Чему равна 1/3 от числа 90?",
+    "answer": "30",
+    "accepted_answers": [
+      "30"
+    ]
+  },
+  {
+    "id": "math-0113",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 2,
+    "question": "Чему равна 1/4 от числа 120?",
+    "answer": "30",
+    "accepted_answers": [
+      "30"
+    ]
+  },
+  {
+    "id": "math-0114",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 3,
+    "question": "Чему равна 2/3 от числа 90?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0115",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 3,
+    "question": "Чему равна 3/4 от числа 80?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0116",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 3,
+    "question": "Чему равна 1/5 от числа 150?",
+    "answer": "30",
+    "accepted_answers": [
+      "30"
+    ]
+  },
+  {
+    "id": "math-0117",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 4,
+    "question": "Чему равна 2/5 от числа 100?",
+    "answer": "40",
+    "accepted_answers": [
+      "40"
+    ]
+  },
+  {
+    "id": "math-0118",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 4,
+    "question": "Чему равна 3/5 от числа 200?",
+    "answer": "120",
+    "accepted_answers": [
+      "120"
+    ]
+  },
+  {
+    "id": "math-0119",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 4,
+    "question": "Чему равна 4/5 от числа 75?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0120",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Дроби",
+    "points": 5,
+    "question": "Чему равна 1/6 от числа 144?",
+    "answer": "24",
+    "accepted_answers": [
+      "24"
+    ]
+  },
+  {
+    "id": "math-0126",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 2,
+    "question": "Три одинаковые тетради стоят 450 рублей. Сколько стоит одна тетрадь?",
+    "answer": "150",
+    "accepted_answers": [
+      "150"
+    ]
+  },
+  {
+    "id": "math-0127",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 2,
+    "question": "Пять билетов стоят 2000 рублей. Сколько стоят два таких билета?",
+    "answer": "800",
+    "accepted_answers": [
+      "800"
+    ]
+  },
+  {
+    "id": "math-0128",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 2,
+    "question": "За 4 часа машина проезжает 240 км с постоянной скоростью. Сколько она проедет за 1 час?",
+    "answer": "60 км",
+    "accepted_answers": [
+      "60 км",
+      "60"
+    ]
+  },
+  {
+    "id": "math-0129",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 3,
+    "question": "Рецепт на 4 порции требует 2 яйца. Сколько яиц нужно на 8 порций?",
+    "answer": "4",
+    "accepted_answers": [
+      "4"
+    ]
+  },
+  {
+    "id": "math-0130",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 3,
+    "question": "За 3 дня мастер делает 18 деталей. Сколько деталей он делает за день?",
+    "answer": "6",
+    "accepted_answers": [
+      "6"
+    ]
+  },
+  {
+    "id": "math-0131",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 3,
+    "question": "Десять ручек стоят 1200 рублей. Сколько стоят пять таких ручек?",
+    "answer": "600",
+    "accepted_answers": [
+      "600"
+    ]
+  },
+  {
+    "id": "math-0132",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 4,
+    "question": "Если 2 кг яблок стоят 700 рублей, сколько стоит 1 кг?",
+    "answer": "350 рублей",
+    "accepted_answers": [
+      "350 рублей",
+      "350"
+    ]
+  },
+  {
+    "id": "math-0133",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 4,
+    "question": "На карте 1 см соответствует 5 км. Сколько километров соответствуют 4 см?",
+    "answer": "20 км",
+    "accepted_answers": [
+      "20 км",
+      "20"
+    ]
+  },
+  {
+    "id": "math-0134",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 4,
+    "question": "В классе 30 учеников, треть из них отсутствует. Сколько учеников отсутствует?",
+    "answer": "10",
+    "accepted_answers": [
+      "10"
+    ]
+  },
+  {
+    "id": "math-0135",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 5,
+    "question": "После скидки 20% товар за 1000 рублей подешевел на сколько рублей?",
+    "answer": "200 рублей",
+    "accepted_answers": [
+      "200 рублей",
+      "200"
+    ]
+  },
+  {
+    "id": "math-0136",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 5,
+    "question": "Цена 800 рублей выросла на 25%. Какой стала новая цена?",
+    "answer": "1000 рублей",
+    "accepted_answers": [
+      "1000 рублей",
+      "1000"
+    ]
+  },
+  {
+    "id": "math-0137",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 6,
+    "question": "Товар стоил 1200 рублей и подешевел на 25%. Сколько он стоит теперь?",
+    "answer": "900 рублей",
+    "accepted_answers": [
+      "900 рублей",
+      "900"
+    ]
+  },
+  {
+    "id": "math-0138",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 6,
+    "question": "Если 6 литров воды разлить поровну в 12 бутылок, сколько литров будет в каждой?",
+    "answer": "0,5 литра",
+    "accepted_answers": [
+      "0,5 литра",
+      "0,5",
+      "половина литра"
+    ]
+  },
+  {
+    "id": "math-0139",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 6,
+    "question": "В коробке 40 конфет. 30% съели. Сколько конфет осталось?",
+    "answer": "28",
+    "accepted_answers": [
+      "28"
+    ]
+  },
+  {
+    "id": "math-0140",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Пропорции и задачи",
+    "points": 6,
+    "question": "Число увеличили на 10% и получили 220. Какое число было сначала?",
+    "answer": "200",
+    "accepted_answers": [
+      "200"
+    ]
+  },
+  {
+    "id": "math-0141",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 1,
+    "question": "Найдите x: x + 7 = 11.",
+    "answer": "4",
+    "accepted_answers": [
+      "4"
+    ]
+  },
+  {
+    "id": "math-0142",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 8 = 13.",
+    "answer": "5",
+    "accepted_answers": [
+      "5"
+    ]
+  },
+  {
+    "id": "math-0143",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 9 = 15.",
+    "answer": "6",
+    "accepted_answers": [
+      "6"
+    ]
+  },
+  {
+    "id": "math-0144",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 10 = 17.",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "math-0145",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 11 = 19.",
+    "answer": "8",
+    "accepted_answers": [
+      "8"
+    ]
+  },
+  {
+    "id": "math-0146",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 12 = 21.",
+    "answer": "9",
+    "accepted_answers": [
+      "9"
+    ]
+  },
+  {
+    "id": "math-0147",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 13 = 23.",
+    "answer": "10",
+    "accepted_answers": [
+      "10"
+    ]
+  },
+  {
+    "id": "math-0148",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 2,
+    "question": "Найдите x: x + 14 = 25.",
+    "answer": "11",
+    "accepted_answers": [
+      "11"
+    ]
+  },
+  {
+    "id": "math-0149",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 3,
+    "question": "Найдите x: x + 7 = 19.",
+    "answer": "12",
+    "accepted_answers": [
+      "12"
+    ]
+  },
+  {
+    "id": "math-0150",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Уравнения",
+    "points": 3,
+    "question": "Найдите x: x + 8 = 21.",
+    "answer": "13",
+    "accepted_answers": [
+      "13"
+    ]
+  },
+  {
+    "id": "math-0184",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 3,
+    "question": "Половина числа равна 36. Чему равно всё число?",
+    "answer": "72",
+    "accepted_answers": [
+      "72"
+    ]
+  },
+  {
+    "id": "math-0181",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 1,
+    "question": "Какое число нужно прибавить к 18, чтобы получить 45?",
+    "answer": "27",
+    "accepted_answers": [
+      "27"
+    ]
+  },
+  {
+    "id": "math-0182",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 2,
+    "question": "Какое число нужно вычесть из 70, чтобы получить 28?",
+    "answer": "42",
+    "accepted_answers": [
+      "42"
+    ]
+  },
+  {
+    "id": "math-0186",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 4,
+    "question": "Сумма двух одинаковых чисел равна 48. Чему равно каждое?",
+    "answer": "24",
+    "accepted_answers": [
+      "24"
+    ]
+  },
+  {
+    "id": "math-0183",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 2,
+    "question": "Задуманное число умножили на 5 и получили 60. Что это за число?",
+    "answer": "12",
+    "accepted_answers": [
+      "12"
+    ]
+  },
+  {
+    "id": "math-0187",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 5,
+    "question": "Одно число на 8 больше другого. Меньшее равно 17. Чему равно большее?",
+    "answer": "25",
+    "accepted_answers": [
+      "25"
+    ]
+  },
+  {
+    "id": "math-0185",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 4,
+    "question": "Треть числа равна 25. Чему равно всё число?",
+    "answer": "75",
+    "accepted_answers": [
+      "75"
+    ]
+  },
+  {
+    "id": "math-0188",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 5,
+    "question": "Сумма двух чисел равна 50. Одно из них равно 19. Чему равно второе?",
+    "answer": "31",
+    "accepted_answers": [
+      "31"
+    ]
+  },
+  {
+    "id": "math-0189",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 6,
+    "question": "Периметр квадрата равен 36 см. Чему равна его сторона?",
+    "answer": "9 см",
+    "accepted_answers": [
+      "9 см",
+      "9"
+    ]
+  },
+  {
+    "id": "math-0190",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Алгебраические задачи",
+    "points": 6,
+    "question": "Удвоенное число уменьшили на 4 и получили 20. Что это за число?",
+    "answer": "12",
+    "accepted_answers": [
+      "12"
+    ]
+  },
+  {
+    "id": "math-0191",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Периметр",
+    "points": 1,
+    "question": "Чему равен периметр прямоугольника со сторонами 4 см и 3 см?",
+    "answer": "14 см",
+    "accepted_answers": [
+      "14 см",
+      "14"
+    ]
+  },
+  {
+    "id": "math-0192",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Периметр",
+    "points": 1,
+    "question": "Чему равен периметр прямоугольника со сторонами 5 см и 4 см?",
+    "answer": "18 см",
+    "accepted_answers": [
+      "18 см",
+      "18"
+    ]
+  },
+  {
+    "id": "math-0193",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Периметр",
+    "points": 2,
+    "question": "Чему равен периметр прямоугольника со сторонами 6 см и 5 см?",
+    "answer": "22 см",
+    "accepted_answers": [
+      "22 см",
+      "22"
+    ]
+  },
+  {
+    "id": "math-0194",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Периметр",
+    "points": 2,
+    "question": "Чему равен периметр прямоугольника со сторонами 7 см и 6 см?",
+    "answer": "26 см",
+    "accepted_answers": [
+      "26 см",
+      "26"
+    ]
+  },
+  {
+    "id": "reasoning-math-0001",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Задачи с подвохом",
+    "points": 8,
+    "question": "Бита и мяч вместе стоят 110 рублей. Бита стоит на 100 рублей дороже мяча. Сколько стоит мяч?",
+    "answer": "5 рублей",
+    "accepted_answers": [
+      "5",
+      "5 рублей"
+    ]
+  },
+  {
+    "id": "reasoning-math-0002",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Задачи с подвохом",
+    "points": 8,
+    "question": "Часы показывают 3:30. Какой меньший угол образуют часовая и минутная стрелки?",
+    "answer": "75 градусов",
+    "accepted_answers": [
+      "75",
+      "75°",
+      "75 градусов"
+    ]
+  },
+  {
+    "id": "math-0206",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 1,
+    "question": "Чему равна площадь прямоугольника со сторонами 5 см и 2 см?",
+    "answer": "10 см²",
+    "accepted_answers": [
+      "10 см²",
+      "10"
+    ]
+  },
+  {
+    "id": "math-0207",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 1,
+    "question": "Чему равна площадь прямоугольника со сторонами 6 см и 3 см?",
+    "answer": "18 см²",
+    "accepted_answers": [
+      "18 см²",
+      "18"
+    ]
+  },
+  {
+    "id": "math-0208",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 2,
+    "question": "Чему равна площадь прямоугольника со сторонами 7 см и 4 см?",
+    "answer": "28 см²",
+    "accepted_answers": [
+      "28 см²",
+      "28"
+    ]
+  },
+  {
+    "id": "math-0209",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 2,
+    "question": "Чему равна площадь прямоугольника со сторонами 8 см и 5 см?",
+    "answer": "40 см²",
+    "accepted_answers": [
+      "40 см²",
+      "40"
+    ]
+  },
+  {
+    "id": "math-0210",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 2,
+    "question": "Чему равна площадь прямоугольника со сторонами 9 см и 6 см?",
+    "answer": "54 см²",
+    "accepted_answers": [
+      "54 см²",
+      "54"
+    ]
+  },
+  {
+    "id": "math-0211",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 2,
+    "question": "Чему равна площадь прямоугольника со сторонами 10 см и 7 см?",
+    "answer": "70 см²",
+    "accepted_answers": [
+      "70 см²",
+      "70"
+    ]
+  },
+  {
+    "id": "math-0212",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 2,
+    "question": "Чему равна площадь прямоугольника со сторонами 11 см и 8 см?",
+    "answer": "88 см²",
+    "accepted_answers": [
+      "88 см²",
+      "88"
+    ]
+  },
+  {
+    "id": "math-0213",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Площадь",
+    "points": 3,
+    "question": "Чему равна площадь прямоугольника со сторонами 12 см и 9 см?",
+    "answer": "108 см²",
+    "accepted_answers": [
+      "108 см²",
+      "108"
+    ]
+  },
+  {
+    "id": "math-0241",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Сколько градусов в прямом угле?",
+    "answer": "90 градусов",
+    "accepted_answers": [
+      "90 градусов",
+      "90"
+    ]
+  },
+  {
+    "id": "math-0247",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Как называется треугольник с тремя равными сторонами?",
+    "answer": "Равносторонний треугольник",
+    "accepted_answers": [
+      "Равносторонний треугольник",
+      "равносторонний"
+    ]
+  },
+  {
+    "id": "math-0242",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Сколько градусов в развёрнутом угле?",
+    "answer": "180 градусов",
+    "accepted_answers": [
+      "180 градусов",
+      "180"
+    ]
+  },
+  {
+    "id": "math-0248",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 3,
+    "question": "Как называется треугольник с двумя равными сторонами?",
+    "answer": "Равнобедренный треугольник",
+    "accepted_answers": [
+      "Равнобедренный треугольник",
+      "равнобедренный"
+    ]
+  },
+  {
+    "id": "math-0243",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Сколько градусов в полном обороте?",
+    "answer": "360 градусов",
+    "accepted_answers": [
+      "360 градусов",
+      "360"
+    ]
+  },
+  {
+    "id": "math-0249",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Как называется самая длинная сторона прямоугольного треугольника?",
+    "answer": "Гипотенуза",
+    "accepted_answers": [
+      "Гипотенуза"
+    ]
+  },
+  {
+    "id": "math-0244",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Сколько сторон у треугольника?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "math-0250",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Как называется отрезок от центра окружности до её края?",
+    "answer": "Радиус",
+    "accepted_answers": [
+      "Радиус"
+    ]
+  },
+  {
+    "id": "math-0245",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 2,
+    "question": "Сколько сторон у шестиугольника?",
+    "answer": "6",
+    "accepted_answers": [
+      "6"
+    ]
+  },
+  {
+    "id": "math-0251",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Геометрические понятия",
+    "points": 3,
+    "question": "Как называется отрезок через центр, соединяющий две точки окружности?",
+    "answer": "Диаметр",
+    "accepted_answers": [
+      "Диаметр"
+    ]
+  },
+  {
+    "id": "math-0261",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 2,
+    "question": "Сколько сантиметров в одном метре?",
+    "answer": "100",
+    "accepted_answers": [
+      "100"
+    ]
+  },
+  {
+    "id": "math-0262",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 2,
+    "question": "Сколько миллиметров в одном сантиметре?",
+    "answer": "10",
+    "accepted_answers": [
+      "10"
+    ]
+  },
+  {
+    "id": "math-0263",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 2,
+    "question": "Сколько метров в одном километре?",
+    "answer": "1000",
+    "accepted_answers": [
+      "1000"
+    ]
+  },
+  {
+    "id": "math-0264",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 3,
+    "question": "Сколько граммов в одном килограмме?",
+    "answer": "1000",
+    "accepted_answers": [
+      "1000"
+    ]
+  },
+  {
+    "id": "math-0265",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 3,
+    "question": "Сколько килограммов в одной тонне?",
+    "answer": "1000",
+    "accepted_answers": [
+      "1000"
+    ]
+  },
+  {
+    "id": "math-0266",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 3,
+    "question": "Сколько минут в одном часе?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0267",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 3,
+    "question": "Сколько секунд в одной минуте?",
+    "answer": "60",
+    "accepted_answers": [
+      "60"
+    ]
+  },
+  {
+    "id": "math-0268",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 4,
+    "question": "Сколько часов в двух сутках?",
+    "answer": "48",
+    "accepted_answers": [
+      "48"
+    ]
+  },
+  {
+    "id": "math-0269",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 4,
+    "question": "Сколько месяцев в трёх годах?",
+    "answer": "36",
+    "accepted_answers": [
+      "36"
+    ]
+  },
+  {
+    "id": "math-0270",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Единицы измерения",
+    "points": 4,
+    "question": "Сколько литров в 3000 миллилитрах?",
+    "answer": "3 литра",
+    "accepted_answers": [
+      "3 литра",
+      "3"
+    ]
+  },
+  {
+    "id": "math-0231",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Квадрат",
+    "points": 1,
+    "question": "Чему равен периметр квадрата со стороной 4 см?",
+    "answer": "16 см",
+    "accepted_answers": [
+      "16 см",
+      "16"
+    ]
+  },
+  {
+    "id": "math-0232",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Квадрат",
+    "points": 2,
+    "question": "Чему равен периметр квадрата со стороной 6 см?",
+    "answer": "24 см",
+    "accepted_answers": [
+      "24 см",
+      "24"
+    ]
+  },
+  {
+    "id": "math-0236",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Квадрат",
+    "points": 4,
+    "question": "Чему равна площадь квадрата со стороной 3 см?",
+    "answer": "9 см²",
+    "accepted_answers": [
+      "9 см²",
+      "9"
+    ]
+  },
+  {
+    "id": "math-0233",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Квадрат",
+    "points": 2,
+    "question": "Чему равен периметр квадрата со стороной 8 см?",
+    "answer": "32 см",
+    "accepted_answers": [
+      "32 см",
+      "32"
+    ]
+  },
+  {
+    "id": "math-0237",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Квадрат",
+    "points": 5,
+    "question": "Чему равна площадь квадрата со стороной 5 см?",
+    "answer": "25 см²",
+    "accepted_answers": [
+      "25 см²",
+      "25"
+    ]
+  },
+  {
+    "id": "math-0281",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 2,
+    "question": "Автомобиль едет 60 км/ч. Сколько километров он проедет за 2 часа?",
+    "answer": "120 км",
+    "accepted_answers": [
+      "120 км",
+      "120"
+    ]
+  },
+  {
+    "id": "math-0282",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 2,
+    "question": "Поезд прошёл 300 км за 3 часа. Какова его средняя скорость?",
+    "answer": "100 км/ч",
+    "accepted_answers": [
+      "100 км/ч",
+      "100"
+    ]
+  },
+  {
+    "id": "math-0283",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 3,
+    "question": "Пешеход идёт 5 км/ч. Сколько километров он пройдёт за 3 часа?",
+    "answer": "15 км",
+    "accepted_answers": [
+      "15 км",
+      "15"
+    ]
+  },
+  {
+    "id": "math-0284",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 3,
+    "question": "Велосипедист проехал 40 км за 2 часа. Какова его средняя скорость?",
+    "answer": "20 км/ч",
+    "accepted_answers": [
+      "20 км/ч",
+      "20"
+    ]
+  },
+  {
+    "id": "math-0285",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 4,
+    "question": "Самолёт летит 800 км/ч. Сколько километров он пролетит за полчаса?",
+    "answer": "400 км",
+    "accepted_answers": [
+      "400 км",
+      "400"
+    ]
+  },
+  {
+    "id": "math-0286",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 4,
+    "question": "Автобус проехал 180 км со скоростью 60 км/ч. Сколько времени заняла поездка?",
+    "answer": "3 часа",
+    "accepted_answers": [
+      "3 часа",
+      "3"
+    ]
+  },
+  {
+    "id": "math-0287",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 4,
+    "question": "Катер прошёл 90 км за 3 часа. Какова его средняя скорость?",
+    "answer": "30 км/ч",
+    "accepted_answers": [
+      "30 км/ч",
+      "30"
+    ]
+  },
+  {
+    "id": "math-0288",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 5,
+    "question": "Бегун пробежал 12 км за 2 часа. Какова его средняя скорость?",
+    "answer": "6 км/ч",
+    "accepted_answers": [
+      "6 км/ч",
+      "6"
+    ]
+  },
+  {
+    "id": "math-0289",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 6,
+    "question": "Машина проехала 150 км за 2,5 часа. Какова её средняя скорость?",
+    "answer": "60 км/ч",
+    "accepted_answers": [
+      "60 км/ч",
+      "60"
+    ]
+  },
+  {
+    "id": "math-0290",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Скорость и время",
+    "points": 6,
+    "question": "Поезд движется 90 км/ч. Сколько километров он проедет за 20 минут?",
+    "answer": "30 км",
+    "accepted_answers": [
+      "30 км",
+      "30"
+    ]
+  },
+  {
+    "id": "math-0291",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 1,
+    "question": "Продолжите числовой ряд: 2, 4, 6, 8, ...",
+    "answer": "10",
+    "accepted_answers": [
+      "10"
+    ]
+  },
+  {
+    "id": "math-0292",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 1,
+    "question": "Продолжите числовой ряд: 5, 10, 15, 20, ...",
+    "answer": "25",
+    "accepted_answers": [
+      "25"
+    ]
+  },
+  {
+    "id": "math-0293",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 2,
+    "question": "Продолжите числовой ряд: 1, 2, 4, 8, ...",
+    "answer": "16",
+    "accepted_answers": [
+      "16"
+    ]
+  },
+  {
+    "id": "math-0296",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 3,
+    "question": "Продолжите числовой ряд квадратов: 1, 4, 9, 16, ...",
+    "answer": "25",
+    "accepted_answers": [
+      "25"
+    ]
+  },
+  {
+    "id": "math-0294",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 2,
+    "question": "Продолжите числовой ряд: 30, 25, 20, 15, ...",
+    "answer": "10",
+    "accepted_answers": [
+      "10"
+    ]
+  },
+  {
+    "id": "math-0295",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 3,
+    "question": "Продолжите числовой ряд: 3, 6, 9, 12, ...",
+    "answer": "15",
+    "accepted_answers": [
+      "15"
+    ]
+  },
+  {
+    "id": "math-0297",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 4,
+    "question": "Продолжите ряд: 2, 5, 8, 11, ...",
+    "answer": "14",
+    "accepted_answers": [
+      "14"
+    ]
+  },
+  {
+    "id": "math-0298",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 4,
+    "question": "Продолжите ряд: 100, 90, 81, 73, ...",
+    "answer": "66",
+    "accepted_answers": [
+      "66"
+    ]
+  },
+  {
+    "id": "math-0299",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 5,
+    "question": "Продолжите ряд: 1, 3, 6, 10, ...",
+    "answer": "15",
+    "accepted_answers": [
+      "15"
+    ]
+  },
+  {
+    "id": "math-0300",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Числовые закономерности",
+    "points": 5,
+    "question": "Продолжите ряд: 2, 3, 5, 8, 13, ...",
+    "answer": "21",
+    "accepted_answers": [
+      "21"
+    ]
+  },
+  {
+    "id": "math-0061",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 1,
+    "question": "Вычислите: 10 + 3 × 4.",
+    "answer": "22",
+    "accepted_answers": [
+      "22"
+    ]
+  },
+  {
+    "id": "math-0062",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 1,
+    "question": "Вычислите: 11 + 4 × 5.",
+    "answer": "31",
+    "accepted_answers": [
+      "31"
+    ]
+  },
+  {
+    "id": "math-0063",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 2,
+    "question": "Вычислите: 12 + 5 × 6.",
+    "answer": "42",
+    "accepted_answers": [
+      "42"
+    ]
+  },
+  {
+    "id": "math-0064",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 2,
+    "question": "Вычислите: 13 + 6 × 7.",
+    "answer": "55",
+    "accepted_answers": [
+      "55"
+    ]
+  },
+  {
+    "id": "math-0065",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 2,
+    "question": "Вычислите: 14 + 7 × 4.",
+    "answer": "42",
+    "accepted_answers": [
+      "42"
+    ]
+  },
+  {
+    "id": "math-0066",
+    "category": "Математика",
+    "category_key": "mathematics",
+    "subcategory": "Порядок действий",
+    "points": 2,
+    "question": "Вычислите: 15 + 3 × 5.",
+    "answer": "30",
+    "accepted_answers": [
+      "30"
+    ]
+  },
+  {
+    "id": "logic-0031",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Найдите продолжение ряда: 11, 22, 44, 88, ...",
+    "answer": "176",
+    "accepted_answers": [
+      "176"
+    ]
+  },
+  {
+    "id": "logic-0036",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 2, 3, 6, 7, 10, ...?",
+    "answer": "11",
+    "accepted_answers": [
+      "11"
+    ]
+  },
+  {
+    "id": "logic-0037",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 3, 5, 9, 11, 15, ...?",
+    "answer": "17",
+    "accepted_answers": [
+      "17"
+    ]
+  },
+  {
+    "id": "logic-0038",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 4, 7, 12, 15, 20, ...?",
+    "answer": "23",
+    "accepted_answers": [
+      "23"
+    ]
+  },
+  {
+    "id": "logic-0021",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 3,
+    "question": "Найдите продолжение ряда: 1, 2, 4, 8, ...",
+    "answer": "16",
+    "accepted_answers": [
+      "16"
+    ]
+  },
+  {
+    "id": "logic-0039",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 5, 9, 15, 19, 25, ...?",
+    "answer": "29",
+    "accepted_answers": [
+      "29"
+    ]
+  },
+  {
+    "id": "logic-0022",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 3,
+    "question": "Найдите продолжение ряда: 2, 6, 18, 54, ...",
+    "answer": "162",
+    "accepted_answers": [
+      "162"
+    ]
+  },
+  {
+    "id": "logic-0040",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 6, 7, 10, 11, 14, ...?",
+    "answer": "15",
+    "accepted_answers": [
+      "15"
+    ]
+  },
+  {
+    "id": "logic-0023",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 3,
+    "question": "Найдите продолжение ряда: 3, 6, 12, 24, ...",
+    "answer": "48",
+    "accepted_answers": [
+      "48"
+    ]
+  },
+  {
+    "id": "logic-0041",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 7, 9, 13, 15, 19, ...?",
+    "answer": "21",
+    "accepted_answers": [
+      "21"
+    ]
+  },
+  {
+    "id": "logic-0042",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Шаги чередуются. Какое число следующее: 8, 11, 16, 19, 24, ...?",
+    "answer": "27",
+    "accepted_answers": [
+      "27"
+    ]
+  },
+  {
+    "id": "logic-0025",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Последовательности",
+    "points": 4,
+    "question": "Найдите продолжение ряда: 5, 10, 20, 40, ...",
+    "answer": "80",
+    "accepted_answers": [
+      "80"
+    ]
+  },
+  {
+    "id": "logic-0061",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: яблоко, груша, морковь, слива?",
+    "answer": "Морковь",
+    "accepted_answers": [
+      "Морковь"
+    ]
+  },
+  {
+    "id": "logic-0062",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: стол, диван, шкаф, тарелка?",
+    "answer": "Тарелка",
+    "accepted_answers": [
+      "Тарелка"
+    ]
+  },
+  {
+    "id": "logic-0063",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: январь, март, понедельник, июль?",
+    "answer": "Понедельник",
+    "accepted_answers": [
+      "Понедельник"
+    ]
+  },
+  {
+    "id": "logic-0064",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: воробей, орёл, бабочка, голубь?",
+    "answer": "Бабочка",
+    "accepted_answers": [
+      "Бабочка"
+    ]
+  },
+  {
+    "id": "logic-0065",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: красный, синий, зелёный, круглый?",
+    "answer": "Круглый",
+    "accepted_answers": [
+      "Круглый"
+    ]
+  },
+  {
+    "id": "logic-0067",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: метр, литр, километр, сантиметр?",
+    "answer": "Литр",
+    "accepted_answers": [
+      "Литр"
+    ]
+  },
+  {
+    "id": "logic-0068",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: скрипка, гитара, пианино, микрофон?",
+    "answer": "Микрофон",
+    "accepted_answers": [
+      "Микрофон"
+    ]
+  },
+  {
+    "id": "logic-0069",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: Москва, Париж, Италия, Токио?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "logic-0070",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: акула, дельфин, кит, тигр?",
+    "answer": "Тигр",
+    "accepted_answers": [
+      "Тигр"
+    ]
+  },
+  {
+    "id": "logic-0071",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: золото, серебро, медь, стекло?",
+    "answer": "Стекло",
+    "accepted_answers": [
+      "Стекло"
+    ]
+  },
+  {
+    "id": "logic-0072",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 1,
+    "question": "Какое слово лишнее: квадрат, круг, треугольник, куб?",
+    "answer": "Куб",
+    "accepted_answers": [
+      "Куб"
+    ]
+  },
+  {
+    "id": "logic-0075",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 2,
+    "question": "Какое слово лишнее: автобус, трамвай, поезд, лифт?",
+    "answer": "Лифт",
+    "accepted_answers": [
+      "Лифт"
+    ]
+  },
+  {
+    "id": "logic-0076",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 2,
+    "question": "Какое слово лишнее: дуб, берёза, сосна, ромашка?",
+    "answer": "Ромашка",
+    "accepted_answers": [
+      "Ромашка"
+    ]
+  },
+  {
+    "id": "logic-0077",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 2,
+    "question": "Какое слово лишнее: весна, лето, среда, осень?",
+    "answer": "Среда",
+    "accepted_answers": [
+      "Среда"
+    ]
+  },
+  {
+    "id": "logic-0078",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Найди лишнее",
+    "points": 2,
+    "question": "Какое слово лишнее: Россия, Китай, Африка, Бразилия?",
+    "answer": "Африка",
+    "accepted_answers": [
+      "Африка"
+    ]
+  },
+  {
+    "id": "logic-0111",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Птица относится к гнезду так же, как пчела относится к чему?",
+    "answer": "Улей",
+    "accepted_answers": [
+      "Улей",
+      "к улью"
+    ]
+  },
+  {
+    "id": "logic-0112",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Собака относится к щенку так же, как кошка относится к кому?",
+    "answer": "Котёнок",
+    "accepted_answers": [
+      "Котёнок",
+      "котенок",
+      "к котёнку"
+    ]
+  },
+  {
+    "id": "logic-0113",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Рука относится к перчатке так же, как нога относится к чему?",
+    "answer": "Обувь",
+    "accepted_answers": [
+      "Обувь",
+      "ботинок",
+      "туфля"
+    ]
+  },
+  {
+    "id": "logic-0114",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Рыба относится к воде так же, как птица относится к чему?",
+    "answer": "Воздух",
+    "accepted_answers": [
+      "Воздух",
+      "небо"
+    ]
+  },
+  {
+    "id": "logic-0115",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Книга относится к чтению так же, как музыка относится к чему?",
+    "answer": "Слушание",
+    "accepted_answers": [
+      "Слушание",
+      "прослушивание"
+    ]
+  },
+  {
+    "id": "logic-0116",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Нож относится к резанию так же, как карандаш относится к чему?",
+    "answer": "Письмо",
+    "accepted_answers": [
+      "Письмо",
+      "писать"
+    ]
+  },
+  {
+    "id": "logic-0117",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Зима относится к холоду так же, как лето относится к чему?",
+    "answer": "Жара",
+    "accepted_answers": [
+      "Жара",
+      "тепло"
+    ]
+  },
+  {
+    "id": "logic-0118",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Утро относится к завтраку так же, как вечер относится к чему?",
+    "answer": "Ужин",
+    "accepted_answers": [
+      "Ужин"
+    ]
+  },
+  {
+    "id": "logic-0119",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Врач относится к больнице так же, как учитель относится к чему?",
+    "answer": "Школа",
+    "accepted_answers": [
+      "Школа",
+      "к школе"
+    ]
+  },
+  {
+    "id": "logic-0120",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Капитан относится к кораблю так же, как пилот относится к чему?",
+    "answer": "Самолёт",
+    "accepted_answers": [
+      "Самолёт",
+      "самолет",
+      "к самолёту"
+    ]
+  },
+  {
+    "id": "logic-0121",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Ключ относится к замку так же, как пароль относится к чему?",
+    "answer": "Аккаунт",
+    "accepted_answers": [
+      "Аккаунт",
+      "учётная запись",
+      "система"
+    ]
+  },
+  {
+    "id": "logic-0122",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 1,
+    "question": "Колесо относится к автомобилю так же, как крыло относится к чему из транспорта?",
+    "answer": "Самолёт",
+    "accepted_answers": [
+      "Самолёт",
+      "самолет"
+    ]
+  },
+  {
+    "id": "logic-0123",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "Страница относится к книге так же, как кадр относится к чему?",
+    "answer": "Фильм",
+    "accepted_answers": [
+      "Фильм",
+      "кино"
+    ]
+  },
+  {
+    "id": "logic-0124",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "Буква относится к слову так же, как слово относится к чему?",
+    "answer": "Предложение",
+    "accepted_answers": [
+      "Предложение"
+    ]
+  },
+  {
+    "id": "logic-0125",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "День относится к неделе так же, как месяц относится к чему?",
+    "answer": "Год",
+    "accepted_answers": [
+      "Год"
+    ]
+  },
+  {
+    "id": "logic-0126",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "Минута относится к часу так же, как сантиметр относится к чему?",
+    "answer": "Метр",
+    "accepted_answers": [
+      "Метр"
+    ]
+  },
+  {
+    "id": "logic-0127",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "Глаз относится к зрению так же, как ухо относится к чему?",
+    "answer": "Слух",
+    "accepted_answers": [
+      "Слух"
+    ]
+  },
+  {
+    "id": "logic-0128",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Аналогии",
+    "points": 2,
+    "question": "Нос относится к запаху так же, как язык относится к чему?",
+    "answer": "Вкус",
+    "accepted_answers": [
+      "Вкус"
+    ]
+  },
+  {
+    "id": "logic-0162",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что принадлежит вам, но другие используют это чаще вас?",
+    "answer": "Имя",
+    "accepted_answers": [
+      "Имя",
+      "ваше имя"
+    ]
+  },
+  {
+    "id": "logic-0164",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что поднимается вверх, но никогда не опускается?",
+    "answer": "Возраст",
+    "accepted_answers": [
+      "Возраст"
+    ]
+  },
+  {
+    "id": "logic-0168",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что имеет много ключей, но не открывает дверей?",
+    "answer": "Пианино",
+    "accepted_answers": [
+      "Пианино",
+      "рояль",
+      "клавиатура"
+    ]
+  },
+  {
+    "id": "logic-0171",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Чем больше из неё берёшь, тем больше она становится. Что это?",
+    "answer": "Яма",
+    "accepted_answers": [
+      "Яма"
+    ]
+  },
+  {
+    "id": "logic-0172",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что идёт из города в город, но остаётся на месте?",
+    "answer": "Дорога",
+    "accepted_answers": [
+      "Дорога"
+    ]
+  },
+  {
+    "id": "logic-0173",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что имеет города, но не имеет домов; реки, но не имеет воды?",
+    "answer": "Карта",
+    "accepted_answers": [
+      "Карта"
+    ]
+  },
+  {
+    "id": "logic-0174",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что всегда перед вами, но вы этого не видите?",
+    "answer": "Будущее",
+    "accepted_answers": [
+      "Будущее"
+    ]
+  },
+  {
+    "id": "logic-0175",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что можно держать только после того, как отдашь?",
+    "answer": "Слово",
+    "accepted_answers": [
+      "Слово"
+    ]
+  },
+  {
+    "id": "logic-0161",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что становится мокрее, пока сушит?",
+    "answer": "Полотенце",
+    "accepted_answers": [
+      "Полотенце"
+    ]
+  },
+  {
+    "id": "logic-0163",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что можно увидеть с закрытыми глазами?",
+    "answer": "Сон",
+    "accepted_answers": [
+      "Сон",
+      "сны"
+    ]
+  },
+  {
+    "id": "logic-0194",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 3,
+    "question": "Какой предмет имеет экран, но не защищает от солнца?",
+    "answer": "Телевизор",
+    "accepted_answers": [
+      "Телевизор",
+      "телефон",
+      "монитор"
+    ]
+  },
+  {
+    "id": "logic-0165",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "У чего есть зубья, но нет рта?",
+    "answer": "Расчёска",
+    "accepted_answers": [
+      "Расчёска",
+      "расческа"
+    ]
+  },
+  {
+    "id": "logic-0166",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "У чего есть горлышко, но нет головы?",
+    "answer": "Бутылка",
+    "accepted_answers": [
+      "Бутылка"
+    ]
+  },
+  {
+    "id": "logic-0181",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 3,
+    "question": "Чем можно наполнить комнату, не занимая в ней места?",
+    "answer": "Светом",
+    "accepted_answers": [
+      "Светом",
+      "свет"
+    ]
+  },
+  {
+    "id": "logic-0167",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 1,
+    "question": "Что имеет стрелки, но не умеет стрелять?",
+    "answer": "Часы",
+    "accepted_answers": [
+      "Часы"
+    ]
+  },
+  {
+    "id": "logic-0182",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 3,
+    "question": "Какой предмет показывает время, но сам никуда не спешит?",
+    "answer": "Часы",
+    "accepted_answers": [
+      "Часы"
+    ]
+  },
+  {
+    "id": "logic-0169",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что можно сломать, даже не касаясь?",
+    "answer": "Обещание",
+    "accepted_answers": [
+      "Обещание"
+    ]
+  },
+  {
+    "id": "logic-0170",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что можно поймать, но нельзя бросить?",
+    "answer": "Простуда",
+    "accepted_answers": [
+      "Простуда"
+    ]
+  },
+  {
+    "id": "logic-0190",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 4,
+    "question": "Что может путешествовать по миру, оставаясь в углу?",
+    "answer": "Почтовая марка",
+    "accepted_answers": [
+      "Почтовая марка",
+      "марка"
+    ]
+  },
+  {
+    "id": "logic-0176",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 3,
+    "question": "Что становится короче по мере работы?",
+    "answer": "Свеча",
+    "accepted_answers": [
+      "Свеча",
+      "карандаш"
+    ]
+  },
+  {
+    "id": "logic-0177",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что имеет четыре ноги, но не умеет ходить?",
+    "answer": "Стол",
+    "accepted_answers": [
+      "Стол"
+    ]
+  },
+  {
+    "id": "logic-0178",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что имеет одно ухо, но ничего не слышит?",
+    "answer": "Игла",
+    "accepted_answers": [
+      "Игла",
+      "иголка"
+    ]
+  },
+  {
+    "id": "logic-0193",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 4,
+    "question": "Что становится ценнее, когда им делятся с другими?",
+    "answer": "Знание",
+    "accepted_answers": [
+      "Знание",
+      "знания"
+    ]
+  },
+  {
+    "id": "logic-0179",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 2,
+    "question": "Что имеет много иголок, но не умеет шить?",
+    "answer": "Ёж",
+    "accepted_answers": [
+      "Ёж",
+      "еж",
+      "ёлка"
+    ]
+  },
+  {
+    "id": "logic-0180",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Загадки",
+    "points": 3,
+    "question": "Что летит без крыльев и плачет без глаз?",
+    "answer": "Туча",
+    "accepted_answers": [
+      "Туча",
+      "облако"
+    ]
+  },
+  {
+    "id": "logic-0236",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Ни один квадрат не является кругом. Фигура — квадрат. Может ли она быть кругом?",
+    "answer": "Нет",
+    "accepted_answers": [
+      "Нет"
+    ]
+  },
+  {
+    "id": "logic-0231",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Все розы — цветы. Этот букет состоит из роз. Из чего состоит букет?",
+    "answer": "Из цветов",
+    "accepted_answers": [
+      "Из цветов",
+      "цветы"
+    ]
+  },
+  {
+    "id": "logic-0232",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 3,
+    "question": "Все воробьи — птицы. Чик — воробей. К какому классу относится Чик?",
+    "answer": "Птицы",
+    "accepted_answers": [
+      "Птицы",
+      "птица"
+    ]
+  },
+  {
+    "id": "logic-0233",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Если идёт дождь, дорога мокрая. Идёт дождь. Какая дорога?",
+    "answer": "Мокрая",
+    "accepted_answers": [
+      "Мокрая"
+    ]
+  },
+  {
+    "id": "logic-0234",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 3,
+    "question": "Все книги на верхней полке красные. Эта книга с верхней полки. Какого она цвета?",
+    "answer": "Красного",
+    "accepted_answers": [
+      "Красного",
+      "красная",
+      "красный"
+    ]
+  },
+  {
+    "id": "logic-0235",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Каждый участник команды получил значок. Лена — участник команды. Что получила Лена?",
+    "answer": "Значок",
+    "accepted_answers": [
+      "Значок"
+    ]
+  },
+  {
+    "id": "logic-0237",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Все металлические ложки проводят тепло. Эта ложка металлическая. Проводит ли она тепло?",
+    "answer": "Да",
+    "accepted_answers": [
+      "Да"
+    ]
+  },
+  {
+    "id": "logic-0238",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Если лампа включена, в комнате светло. Лампа включена. Что можно сказать о комнате?",
+    "answer": "В комнате светло",
+    "accepted_answers": [
+      "В комнате светло",
+      "светло"
+    ]
+  },
+  {
+    "id": "logic-0239",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Каждый понедельник магазин закрыт. Сегодня понедельник. Открыт ли магазин?",
+    "answer": "Нет",
+    "accepted_answers": [
+      "Нет"
+    ]
+  },
+  {
+    "id": "logic-0240",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Все билеты с буквой A выигрышные. На билете буква A. Какой это билет?",
+    "answer": "Выигрышный",
+    "accepted_answers": [
+      "Выигрышный"
+    ]
+  },
+  {
+    "id": "logic-0241",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Маша стоит левее Коли, а Коля левее Пети. Кто стоит посередине?",
+    "answer": "Коля",
+    "accepted_answers": [
+      "Коля"
+    ]
+  },
+  {
+    "id": "logic-0242",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 4,
+    "question": "Красная книга лежит выше синей, а синяя выше зелёной. Какая книга внизу?",
+    "answer": "Зелёная",
+    "accepted_answers": [
+      "Зелёная",
+      "зелёная книга"
+    ]
+  },
+  {
+    "id": "logic-0243",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 3,
+    "question": "Дом А находится севернее дома Б, а дом Б севернее дома В. Какой дом южнее всех?",
+    "answer": "Дом В",
+    "accepted_answers": [
+      "Дом В",
+      "В"
+    ]
+  },
+  {
+    "id": "logic-0244",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "В очереди Оля стоит перед Ирой, а Ира перед Таней. Кто стоит последней?",
+    "answer": "Таня",
+    "accepted_answers": [
+      "Таня"
+    ]
+  },
+  {
+    "id": "logic-0245",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "На полке чай стоит левее кофе, а кофе левее какао. Что стоит в центре?",
+    "answer": "Кофе",
+    "accepted_answers": [
+      "Кофе"
+    ]
+  },
+  {
+    "id": "logic-0246",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Синий шар тяжелее красного, а красный тяжелее белого. Какой шар самый лёгкий?",
+    "answer": "Белый",
+    "accepted_answers": [
+      "Белый",
+      "белый шар"
+    ]
+  },
+  {
+    "id": "logic-0247",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Первый поезд медленнее второго, а второй медленнее третьего. Какой поезд самый быстрый?",
+    "answer": "Третий",
+    "accepted_answers": [
+      "Третий",
+      "третий поезд"
+    ]
+  },
+  {
+    "id": "logic-0248",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "У Кати больше книг, чем у Лены, но меньше, чем у Маши. У кого больше всего книг?",
+    "answer": "У Маши",
+    "accepted_answers": [
+      "У Маши",
+      "Маша"
+    ]
+  },
+  {
+    "id": "logic-0249",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Саша пришёл позже Димы, но раньше Паши. Кто пришёл первым?",
+    "answer": "Дима",
+    "accepted_answers": [
+      "Дима"
+    ]
+  },
+  {
+    "id": "logic-0250",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Белая коробка меньше серой, а серая меньше чёрной. Какая коробка самая большая?",
+    "answer": "Чёрная",
+    "accepted_answers": [
+      "Чёрная",
+      "чёрная коробка"
+    ]
+  },
+  {
+    "id": "logic-0251",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "У Ани одна сестра Маша. У Маши есть сестра. Кто это?",
+    "answer": "Аня",
+    "accepted_answers": [
+      "Аня"
+    ]
+  },
+  {
+    "id": "logic-0252",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 6,
+    "question": "У двух братьев одна общая сестра. Сколько всего детей в семье?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "logic-0253",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 5,
+    "question": "Отец Сергея — сын дедушки Петра. Кем Пётр приходится Сергею?",
+    "answer": "Дедушкой",
+    "accepted_answers": [
+      "Дедушкой",
+      "дедушка"
+    ]
+  },
+  {
+    "id": "logic-0254",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 6,
+    "question": "Мама Оли — сестра папы Кати. Кем Оля и Катя приходятся друг другу?",
+    "answer": "Двоюродными сёстрами",
+    "accepted_answers": [
+      "Двоюродными сёстрами",
+      "двоюродные сестры",
+      "кузины"
+    ]
+  },
+  {
+    "id": "logic-0255",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 6,
+    "question": "Иван — брат Марии, а Мария — мама Лены. Кем Иван приходится Лене?",
+    "answer": "Дядей",
+    "accepted_answers": [
+      "Дядей",
+      "дядя"
+    ]
+  },
+  {
+    "id": "logic-0256",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 6,
+    "question": "Анна — дочь бабушки Нины и мама Пети. Кем Нина приходится Пете?",
+    "answer": "Бабушкой",
+    "accepted_answers": [
+      "Бабушкой",
+      "бабушка"
+    ]
+  },
+  {
+    "id": "logic-0257",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Вывод из условий",
+    "points": 6,
+    "question": "У Лены есть брат Саша. Саша — сын Олега. Кем Олег приходится Лене?",
+    "answer": "Отцом",
+    "accepted_answers": [
+      "Отцом",
+      "папа",
+      "отец"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0001",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Практическая логика",
+    "points": 8,
+    "question": "Перед закрытой комнатой находятся три выключателя. Только один включает лампу внутри. В комнату можно войти лишь один раз. Как определить нужный выключатель?",
+    "answer": "Один выключатель включить и подождать, затем выключить; второй включить и войти. Горящая лампа укажет на второй, тёплая — на первый, холодная — на третий.",
+    "accepted_answers": [
+      "Использовать свет и нагрев лампы",
+      "Проверить горящую и тёплую лампу"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0002",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Практическая логика",
+    "points": 8,
+    "question": "Есть две верёвки. Каждая полностью сгорает за час, но горит неравномерно. Как с их помощью отмерить ровно 45 минут?",
+    "answer": "Первую поджечь с двух концов, вторую — с одного. Через 30 минут первая сгорит; тогда поджечь второй конец второй верёвки, и она догорит за 15 минут.",
+    "accepted_answers": [
+      "Первую поджечь с двух концов, вторую с одного, затем поджечь второй конец"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0003",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Практическая логика",
+    "points": 8,
+    "question": "Есть восемь одинаковых на вид шаров, но один тяжелее остальных. Как найти его за два взвешивания на чашечных весах без гирь?",
+    "answer": "Взвесить три шара против трёх. Если равны — тяжёлый среди двух оставшихся; если нет — в более тяжёлой тройке. Затем взвесить два шара из нужной группы.",
+    "accepted_answers": [
+      "Сначала три против трёх, затем один против одного"
+    ]
+  },
+  {
+    "id": "logic-0262",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 2,
+    "question": "Что тяжелее: килограмм железа или килограмм ваты?",
+    "answer": "Они весят одинаково",
+    "accepted_answers": [
+      "Они весят одинаково",
+      "одинаково"
+    ]
+  },
+  {
+    "id": "logic-0263",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "Два отца и два сына съели три яблока, каждому досталось по одному. Сколько было людей?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "logic-0264",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "У вас было три яблока, и вы взяли два. Сколько яблок у вас стало?",
+    "answer": "2",
+    "accepted_answers": [
+      "2"
+    ]
+  },
+  {
+    "id": "logic-0265",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 2,
+    "question": "Петух снёс яйцо на крыше. В какую сторону оно покатится?",
+    "answer": "Петухи не несут яйца",
+    "accepted_answers": [
+      "Петухи не несут яйца",
+      "ни в какую"
+    ]
+  },
+  {
+    "id": "logic-0266",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "Перед вами свеча, лампа и камин. Что нужно зажечь первым?",
+    "answer": "Спичку",
+    "accepted_answers": [
+      "Спичку"
+    ]
+  },
+  {
+    "id": "logic-0267",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "Часы отбивают 6 ударов за 5 секунд. За сколько секунд они отобьют 12 ударов?",
+    "answer": "11 секунд",
+    "accepted_answers": [
+      "11 секунд",
+      "11"
+    ]
+  },
+  {
+    "id": "logic-0268",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "У семи сестёр есть один общий брат. Сколько всего детей?",
+    "answer": "8",
+    "accepted_answers": [
+      "8"
+    ]
+  },
+  {
+    "id": "logic-0269",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "Вы обогнали бегуна, который был вторым. Каким вы стали?",
+    "answer": "Вторым",
+    "accepted_answers": [
+      "Вторым",
+      "2"
+    ]
+  },
+  {
+    "id": "logic-0271",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "На дереве сидели пять птиц. Охотник выстрелил, остальные улетели. Сколько птиц осталось сидеть?",
+    "answer": "Ни одной",
+    "accepted_answers": [
+      "Ни одной",
+      "0"
+    ]
+  },
+  {
+    "id": "logic-0261",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 3,
+    "question": "Сколько месяцев в году имеют 28 дней?",
+    "answer": "12",
+    "accepted_answers": [
+      "12",
+      "Все 12"
+    ]
+  },
+  {
+    "id": "logic-0273",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "У палки два конца. Сколько концов у двух с половиной палок?",
+    "answer": "6",
+    "accepted_answers": [
+      "6"
+    ]
+  },
+  {
+    "id": "logic-0287",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Может ли мужчина жениться на сестре своей вдовы?",
+    "answer": "Нет, он уже умер",
+    "accepted_answers": [
+      "Нет, он уже умер",
+      "нет"
+    ]
+  },
+  {
+    "id": "logic-0275",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "Сколько животных каждого вида Моисей взял в ковчег?",
+    "answer": "Ни одного, ковчег строил Ной",
+    "accepted_answers": [
+      "Ни одного, ковчег строил Ной",
+      "0",
+      "ни одного"
+    ]
+  },
+  {
+    "id": "logic-0276",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "В комнате четыре угла. В каждом углу сидит кошка. Сколько кошек в комнате?",
+    "answer": "4",
+    "accepted_answers": [
+      "4"
+    ]
+  },
+  {
+    "id": "logic-0277",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "На столе лежат две монеты общей суммой 15 рублей. Одна из них не 5 рублей. Какие это монеты?",
+    "answer": "10 и 5 рублей",
+    "accepted_answers": [
+      "10 и 5 рублей",
+      "10 рублей и 5 рублей"
+    ]
+  },
+  {
+    "id": "logic-0278",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "У фермера было 17 овец. Все, кроме девяти, убежали. Сколько осталось?",
+    "answer": "9",
+    "accepted_answers": [
+      "9"
+    ]
+  },
+  {
+    "id": "logic-0279",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "В семье у каждого из шести братьев есть одна сестра. Сколько детей в семье?",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "logic-0282",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Если бросить белый камень в Чёрное море, каким он станет?",
+    "answer": "Мокрым",
+    "accepted_answers": [
+      "Мокрым"
+    ]
+  },
+  {
+    "id": "logic-0285",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Врач дал три таблетки и велел принимать по одной каждые полчаса. На сколько времени их хватит?",
+    "answer": "На один час",
+    "accepted_answers": [
+      "На один час",
+      "1 час"
+    ]
+  },
+  {
+    "id": "logic-0286",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Водитель проехал на красный свет, но не нарушил правила. Как это возможно?",
+    "answer": "Он шёл пешком",
+    "accepted_answers": [
+      "Он шёл пешком",
+      "водитель был пешеходом"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0006",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Невысокий человек живёт на десятом этаже. Обычно он едет на лифте до седьмого и идёт выше пешком, а в дождь едет сразу до десятого. Почему?",
+    "answer": "Он не достаёт до кнопки десятого этажа, а в дождь нажимает её зонтом.",
+    "accepted_answers": [
+      "В дождь он нажимает кнопку зонтом",
+      "Он невысокий и не достаёт до верхней кнопки"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0004",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Два человека сыграли пять партий в шахматы. Каждый выиграл одинаковое количество партий, и ничьих не было. Как это возможно?",
+    "answer": "Они играли не друг с другом.",
+    "accepted_answers": [
+      "Они играли с разными соперниками",
+      "Играли не друг с другом"
+    ]
+  },
+  {
+    "id": "logic-0291",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Что будет с красным платком, если опустить его на пять минут в воду?",
+    "answer": "Он намокнет",
+    "accepted_answers": [
+      "Он намокнет",
+      "станет мокрым"
+    ]
+  },
+  {
+    "id": "logic-0280",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "Как далеко собака может забежать в лес?",
+    "answer": "До середины леса",
+    "accepted_answers": [
+      "До середины леса",
+      "до середины"
+    ]
+  },
+  {
+    "id": "logic-0292",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Можно ли подпрыгнуть выше девятиэтажного дома?",
+    "answer": "Да, дома не прыгают",
+    "accepted_answers": [
+      "Да, дома не прыгают",
+      "да"
+    ]
+  },
+  {
+    "id": "logic-0281",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "На какой вопрос нельзя честно ответить «да»?",
+    "answer": "«Вы спите?»",
+    "accepted_answers": [
+      "«Вы спите?»",
+      "ты спишь",
+      "вы сейчас спите"
+    ]
+  },
+  {
+    "id": "logic-0293",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "По дороге шли муж с женой, брат с сестрой и шурин с зятем. Сколько минимум человек могло быть?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "logic-0294",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "В каком слове из пяти букв остаётся одна буква, если убрать две первые и две последние?",
+    "answer": "Слово",
+    "accepted_answers": [
+      "Слово",
+      "слово «слово»"
+    ]
+  },
+  {
+    "id": "logic-0283",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Электричка едет на север. Куда летит дым?",
+    "answer": "У электрички нет дыма",
+    "accepted_answers": [
+      "У электрички нет дыма",
+      "никуда"
+    ]
+  },
+  {
+    "id": "logic-0295",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Если пять машин делают пять деталей за пять минут, сколько деталей сделают сто машин за пять минут?",
+    "answer": "100",
+    "accepted_answers": [
+      "100"
+    ]
+  },
+  {
+    "id": "logic-0284",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Сколько яиц можно съесть натощак?",
+    "answer": "Одно",
+    "accepted_answers": [
+      "Одно",
+      "1"
+    ]
+  },
+  {
+    "id": "reasoning-logic-0005",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 4,
+    "question": "Два ребёнка родились у одной матери в один день, час и год, но они не близнецы. Как это возможно?",
+    "answer": "Они входят в тройню или в большее число одновременно родившихся детей.",
+    "accepted_answers": [
+      "Они тройняшки",
+      "Они из тройни"
+    ]
+  },
+  {
+    "id": "logic-0296",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Три курицы несут три яйца за три дня. Сколько яиц снесут девять кур за девять дней?",
+    "answer": "27",
+    "accepted_answers": [
+      "27"
+    ]
+  },
+  {
+    "id": "logic-0297",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Кирпич весит килограмм и ещё полкирпича. Сколько весит кирпич?",
+    "answer": "2 килограмма",
+    "accepted_answers": [
+      "2 килограмма",
+      "2 кг",
+      "2"
+    ]
+  },
+  {
+    "id": "logic-0298",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "На часах 3:15. Какой угол примерно между минутной и часовой стрелками?",
+    "answer": "7,5 градуса",
+    "accepted_answers": [
+      "7,5 градуса",
+      "7.5",
+      "7,5°"
+    ]
+  },
+  {
+    "id": "logic-0270",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "Сколько раз можно вычесть 10 из 100?",
+    "answer": "Один раз",
+    "accepted_answers": [
+      "Один раз",
+      "1"
+    ]
+  },
+  {
+    "id": "logic-0299",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "У стола отпилили один угол. Сколько углов стало?",
+    "answer": "5",
+    "accepted_answers": [
+      "5"
+    ]
+  },
+  {
+    "id": "logic-0288",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Какая рука лучше размешивает чай?",
+    "answer": "Никакая, чай размешивают ложкой",
+    "accepted_answers": [
+      "Никакая, чай размешивают ложкой",
+      "ложка"
+    ]
+  },
+  {
+    "id": "logic-0272",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 5,
+    "question": "В корзине пять яблок. Как раздать их пяти людям, чтобы одно яблоко осталось в корзине?",
+    "answer": "Последнему отдать яблоко вместе с корзиной",
+    "accepted_answers": [
+      "Последнему отдать яблоко вместе с корзиной",
+      "отдать корзину с яблоком"
+    ]
+  },
+  {
+    "id": "logic-0300",
+    "category": "Логика",
+    "category_key": "logic",
+    "subcategory": "Внимательность",
+    "points": 6,
+    "question": "Сколько букв в слове «алфавит»?",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "general-0005",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Какая частица атома имеет отрицательный заряд?",
+    "answer": "Электрон",
+    "accepted_answers": [
+      "Электрон"
+    ]
+  },
+  {
+    "id": "general-0006",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Какая частица атома имеет положительный заряд?",
+    "answer": "Протон",
+    "accepted_answers": [
+      "Протон"
+    ]
+  },
+  {
+    "id": "general-0007",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Какая частица атомного ядра не имеет электрического заряда?",
+    "answer": "Нейтрон",
+    "accepted_answers": [
+      "Нейтрон"
+    ]
+  },
+  {
+    "id": "general-0017",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "Может ли звук распространяться в полном вакууме?",
+    "answer": "Нет",
+    "accepted_answers": [
+      "Нет"
+    ]
+  },
+  {
+    "id": "general-0008",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "Как называются три привычных состояния вещества?",
+    "answer": "Твёрдое, жидкое и газообразное",
+    "accepted_answers": [
+      "Твёрдое, жидкое и газообразное",
+      "твердое, жидкое и газообразное"
+    ]
+  },
+  {
+    "id": "general-0009",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "При какой температуре по Цельсию вода обычно кипит на уровне моря?",
+    "answer": "100 °C",
+    "accepted_answers": [
+      "100 °C",
+      "100 градусов",
+      "100"
+    ]
+  },
+  {
+    "id": "general-0010",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "При какой температуре по Цельсию вода замерзает?",
+    "answer": "0 °C",
+    "accepted_answers": [
+      "0 °C",
+      "0 градусов",
+      "0"
+    ]
+  },
+  {
+    "id": "general-0011",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "Какой металл остаётся жидким при комнатной температуре?",
+    "answer": "Ртуть",
+    "accepted_answers": [
+      "Ртуть"
+    ]
+  },
+  {
+    "id": "general-0012",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "Каким лёгким газом часто наполняют воздушные шары?",
+    "answer": "Гелий",
+    "accepted_answers": [
+      "Гелий"
+    ]
+  },
+  {
+    "id": "general-0014",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "Какая кислота придаёт лимону характерный кислый вкус?",
+    "answer": "Лимонная кислота",
+    "accepted_answers": [
+      "Лимонная кислота"
+    ]
+  },
+  {
+    "id": "general-0001",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Какова химическая формула воды?",
+    "answer": "H₂O",
+    "accepted_answers": [
+      "H₂O",
+      "H2O"
+    ]
+  },
+  {
+    "id": "general-0002",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Как называется газ с формулой CO₂?",
+    "answer": "Углекислый газ",
+    "accepted_answers": [
+      "Углекислый газ",
+      "диоксид углерода"
+    ]
+  },
+  {
+    "id": "general-0003",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 2,
+    "question": "Как называется газ с формулой O₂?",
+    "answer": "Кислород",
+    "accepted_answers": [
+      "Кислород"
+    ]
+  },
+  {
+    "id": "general-0004",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 1,
+    "question": "Что находится в центре атома?",
+    "answer": "Ядро",
+    "accepted_answers": [
+      "Ядро"
+    ]
+  },
+  {
+    "id": "general-0019",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "В каких единицах измеряют силу электрического тока?",
+    "answer": "Амперы",
+    "accepted_answers": [
+      "Амперы",
+      "ампер"
+    ]
+  },
+  {
+    "id": "general-0020",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "В каких единицах измеряют электрическое напряжение?",
+    "answer": "Вольты",
+    "accepted_answers": [
+      "Вольты",
+      "вольт"
+    ]
+  },
+  {
+    "id": "general-0022",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "В каких единицах измеряют энергию в системе СИ?",
+    "answer": "Джоули",
+    "accepted_answers": [
+      "Джоули",
+      "джоуль"
+    ]
+  },
+  {
+    "id": "general-0023",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "В каких единицах измеряют давление в системе СИ?",
+    "answer": "Паскали",
+    "accepted_answers": [
+      "Паскали",
+      "паскаль"
+    ]
+  },
+  {
+    "id": "general-0026",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Какой прозрачный предмет раскладывает белый свет в спектр?",
+    "answer": "Призма",
+    "accepted_answers": [
+      "Призма"
+    ]
+  },
+  {
+    "id": "general-0027",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Как называется возвращение света от поверхности?",
+    "answer": "Отражение",
+    "accepted_answers": [
+      "Отражение"
+    ]
+  },
+  {
+    "id": "general-0013",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "Какое значение pH считается нейтральным?",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "general-0029",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Сколько цветов традиционно выделяют в радуге?",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "general-0015",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "Какой металл ржавеет?",
+    "answer": "Железо",
+    "accepted_answers": [
+      "Железо"
+    ]
+  },
+  {
+    "id": "general-0030",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Какой цвет получится при смешивании красной и синей краски?",
+    "answer": "Фиолетовый",
+    "accepted_answers": [
+      "Фиолетовый"
+    ]
+  },
+  {
+    "id": "general-0016",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "Какая сила притягивает предметы к Земле?",
+    "answer": "Сила тяжести",
+    "accepted_answers": [
+      "Сила тяжести",
+      "гравитация"
+    ]
+  },
+  {
+    "id": "general-0031",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Как называют материал, через который хорошо проходит свет?",
+    "answer": "Прозрачный",
+    "accepted_answers": [
+      "Прозрачный",
+      "прозрачный материал"
+    ]
+  },
+  {
+    "id": "general-0021",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 3,
+    "question": "В каких единицах измеряют мощность?",
+    "answer": "Ватты",
+    "accepted_answers": [
+      "Ватты",
+      "ватт"
+    ]
+  },
+  {
+    "id": "general-0036",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 5,
+    "question": "Из какого химического элемента состоит алмаз?",
+    "answer": "Углерод",
+    "accepted_answers": [
+      "Углерод"
+    ]
+  },
+  {
+    "id": "general-0037",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 5,
+    "question": "Из какого химического элемента в основном состоит графит карандаша?",
+    "answer": "Углерод",
+    "accepted_answers": [
+      "Углерод"
+    ]
+  },
+  {
+    "id": "general-0024",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Какой прибор измеряет температуру?",
+    "answer": "Термометр",
+    "accepted_answers": [
+      "Термометр"
+    ]
+  },
+  {
+    "id": "general-0025",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Какой прибор измеряет атмосферное давление?",
+    "answer": "Барометр",
+    "accepted_answers": [
+      "Барометр"
+    ]
+  },
+  {
+    "id": "general-0040",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 5,
+    "question": "Какая кислота содержится в обычном столовом уксусе?",
+    "answer": "Уксусная кислота",
+    "accepted_answers": [
+      "Уксусная кислота"
+    ]
+  },
+  {
+    "id": "general-0042",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 5,
+    "question": "Какой химический элемент самый распространённый во Вселенной?",
+    "answer": "Водород",
+    "accepted_answers": [
+      "Водород"
+    ]
+  },
+  {
+    "id": "general-0028",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 4,
+    "question": "Какая оптическая деталь используется в лупе?",
+    "answer": "Линза",
+    "accepted_answers": [
+      "Линза"
+    ]
+  },
+  {
+    "id": "general-0044",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Наука вокруг нас",
+    "points": 6,
+    "question": "Почему лёд плавает на воде?",
+    "answer": "Он менее плотный, чем вода",
+    "accepted_answers": [
+      "Он менее плотный, чем вода",
+      "плотность льда меньше"
+    ]
+  },
+  {
+    "id": "general-0052",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 1,
+    "question": "Как называется система спутниковой навигации, которой пользуются телефоны и автомобили?",
+    "answer": "GPS",
+    "accepted_answers": [
+      "GPS"
+    ]
+  },
+  {
+    "id": "general-0053",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 1,
+    "question": "Что кодирует квадратный чёрно-белый рисунок, считываемый камерой телефона?",
+    "answer": "QR-код",
+    "accepted_answers": [
+      "QR-код",
+      "QR код"
+    ]
+  },
+  {
+    "id": "general-0055",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется главный вычислительный компонент компьютера?",
+    "answer": "Процессор",
+    "accepted_answers": [
+      "Процессор",
+      "CPU"
+    ]
+  },
+  {
+    "id": "general-0056",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется быстрая временная память компьютера?",
+    "answer": "Оперативная память",
+    "accepted_answers": [
+      "Оперативная память",
+      "RAM",
+      "ОЗУ"
+    ]
+  },
+  {
+    "id": "general-0057",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется программа, управляющая работой компьютера или телефона?",
+    "answer": "Операционная система",
+    "accepted_answers": [
+      "Операционная система",
+      "ОС"
+    ]
+  },
+  {
+    "id": "general-0058",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется программа для просмотра сайтов?",
+    "answer": "Браузер",
+    "accepted_answers": [
+      "Браузер"
+    ]
+  },
+  {
+    "id": "general-0060",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Какой язык разметки лежит в основе большинства веб-страниц?",
+    "answer": "HTML",
+    "accepted_answers": [
+      "HTML"
+    ]
+  },
+  {
+    "id": "general-0061",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Какой формат документов создан для одинакового отображения на разных устройствах?",
+    "answer": "PDF",
+    "accepted_answers": [
+      "PDF"
+    ]
+  },
+  {
+    "id": "general-0062",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется беспроводная технология подключения к локальной сети и интернету?",
+    "answer": "Wi‑Fi",
+    "accepted_answers": [
+      "Wi‑Fi",
+      "Wi-Fi",
+      "вайфай"
+    ]
+  },
+  {
+    "id": "general-0063",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется беспроводная технология для наушников и коротких соединений между устройствами?",
+    "answer": "Bluetooth",
+    "accepted_answers": [
+      "Bluetooth",
+      "блютуз"
+    ]
+  },
+  {
+    "id": "general-0064",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется хранение файлов на удалённых интернет-серверах?",
+    "answer": "Облачное хранение",
+    "accepted_answers": [
+      "Облачное хранение",
+      "облако"
+    ]
+  },
+  {
+    "id": "general-0065",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Сколько цифр используется в двоичной системе счисления?",
+    "answer": "2",
+    "accepted_answers": [
+      "2"
+    ]
+  },
+  {
+    "id": "general-0066",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называются минимальные точки, из которых состоит цифровое изображение?",
+    "answer": "Пиксели",
+    "accepted_answers": [
+      "Пиксели",
+      "пиксель"
+    ]
+  },
+  {
+    "id": "general-0068",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называется устройство, преобразующее бумажный документ в цифровое изображение?",
+    "answer": "Сканер",
+    "accepted_answers": [
+      "Сканер"
+    ]
+  },
+  {
+    "id": "general-0069",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называется устройство, печатающее объёмные предметы слой за слоем?",
+    "answer": "3D-принтер",
+    "accepted_answers": [
+      "3D-принтер",
+      "3D принтер"
+    ]
+  },
+  {
+    "id": "general-0070",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называется рисунок из полос, который считывают на кассе?",
+    "answer": "Штрихкод",
+    "accepted_answers": [
+      "Штрихкод",
+      "штрих-код"
+    ]
+  },
+  {
+    "id": "general-0071",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называется устройство для управления указателем на компьютере?",
+    "answer": "Мышь",
+    "accepted_answers": [
+      "Мышь",
+      "компьютерная мышь"
+    ]
+  },
+  {
+    "id": "general-0072",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называется экран, реагирующий на касание пальца?",
+    "answer": "Сенсорный экран",
+    "accepted_answers": [
+      "Сенсорный экран",
+      "тачскрин"
+    ]
+  },
+  {
+    "id": "general-0073",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Какой символ обязательно используется в обычном адресе электронной почты?",
+    "answer": "@",
+    "accepted_answers": [
+      "@",
+      "собака"
+    ]
+  },
+  {
+    "id": "general-0059",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 2,
+    "question": "Как называется адрес страницы в интернете?",
+    "answer": "URL",
+    "accepted_answers": [
+      "URL",
+      "веб-адрес",
+      "ссылка"
+    ]
+  },
+  {
+    "id": "general-0074",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 3,
+    "question": "Как называют нежелательные массовые электронные сообщения?",
+    "answer": "Спам",
+    "accepted_answers": [
+      "Спам"
+    ]
+  },
+  {
+    "id": "general-0075",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 4,
+    "question": "Как называется программа, ищущая вредоносные файлы?",
+    "answer": "Антивирус",
+    "accepted_answers": [
+      "Антивирус"
+    ]
+  },
+  {
+    "id": "general-0076",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 4,
+    "question": "Как называется система, фильтрующая сетевой трафик для защиты устройства?",
+    "answer": "Межсетевой экран",
+    "accepted_answers": [
+      "Межсетевой экран",
+      "фаервол",
+      "firewall"
+    ]
+  },
+  {
+    "id": "general-0077",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 4,
+    "question": "Как называется превращение данных в нечитаемый вид для защиты?",
+    "answer": "Шифрование",
+    "accepted_answers": [
+      "Шифрование"
+    ]
+  },
+  {
+    "id": "general-0078",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Технологии",
+    "points": 4,
+    "question": "Как называется дополнительная копия данных на случай их потери?",
+    "answer": "Резервная копия",
+    "accepted_answers": [
+      "Резервная копия",
+      "бэкап",
+      "backup"
+    ]
+  },
+  {
+    "id": "general-0102",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 1,
+    "question": "Какой писатель отправил Раскольникова на преступление и последующее нравственное испытание?",
+    "answer": "Фёдор Достоевский",
+    "accepted_answers": [
+      "Фёдор Достоевский",
+      "Федор Достоевский",
+      "Достоевский"
+    ]
+  },
+  {
+    "id": "general-0112",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Кому приписывают авторство «Одиссеи»?",
+    "answer": "Гомер",
+    "accepted_answers": [
+      "Гомер"
+    ]
+  },
+  {
+    "id": "general-0101",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой писатель создал семьи Ростовых и Болконских в романе «Война и мир»?",
+    "answer": "Лев Толстой",
+    "accepted_answers": [
+      "Лев Толстой",
+      "Толстой"
+    ]
+  },
+  {
+    "id": "general-0103",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой писатель соединил в одном романе Москву, Воланда, Мастера и Понтия Пилата?",
+    "answer": "Михаил Булгаков",
+    "accepted_answers": [
+      "Михаил Булгаков",
+      "Булгаков"
+    ]
+  },
+  {
+    "id": "general-0118",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой писатель создал и антиутопию «1984», и сатирическую повесть «Скотный двор»?",
+    "answer": "Джордж Оруэлл",
+    "accepted_answers": [
+      "Джордж Оруэлл",
+      "Оруэлл"
+    ]
+  },
+  {
+    "id": "general-0104",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой поэт создал Евгения Онегина, Татьяну Ларину и знаменитое письмо героини?",
+    "answer": "Александр Пушкин",
+    "accepted_answers": [
+      "Александр Пушкин",
+      "Пушкин"
+    ]
+  },
+  {
+    "id": "general-0105",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой писатель отправил Чичикова скупать «мёртвые души»?",
+    "answer": "Николай Гоголь",
+    "accepted_answers": [
+      "Николай Гоголь",
+      "Гоголь"
+    ]
+  },
+  {
+    "id": "general-0106",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой писатель создал нигилиста Евгения Базарова в романе «Отцы и дети»?",
+    "answer": "Иван Тургенев",
+    "accepted_answers": [
+      "Иван Тургенев",
+      "Тургенев"
+    ]
+  },
+  {
+    "id": "general-0107",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой драматург написал пьесу о продаже дворянского имения с вишнёвым садом?",
+    "answer": "Антон Чехов",
+    "accepted_answers": [
+      "Антон Чехов",
+      "Чехов"
+    ]
+  },
+  {
+    "id": "general-0108",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой французский лётчик и писатель придумал Маленького принца и его Розу?",
+    "answer": "Антуан де Сент-Экзюпери",
+    "accepted_answers": [
+      "Антуан де Сент-Экзюпери",
+      "Сент-Экзюпери",
+      "Экзюпери"
+    ]
+  },
+  {
+    "id": "general-0109",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой испанский писатель отправил Дон Кихота сражаться с ветряными мельницами?",
+    "answer": "Мигель де Сервантес",
+    "accepted_answers": [
+      "Мигель де Сервантес",
+      "Сервантес"
+    ]
+  },
+  {
+    "id": "general-0124",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой писатель поселил сыщика Шерлока Холмса на Бейкер-стрит?",
+    "answer": "Артур Конан Дойл",
+    "accepted_answers": [
+      "Артур Конан Дойл",
+      "Конан Дойл"
+    ]
+  },
+  {
+    "id": "general-0110",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой английский драматург создал принца Гамлета, размышлявшего «быть или не быть»?",
+    "answer": "Уильям Шекспир",
+    "accepted_answers": [
+      "Уильям Шекспир",
+      "Шекспир"
+    ]
+  },
+  {
+    "id": "general-0111",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 2,
+    "question": "Какой драматург рассказал историю влюблённых из враждующих семей Монтекки и Капулетти?",
+    "answer": "Уильям Шекспир",
+    "accepted_answers": [
+      "Уильям Шекспир",
+      "Шекспир"
+    ]
+  },
+  {
+    "id": "general-0126",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой итальянский писатель создал деревянного мальчика Пиноккио?",
+    "answer": "Карло Коллоди",
+    "accepted_answers": [
+      "Карло Коллоди",
+      "Коллоди"
+    ]
+  },
+  {
+    "id": "general-0144",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "С каким художественным направлением особенно связывают Пабло Пикассо?",
+    "answer": "Кубизм",
+    "accepted_answers": [
+      "Кубизм"
+    ]
+  },
+  {
+    "id": "general-0145",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "С каким художественным направлением связывают Клода Моне?",
+    "answer": "Импрессионизм",
+    "accepted_answers": [
+      "Импрессионизм"
+    ]
+  },
+  {
+    "id": "general-0113",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой итальянский поэт провёл героя «Божественной комедии» через Ад, Чистилище и Рай?",
+    "answer": "Данте Алигьери",
+    "accepted_answers": [
+      "Данте Алигьери",
+      "Данте"
+    ]
+  },
+  {
+    "id": "general-0114",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой немецкий писатель рассказал о докторе Фаусте, заключившем сделку с Мефистофелем?",
+    "answer": "Иоганн Вольфганг Гёте",
+    "accepted_answers": [
+      "Иоганн Вольфганг Гёте",
+      "Гёте",
+      "Гете"
+    ]
+  },
+  {
+    "id": "general-0147",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "Как называется картина, на которой художник изображает самого себя?",
+    "answer": "Автопортрет",
+    "accepted_answers": [
+      "Автопортрет"
+    ]
+  },
+  {
+    "id": "general-0115",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой писатель оставил Робинзона Крузо в одиночестве на необитаемом острове?",
+    "answer": "Даниэль Дефо",
+    "accepted_answers": [
+      "Даниэль Дефо",
+      "Дефо"
+    ]
+  },
+  {
+    "id": "general-0130",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 4,
+    "question": "Какая шведская писательница придумала и Карлсона, и Пеппи Длинныйчулок?",
+    "answer": "Астрид Линдгрен",
+    "accepted_answers": [
+      "Астрид Линдгрен",
+      "Линдгрен"
+    ]
+  },
+  {
+    "id": "general-0148",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "Как называется изображение человека в живописи или фотографии?",
+    "answer": "Портрет",
+    "accepted_answers": [
+      "Портрет"
+    ]
+  },
+  {
+    "id": "general-0116",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой писатель отправил Гулливера в страну лилипутов?",
+    "answer": "Джонатан Свифт",
+    "accepted_answers": [
+      "Джонатан Свифт",
+      "Свифт"
+    ]
+  },
+  {
+    "id": "general-0149",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "Как называется жанр живописи с изображением природы?",
+    "answer": "Пейзаж",
+    "accepted_answers": [
+      "Пейзаж"
+    ]
+  },
+  {
+    "id": "general-0150",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 5,
+    "question": "Как называется жанр с изображением предметов, цветов или фруктов?",
+    "answer": "Натюрморт",
+    "accepted_answers": [
+      "Натюрморт"
+    ]
+  },
+  {
+    "id": "general-0136",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 4,
+    "question": "Кто расписал потолок Сикстинской капеллы?",
+    "answer": "Микеланджело",
+    "accepted_answers": [
+      "Микеланджело"
+    ]
+  },
+  {
+    "id": "general-0119",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 4,
+    "question": "Какой писатель придумал Средиземье, хоббита Бильбо и волшебника Гэндальфа?",
+    "answer": "Джон Рональд Руэл Толкин",
+    "accepted_answers": [
+      "Джон Рональд Руэл Толкин",
+      "Толкин",
+      "Дж. Р. Р. Толкин"
+    ]
+  },
+  {
+    "id": "general-0134",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 4,
+    "question": "Какой художник написал картину с мягкими, словно растаявшими часами?",
+    "answer": "Сальвадор Дали",
+    "accepted_answers": [
+      "Сальвадор Дали",
+      "Дали"
+    ]
+  },
+  {
+    "id": "general-0120",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Литература и искусство",
+    "points": 3,
+    "question": "Какой французский писатель объединил Атоса, Портоса и Арамиса в «Трёх мушкетёрах»?",
+    "answer": "Александр Дюма",
+    "accepted_answers": [
+      "Александр Дюма",
+      "Дюма"
+    ]
+  },
+  {
+    "id": "general-0151",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется слово с противоположным значением?",
+    "answer": "Антоним",
+    "accepted_answers": [
+      "Антоним"
+    ]
+  },
+  {
+    "id": "general-0153",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется слово, одинаково звучащее, но имеющее другое значение?",
+    "answer": "Омоним",
+    "accepted_answers": [
+      "Омоним"
+    ]
+  },
+  {
+    "id": "general-0154",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется устойчивая фраза с переносным смыслом?",
+    "answer": "Фразеологизм",
+    "accepted_answers": [
+      "Фразеологизм"
+    ]
+  },
+  {
+    "id": "general-0155",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется главная часть слова, общая для родственных слов?",
+    "answer": "Корень",
+    "accepted_answers": [
+      "Корень"
+    ]
+  },
+  {
+    "id": "general-0156",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется изменяемая часть слова в конце?",
+    "answer": "Окончание",
+    "accepted_answers": [
+      "Окончание"
+    ]
+  },
+  {
+    "id": "general-0157",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какая часть речи отвечает на вопросы «кто?» и «что?»?",
+    "answer": "Имя существительное",
+    "accepted_answers": [
+      "Имя существительное",
+      "существительное"
+    ]
+  },
+  {
+    "id": "general-0159",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какая часть речи обозначает признак предмета?",
+    "answer": "Имя прилагательное",
+    "accepted_answers": [
+      "Имя прилагательное",
+      "прилагательное"
+    ]
+  },
+  {
+    "id": "general-0160",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какой знак ставят в конце вопросительного предложения?",
+    "answer": "Вопросительный знак",
+    "accepted_answers": [
+      "Вопросительный знак",
+      "?"
+    ]
+  },
+  {
+    "id": "general-0161",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какой знак препинания обычно разделяет части перечисления?",
+    "answer": "Запятая",
+    "accepted_answers": [
+      "Запятая"
+    ]
+  },
+  {
+    "id": "general-0162",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Как называется короткое поучительное высказывание, передаваемое из поколения в поколение?",
+    "answer": "Пословица",
+    "accepted_answers": [
+      "Пословица"
+    ]
+  },
+  {
+    "id": "general-0163",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Как называется меткое образное выражение без законченного поучения?",
+    "answer": "Поговорка",
+    "accepted_answers": [
+      "Поговорка"
+    ]
+  },
+  {
+    "id": "general-0164",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какое слово является антонимом слова «широкий»?",
+    "answer": "Узкий",
+    "accepted_answers": [
+      "Узкий"
+    ]
+  },
+  {
+    "id": "general-0165",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какое слово является антонимом слова «громкий»?",
+    "answer": "Тихий",
+    "accepted_answers": [
+      "Тихий"
+    ]
+  },
+  {
+    "id": "general-0166",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какой синоним можно подобрать к слову «смелый»?",
+    "answer": "Храбрый",
+    "accepted_answers": [
+      "Храбрый",
+      "отважный"
+    ]
+  },
+  {
+    "id": "general-0152",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 1,
+    "question": "Как называется слово с близким значением?",
+    "answer": "Синоним",
+    "accepted_answers": [
+      "Синоним"
+    ]
+  },
+  {
+    "id": "general-0167",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какой синоним можно подобрать к слову «быстрый»?",
+    "answer": "Скорый",
+    "accepted_answers": [
+      "Скорый",
+      "стремительный"
+    ]
+  },
+  {
+    "id": "general-0168",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Как называется человек, который переводит устную или письменную речь?",
+    "answer": "Переводчик",
+    "accepted_answers": [
+      "Переводчик"
+    ]
+  },
+  {
+    "id": "general-0169",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется список слов с объяснениями или переводом?",
+    "answer": "Словарь",
+    "accepted_answers": [
+      "Словарь"
+    ]
+  },
+  {
+    "id": "general-0171",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется список блюд и напитков в ресторане?",
+    "answer": "Меню",
+    "accepted_answers": [
+      "Меню"
+    ]
+  },
+  {
+    "id": "general-0172",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется документ с перечнем дел и времени их выполнения?",
+    "answer": "Расписание",
+    "accepted_answers": [
+      "Расписание"
+    ]
+  },
+  {
+    "id": "general-0158",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 2,
+    "question": "Какая часть речи обозначает действие?",
+    "answer": "Глагол",
+    "accepted_answers": [
+      "Глагол"
+    ]
+  },
+  {
+    "id": "general-0173",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется краткая запись основных мыслей текста?",
+    "answer": "Конспект",
+    "accepted_answers": [
+      "Конспект"
+    ]
+  },
+  {
+    "id": "general-0174",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется текст, рассказывающий о жизни человека?",
+    "answer": "Биография",
+    "accepted_answers": [
+      "Биография"
+    ]
+  },
+  {
+    "id": "general-0175",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется биография, написанная самим человеком?",
+    "answer": "Автобиография",
+    "accepted_answers": [
+      "Автобиография"
+    ]
+  },
+  {
+    "id": "general-0176",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется вымышленное имя автора или артиста?",
+    "answer": "Псевдоним",
+    "accepted_answers": [
+      "Псевдоним"
+    ]
+  },
+  {
+    "id": "general-0177",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется сокращённое написание длинного названия первыми буквами?",
+    "answer": "Аббревиатура",
+    "accepted_answers": [
+      "Аббревиатура"
+    ]
+  },
+  {
+    "id": "general-0178",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется точное воспроизведение чужих слов?",
+    "answer": "Цитата",
+    "accepted_answers": [
+      "Цитата"
+    ]
+  },
+  {
+    "id": "general-0180",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 3,
+    "question": "Как называется речь одного человека без обмена репликами?",
+    "answer": "Монолог",
+    "accepted_answers": [
+      "Монолог"
+    ]
+  },
+  {
+    "id": "general-0181",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 4,
+    "question": "Как называется вступительная часть книги перед основным текстом?",
+    "answer": "Предисловие",
+    "accepted_answers": [
+      "Предисловие"
+    ]
+  },
+  {
+    "id": "general-0182",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Язык и повседневные понятия",
+    "points": 4,
+    "question": "Как называется список глав книги с номерами страниц?",
+    "answer": "Оглавление",
+    "accepted_answers": [
+      "Оглавление",
+      "содержание"
+    ]
+  },
+  {
+    "id": "general-0209",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Как называется известное тайское блюдо из жареной рисовой лапши?",
+    "answer": "Пад-тай",
+    "accepted_answers": [
+      "Пад-тай",
+      "пад тай"
+    ]
+  },
+  {
+    "id": "general-0203",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Какое испанское блюдо готовят из риса с морепродуктами или мясом?",
+    "answer": "Паэлья",
+    "accepted_answers": [
+      "Паэлья"
+    ]
+  },
+  {
+    "id": "general-0204",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Как называется мексиканская лепёшка с начинкой, сложенная или свёрнутая пополам?",
+    "answer": "Тако",
+    "accepted_answers": [
+      "Тако",
+      "такос"
+    ]
+  },
+  {
+    "id": "general-0205",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Как называется корейская острая закуска из ферментированных овощей?",
+    "answer": "Кимчи",
+    "accepted_answers": [
+      "Кимчи"
+    ]
+  },
+  {
+    "id": "general-0206",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Как называется ближневосточная паста из нута и тахини?",
+    "answer": "Хумус",
+    "accepted_answers": [
+      "Хумус"
+    ]
+  },
+  {
+    "id": "general-0207",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "Как называется швейцарское блюдо из расплавленного сыра?",
+    "answer": "Фондю",
+    "accepted_answers": [
+      "Фондю"
+    ]
+  },
+  {
+    "id": "general-0210",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется японский суп с лапшой и бульоном?",
+    "answer": "Рамен",
+    "accepted_answers": [
+      "Рамен"
+    ]
+  },
+  {
+    "id": "general-0211",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется греческий рассольный сыр из овечьего или козьего молока?",
+    "answer": "Фета",
+    "accepted_answers": [
+      "Фета"
+    ]
+  },
+  {
+    "id": "general-0212",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется итальянский соус из базилика, кедровых орехов, сыра и масла?",
+    "answer": "Песто",
+    "accepted_answers": [
+      "Песто"
+    ]
+  },
+  {
+    "id": "general-0201",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "С какой страной чаще всего связывают суши?",
+    "answer": "Япония",
+    "accepted_answers": [
+      "Япония"
+    ]
+  },
+  {
+    "id": "general-0202",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 1,
+    "question": "С какой страной чаще всего связывают пиццу?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "general-0217",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Из какой части растения получают обычный чёрный и зелёный чай?",
+    "answer": "Из листьев",
+    "accepted_answers": [
+      "Из листьев",
+      "чайные листья"
+    ]
+  },
+  {
+    "id": "general-0233",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 4,
+    "question": "Как называется процесс, благодаря которому тесто поднимается от работы дрожжей?",
+    "answer": "Брожение",
+    "accepted_answers": [
+      "Брожение",
+      "ферментация"
+    ]
+  },
+  {
+    "id": "general-0218",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называются обжаренные семена, из которых готовят кофе?",
+    "answer": "Кофейные зёрна",
+    "accepted_answers": [
+      "Кофейные зёрна",
+      "зерна кофе",
+      "кофейные зерна"
+    ]
+  },
+  {
+    "id": "general-0219",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется длинный французский хлеб с хрустящей коркой?",
+    "answer": "Багет",
+    "accepted_answers": [
+      "Багет"
+    ]
+  },
+  {
+    "id": "general-0220",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется итальянское блюдо из слоёв теста, соуса и начинки?",
+    "answer": "Лазанья",
+    "accepted_answers": [
+      "Лазанья"
+    ]
+  },
+  {
+    "id": "general-0221",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется небольшая итальянская паста в форме начиненных «пельменей»?",
+    "answer": "Равиоли",
+    "accepted_answers": [
+      "Равиоли"
+    ]
+  },
+  {
+    "id": "general-0222",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется восточная сладость из тонкого теста, орехов и сиропа?",
+    "answer": "Пахлава",
+    "accepted_answers": [
+      "Пахлава",
+      "баклава"
+    ]
+  },
+  {
+    "id": "general-0208",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется вьетнамский суп с лапшой?",
+    "answer": "Фо",
+    "accepted_answers": [
+      "Фо"
+    ]
+  },
+  {
+    "id": "general-0223",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется холодный испанский суп из томатов?",
+    "answer": "Гаспачо",
+    "accepted_answers": [
+      "Гаспачо"
+    ]
+  },
+  {
+    "id": "general-0224",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Как называется блюдо из сырой рыбы или мяса, нарезанных тонкими ломтиками?",
+    "answer": "Карпаччо",
+    "accepted_answers": [
+      "Карпаччо"
+    ]
+  },
+  {
+    "id": "general-0225",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется десерт из кофе, сыра маскарпоне и печенья савоярди?",
+    "answer": "Тирамису",
+    "accepted_answers": [
+      "Тирамису"
+    ]
+  },
+  {
+    "id": "general-0226",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется круглый французский десерт из миндальной муки с начинкой?",
+    "answer": "Макарон",
+    "accepted_answers": [
+      "Макарон",
+      "макаронс",
+      "macaron"
+    ]
+  },
+  {
+    "id": "general-0227",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется приготовление пищи в горячей воде?",
+    "answer": "Варка",
+    "accepted_answers": [
+      "Варка"
+    ]
+  },
+  {
+    "id": "general-0213",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Из какого плода делают гуакамоле?",
+    "answer": "Авокадо",
+    "accepted_answers": [
+      "Авокадо"
+    ]
+  },
+  {
+    "id": "general-0228",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется приготовление пищи в горячем воздухе духовки?",
+    "answer": "Запекание",
+    "accepted_answers": [
+      "Запекание"
+    ]
+  },
+  {
+    "id": "general-0214",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Из какой бобовой культуры делают тофу?",
+    "answer": "Соя",
+    "accepted_answers": [
+      "Соя",
+      "соевые бобы"
+    ]
+  },
+  {
+    "id": "general-0229",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется приготовление продуктов над углями или открытым жаром?",
+    "answer": "Гриль",
+    "accepted_answers": [
+      "Гриль",
+      "жарка на гриле"
+    ]
+  },
+  {
+    "id": "general-0215",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 2,
+    "question": "Из какого растения получают попкорн?",
+    "answer": "Кукуруза",
+    "accepted_answers": [
+      "Кукуруза"
+    ]
+  },
+  {
+    "id": "general-0230",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Еда и культура",
+    "points": 3,
+    "question": "Как называется приготовление пищи водяным паром?",
+    "answer": "Готовка на пару",
+    "accepted_answers": [
+      "Готовка на пару",
+      "на пару"
+    ]
+  },
+  {
+    "id": "general-0251",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 1,
+    "question": "Сколько игроков одной футбольной команды одновременно находится на поле в обычном матче?",
+    "answer": "11",
+    "accepted_answers": [
+      "11"
+    ]
+  },
+  {
+    "id": "general-0252",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 1,
+    "question": "Как называется удар по воротам с одиннадцатиметровой отметки в футболе?",
+    "answer": "Пенальти",
+    "accepted_answers": [
+      "Пенальти"
+    ]
+  },
+  {
+    "id": "general-0254",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 1,
+    "question": "Какого цвета карточка означает удаление футболиста?",
+    "answer": "Красная",
+    "accepted_answers": [
+      "Красная"
+    ]
+  },
+  {
+    "id": "general-0256",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько очков обычно дают за победу в футбольном чемпионате?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "general-0257",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько игроков одной баскетбольной команды одновременно находится на площадке?",
+    "answer": "5",
+    "accepted_answers": [
+      "5"
+    ]
+  },
+  {
+    "id": "general-0258",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько очков даёт обычный штрафной бросок в баскетболе?",
+    "answer": "1",
+    "accepted_answers": [
+      "1"
+    ]
+  },
+  {
+    "id": "general-0259",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько очков даёт бросок из-за трёхочковой линии?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "general-0260",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Как называется ведение мяча ударами об пол в баскетболе?",
+    "answer": "Дриблинг",
+    "accepted_answers": [
+      "Дриблинг"
+    ]
+  },
+  {
+    "id": "general-0261",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько игроков одной волейбольной команды находится на площадке?",
+    "answer": "6",
+    "accepted_answers": [
+      "6"
+    ]
+  },
+  {
+    "id": "general-0262",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "До скольких очков обычно играют сет в волейболе, кроме решающего?",
+    "answer": "25",
+    "accepted_answers": [
+      "25"
+    ]
+  },
+  {
+    "id": "general-0263",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Как называется сильный атакующий удар сверху в волейболе?",
+    "answer": "Смэш",
+    "accepted_answers": [
+      "Смэш",
+      "нападающий удар"
+    ]
+  },
+  {
+    "id": "general-0266",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Сколько сетов нужно выиграть женщине в большинстве теннисных матчей турниров Большого шлема?",
+    "answer": "2",
+    "accepted_answers": [
+      "2"
+    ]
+  },
+  {
+    "id": "general-0253",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 1,
+    "question": "Как называется положение вне игры в футболе?",
+    "answer": "Офсайд",
+    "accepted_answers": [
+      "Офсайд"
+    ]
+  },
+  {
+    "id": "general-0255",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Сколько таймов в обычном футбольном матче?",
+    "answer": "2",
+    "accepted_answers": [
+      "2"
+    ]
+  },
+  {
+    "id": "general-0270",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Какая шахматная фигура может ходить на любое число клеток по прямой и диагонали?",
+    "answer": "Ферзь",
+    "accepted_answers": [
+      "Ферзь"
+    ]
+  },
+  {
+    "id": "general-0271",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется положение, когда королю угрожает взятие?",
+    "answer": "Шах",
+    "accepted_answers": [
+      "Шах"
+    ]
+  },
+  {
+    "id": "general-0272",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется окончание шахматной партии, когда королю некуда уйти от шаха?",
+    "answer": "Мат",
+    "accepted_answers": [
+      "Мат"
+    ]
+  },
+  {
+    "id": "general-0274",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как часто обычно проводятся летние Олимпийские игры?",
+    "answer": "Раз в четыре года",
+    "accepted_answers": [
+      "Раз в четыре года",
+      "4 года"
+    ]
+  },
+  {
+    "id": "general-0275",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется огонь, который зажигают на церемонии открытия Олимпиады?",
+    "answer": "Олимпийский огонь",
+    "accepted_answers": [
+      "Олимпийский огонь"
+    ]
+  },
+  {
+    "id": "general-0276",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Какой вид спорта называют «королевой спорта»?",
+    "answer": "Лёгкая атлетика",
+    "accepted_answers": [
+      "Лёгкая атлетика",
+      "легкая атлетика"
+    ]
+  },
+  {
+    "id": "general-0277",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Какая дистанция составляет классический марафон?",
+    "answer": "42,195 км",
+    "accepted_answers": [
+      "42,195 км",
+      "42 километра 195 метров",
+      "42.195 км"
+    ]
+  },
+  {
+    "id": "general-0278",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется бег на короткую дистанцию с максимальной скоростью?",
+    "answer": "Спринт",
+    "accepted_answers": [
+      "Спринт"
+    ]
+  },
+  {
+    "id": "general-0264",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Каким предметом отбивают мяч в теннисе?",
+    "answer": "Ракеткой",
+    "accepted_answers": [
+      "Ракеткой",
+      "ракетка"
+    ]
+  },
+  {
+    "id": "general-0279",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется передача палочки между бегунами команды?",
+    "answer": "Эстафета",
+    "accepted_answers": [
+      "Эстафета"
+    ]
+  },
+  {
+    "id": "general-0265",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 2,
+    "question": "Как называется нулевой счёт в теннисе?",
+    "answer": "Love",
+    "accepted_answers": [
+      "Love",
+      "лав",
+      "ноль"
+    ]
+  },
+  {
+    "id": "general-0280",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "В каком виде спорта используют клюшку и шайбу?",
+    "answer": "Хоккей",
+    "accepted_answers": [
+      "Хоккей"
+    ]
+  },
+  {
+    "id": "general-0267",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Как называется подача навылет в теннисе?",
+    "answer": "Эйс",
+    "accepted_answers": [
+      "Эйс"
+    ]
+  },
+  {
+    "id": "general-0282",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 4,
+    "question": "Как называется площадка для бокса, окружённая канатами?",
+    "answer": "Ринг",
+    "accepted_answers": [
+      "Ринг"
+    ]
+  },
+  {
+    "id": "general-0268",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 3,
+    "question": "Сколько клеток на шахматной доске?",
+    "answer": "64",
+    "accepted_answers": [
+      "64"
+    ]
+  },
+  {
+    "id": "general-0283",
+    "category": "Общие знания",
+    "category_key": "general",
+    "subcategory": "Спорт и общество",
+    "points": 4,
+    "question": "Сколько раундов максимум в современном чемпионском боксёрском поединке?",
+    "answer": "12",
+    "accepted_answers": [
+      "12"
+    ]
+  },
+  {
+    "id": "pop-0003",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 1,
+    "question": "Как называется корабль, вокруг катастрофы которого построен фильм Джеймса Кэмерона?",
+    "answer": "Титаник",
+    "accepted_answers": [
+      "Титаник"
+    ]
+  },
+  {
+    "id": "pop-0007",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Какие древние животные возвращаются к жизни в «Парке юрского периода»?",
+    "answer": "Динозавры",
+    "accepted_answers": [
+      "Динозавры"
+    ]
+  },
+  {
+    "id": "pop-0005",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 1,
+    "question": "Какой актёр сыграл Терминатора в самых известных фильмах серии?",
+    "answer": "Арнольд Шварценеггер",
+    "accepted_answers": [
+      "Арнольд Шварценеггер",
+      "Шварценеггер"
+    ]
+  },
+  {
+    "id": "pop-0011",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Автомобиль какой марки служит машиной времени в «Назад в будущее»?",
+    "answer": "DeLorean",
+    "accepted_answers": [
+      "DeLorean",
+      "Делориан",
+      "DMC DeLorean"
+    ]
+  },
+  {
+    "id": "pop-0013",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "С кем борется команда в фильме «Охотники за привидениями»?",
+    "answer": "С привидениями",
+    "accepted_answers": [
+      "С привидениями",
+      "призраки"
+    ]
+  },
+  {
+    "id": "pop-0014",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Какими буквами называют главных агентов в первом фильме «Люди в чёрном»?",
+    "answer": "Кей и Джей",
+    "accepted_answers": [
+      "Кей и Джей",
+      "K и J",
+      "агент К и агент Джей"
+    ]
+  },
+  {
+    "id": "pop-0016",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Как называется школа волшебства, где учится Гарри Поттер?",
+    "answer": "Хогвартс",
+    "accepted_answers": [
+      "Хогвартс"
+    ]
+  },
+  {
+    "id": "pop-0020",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Кто несёт Кольцо Всевластия в Мордор во «Властелине колец»?",
+    "answer": "Фродо",
+    "accepted_answers": [
+      "Фродо",
+      "Фродо Бэггинс"
+    ]
+  },
+  {
+    "id": "pop-0029",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Главным противником какого героя является Джокер?",
+    "answer": "Бэтмен",
+    "accepted_answers": [
+      "Бэтмен"
+    ]
+  },
+  {
+    "id": "pop-0009",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Кем по профессии является Индиана Джонс?",
+    "answer": "Археолог",
+    "accepted_answers": [
+      "Археолог"
+    ]
+  },
+  {
+    "id": "pop-0032",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как называется вымышленная африканская страна Чёрной пантеры?",
+    "answer": "Ваканда",
+    "accepted_answers": [
+      "Ваканда"
+    ]
+  },
+  {
+    "id": "pop-0017",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "На какой факультет попадает Гарри Поттер?",
+    "answer": "Гриффиндор",
+    "accepted_answers": [
+      "Гриффиндор"
+    ]
+  },
+  {
+    "id": "pop-0012",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как зовут эксцентричного учёного из «Назад в будущее»?",
+    "answer": "Док Браун",
+    "accepted_answers": [
+      "Док Браун",
+      "Эмметт Браун",
+      "доктор Браун"
+    ]
+  },
+  {
+    "id": "pop-0042",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Какая семья находится в центре сюжета фильма «Крёстный отец»?",
+    "answer": "Корлеоне",
+    "accepted_answers": [
+      "Корлеоне",
+      "семья Корлеоне"
+    ]
+  },
+  {
+    "id": "pop-0015",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как зовут мальчика, оставшегося дома без семьи в фильме «Один дома»?",
+    "answer": "Кевин",
+    "accepted_answers": [
+      "Кевин",
+      "Кевин Маккаллистер"
+    ]
+  },
+  {
+    "id": "pop-0022",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как Голлум называет Кольцо Всевластия?",
+    "answer": "Моя прелесть",
+    "accepted_answers": [
+      "Моя прелесть",
+      "прелесть"
+    ]
+  },
+  {
+    "id": "pop-0045",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 4,
+    "question": "Как называют героиню Умы Турман в фильмах «Убить Билла»?",
+    "answer": "Невеста",
+    "accepted_answers": [
+      "Невеста",
+      "Беатрикс Киддо"
+    ]
+  },
+  {
+    "id": "pop-0023",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Какой супергерой носит щит со звездой?",
+    "answer": "Капитан Америка",
+    "accepted_answers": [
+      "Капитан Америка"
+    ]
+  },
+  {
+    "id": "pop-0024",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как настоящее имя Железного человека?",
+    "answer": "Тони Старк",
+    "accepted_answers": [
+      "Тони Старк"
+    ]
+  },
+  {
+    "id": "pop-0047",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 4,
+    "question": "Какое имя получает волейбольный мяч в фильме «Изгой»?",
+    "answer": "Уилсон",
+    "accepted_answers": [
+      "Уилсон",
+      "Wilson"
+    ]
+  },
+  {
+    "id": "pop-0019",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как зовут главного тёмного волшебника в истории о Гарри Поттере?",
+    "answer": "Волан-де-Морт",
+    "accepted_answers": [
+      "Волан-де-Морт",
+      "Волдеморт",
+      "лорд Волан-де-Морт"
+    ]
+  },
+  {
+    "id": "pop-0048",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 4,
+    "question": "Что не знает главный герой фильма «Шоу Трумана» о своей жизни?",
+    "answer": "Она является телешоу",
+    "accepted_answers": [
+      "Она является телешоу",
+      "он живёт в телешоу",
+      "за ним снимают шоу"
+    ]
+  },
+  {
+    "id": "pop-0026",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как настоящее имя Халка?",
+    "answer": "Брюс Бэннер",
+    "accepted_answers": [
+      "Брюс Бэннер",
+      "Брюс Баннер"
+    ]
+  },
+  {
+    "id": "pop-0021",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как зовут седого волшебника из «Властелина колец»?",
+    "answer": "Гэндальф",
+    "accepted_answers": [
+      "Гэндальф",
+      "Гандальф"
+    ]
+  },
+  {
+    "id": "pop-0027",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как настоящее имя Человека-паука?",
+    "answer": "Питер Паркер",
+    "accepted_answers": [
+      "Питер Паркер"
+    ]
+  },
+  {
+    "id": "pop-0028",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Как настоящее имя Бэтмена?",
+    "answer": "Брюс Уэйн",
+    "accepted_answers": [
+      "Брюс Уэйн",
+      "Брюс Вейн"
+    ]
+  },
+  {
+    "id": "pop-0052",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 5,
+    "question": "Какая актриса сыграла Вивиан в фильме «Красотка»?",
+    "answer": "Джулия Робертс",
+    "accepted_answers": [
+      "Джулия Робертс",
+      "Робертс"
+    ]
+  },
+  {
+    "id": "pop-0001",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Как зовут главного героя фильма «Матрица»?",
+    "answer": "Нео",
+    "accepted_answers": [
+      "Нео"
+    ]
+  },
+  {
+    "id": "pop-0030",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 4,
+    "question": "Какое земное имя использует Супермен?",
+    "answer": "Кларк Кент",
+    "accepted_answers": [
+      "Кларк Кент"
+    ]
+  },
+  {
+    "id": "pop-0002",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 2,
+    "question": "Какой актёр сыграл Нео в «Матрице»?",
+    "answer": "Киану Ривз",
+    "accepted_answers": [
+      "Киану Ривз",
+      "Ривз"
+    ]
+  },
+  {
+    "id": "pop-0057",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 5,
+    "question": "Какое животное является угрозой в фильме «Челюсти»?",
+    "answer": "Акула",
+    "accepted_answers": [
+      "Акула"
+    ]
+  },
+  {
+    "id": "pop-0059",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 5,
+    "question": "Какое гигантское существо разрушает города в фильмах о Годзилле?",
+    "answer": "Годзилла",
+    "accepted_answers": [
+      "Годзилла"
+    ]
+  },
+  {
+    "id": "pop-0008",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Кто снял фильм «Челюсти»?",
+    "answer": "Стивен Спилберг",
+    "accepted_answers": [
+      "Стивен Спилберг",
+      "Спилберг"
+    ]
+  },
+  {
+    "id": "pop-0060",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 5,
+    "question": "Кем является герой фильма «Инопланетянин» Спилберга?",
+    "answer": "Инопланетянином",
+    "accepted_answers": [
+      "Инопланетянином",
+      "пришелец"
+    ]
+  },
+  {
+    "id": "pop-0010",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Кино",
+    "points": 3,
+    "question": "Какой актёр сыграл Индиану Джонса?",
+    "answer": "Харрисон Форд",
+    "accepted_answers": [
+      "Харрисон Форд",
+      "Форд"
+    ]
+  },
+  {
+    "id": "pop-0097",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Каким животным является Джуди Хопс из «Зверополиса»?",
+    "answer": "Крольчихой",
+    "accepted_answers": [
+      "Крольчихой",
+      "кролик",
+      "зайчиха"
+    ]
+  },
+  {
+    "id": "pop-0100",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 1,
+    "question": "Как называется страна, где живут Питер Пэн и потерянные мальчики?",
+    "answer": "Нетландия",
+    "accepted_answers": [
+      "Нетландия",
+      "Неверленд"
+    ]
+  },
+  {
+    "id": "pop-0099",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут злодейку, охотящуюся за далматинцами?",
+    "answer": "Круэлла де Виль",
+    "accepted_answers": [
+      "Круэлла де Виль",
+      "Круэлла"
+    ]
+  },
+  {
+    "id": "pop-0082",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Какой птицей является Дональд Дак?",
+    "answer": "Уткой",
+    "accepted_answers": [
+      "Уткой",
+      "утка"
+    ]
+  },
+  {
+    "id": "pop-0109",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "С помощью чего дом взлетает в мультфильме «Вверх»?",
+    "answer": "Воздушных шаров",
+    "accepted_answers": [
+      "Воздушных шаров",
+      "шары"
+    ]
+  },
+  {
+    "id": "pop-0083",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут главного львёнка в мультфильме «Король Лев»?",
+    "answer": "Симба",
+    "accepted_answers": [
+      "Симба"
+    ]
+  },
+  {
+    "id": "pop-0089",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Кем является Олаф из «Холодного сердца»?",
+    "answer": "Снеговиком",
+    "accepted_answers": [
+      "Снеговиком",
+      "снеговик"
+    ]
+  },
+  {
+    "id": "pop-0111",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "О какой семье супергероев рассказывает мультфильм Pixar?",
+    "answer": "Семья Парр",
+    "accepted_answers": [
+      "Семья Парр",
+      "Суперсемейка"
+    ]
+  },
+  {
+    "id": "pop-0112",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Какой праздник играет важную роль в мультфильме «Тайна Коко»?",
+    "answer": "День мёртвых",
+    "accepted_answers": [
+      "День мёртвых",
+      "День мертвых"
+    ]
+  },
+  {
+    "id": "pop-0091",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Что теряет Золушка на балу?",
+    "answer": "Хрустальную туфельку",
+    "accepted_answers": [
+      "Хрустальную туфельку",
+      "туфельку"
+    ]
+  },
+  {
+    "id": "pop-0113",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Какие персонажи управляют чувствами Райли в мультфильме «Головоломка»?",
+    "answer": "Эмоции",
+    "accepted_answers": [
+      "Эмоции"
+    ]
+  },
+  {
+    "id": "pop-0092",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Сколько гномов живёт с Белоснежкой?",
+    "answer": "7",
+    "accepted_answers": [
+      "7"
+    ]
+  },
+  {
+    "id": "pop-0114",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Какой музыкой увлечён герой мультфильма «Душа»?",
+    "answer": "Джаз",
+    "accepted_answers": [
+      "Джаз"
+    ]
+  },
+  {
+    "id": "pop-0088",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут сестёр из мультфильма «Холодное сердце»?",
+    "answer": "Эльза и Анна",
+    "accepted_answers": [
+      "Эльза и Анна",
+      "Анна и Эльза"
+    ]
+  },
+  {
+    "id": "pop-0094",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Из какой страны родом героиня Мулан?",
+    "answer": "Китай",
+    "accepted_answers": [
+      "Китай"
+    ]
+  },
+  {
+    "id": "pop-0090",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут героиню мультфильма «Красавица и Чудовище»?",
+    "answer": "Белль",
+    "accepted_answers": [
+      "Белль"
+    ]
+  },
+  {
+    "id": "pop-0119",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Какие птицы составляют секретную команду в «Мадагаскаре»?",
+    "answer": "Пингвины",
+    "accepted_answers": [
+      "Пингвины"
+    ]
+  },
+  {
+    "id": "pop-0098",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Кем на самом деле является Стич?",
+    "answer": "Инопланетянином",
+    "accepted_answers": [
+      "Инопланетянином",
+      "инопланетный эксперимент",
+      "пришелец"
+    ]
+  },
+  {
+    "id": "pop-0093",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут Спящую красавицу в мультфильме Disney?",
+    "answer": "Аврора",
+    "accepted_answers": [
+      "Аврора"
+    ]
+  },
+  {
+    "id": "pop-0095",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут героиню, которую океан выбирает для путешествия в мультфильме Disney?",
+    "answer": "Моана",
+    "accepted_answers": [
+      "Моана"
+    ]
+  },
+  {
+    "id": "pop-0101",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Что больше всего любит есть Винни-Пух?",
+    "answer": "Мёд",
+    "accepted_answers": [
+      "Мёд",
+      "мед"
+    ]
+  },
+  {
+    "id": "pop-0096",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут героиню без магического дара в мультфильме «Энканто»?",
+    "answer": "Мирабель",
+    "accepted_answers": [
+      "Мирабель"
+    ]
+  },
+  {
+    "id": "pop-0123",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 4,
+    "question": "Каким животным является Сид из «Ледникового периода»?",
+    "answer": "Ленивцем",
+    "accepted_answers": [
+      "Ленивцем",
+      "ленивец"
+    ]
+  },
+  {
+    "id": "pop-0104",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Какой рыбой является Немо?",
+    "answer": "Рыбой-клоуном",
+    "accepted_answers": [
+      "Рыбой-клоуном",
+      "рыба-клоун"
+    ]
+  },
+  {
+    "id": "pop-0127",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 4,
+    "question": "Кем притворяется главный герой мультфильма «Босс-молокосос»?",
+    "answer": "Обычным младенцем",
+    "accepted_answers": [
+      "Обычным младенцем",
+      "младенец"
+    ]
+  },
+  {
+    "id": "pop-0130",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 4,
+    "question": "Кто из пары Том и Джерри является котом?",
+    "answer": "Том",
+    "accepted_answers": [
+      "Том"
+    ]
+  },
+  {
+    "id": "pop-0129",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 4,
+    "question": "Каким морским животным является Патрик из «Губки Боба»?",
+    "answer": "Морской звездой",
+    "accepted_answers": [
+      "Морской звездой",
+      "морская звезда"
+    ]
+  },
+  {
+    "id": "pop-0081",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут подругу Микки Мауса?",
+    "answer": "Минни Маус",
+    "accepted_answers": [
+      "Минни Маус",
+      "Минни"
+    ]
+  },
+  {
+    "id": "pop-0103",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Как зовут космического рейнджера из «Истории игрушек»?",
+    "answer": "Базз Лайтер",
+    "accepted_answers": [
+      "Базз Лайтер",
+      "Базз"
+    ]
+  },
+  {
+    "id": "pop-0105",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Как зовут забывчивую синюю рыбку из «В поисках Немо»?",
+    "answer": "Дори",
+    "accepted_answers": [
+      "Дори"
+    ]
+  },
+  {
+    "id": "pop-0084",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут отца Симбы?",
+    "answer": "Муфаса",
+    "accepted_answers": [
+      "Муфаса"
+    ]
+  },
+  {
+    "id": "pop-0106",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Как зовут красную гоночную машину из мультфильма «Тачки»?",
+    "answer": "Молния Маккуин",
+    "accepted_answers": [
+      "Молния Маккуин",
+      "Маккуин"
+    ]
+  },
+  {
+    "id": "pop-0085",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 2,
+    "question": "Как зовут злого дядю Симбы?",
+    "answer": "Шрам",
+    "accepted_answers": [
+      "Шрам",
+      "Скар"
+    ]
+  },
+  {
+    "id": "pop-0107",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Как зовут крысу-повара из мультфильма «Рататуй»?",
+    "answer": "Реми",
+    "accepted_answers": [
+      "Реми"
+    ]
+  },
+  {
+    "id": "pop-0108",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Мультфильмы и анимация",
+    "points": 3,
+    "question": "Как зовут маленького робота, убирающего Землю в мультфильме Pixar?",
+    "answer": "ВАЛЛ·И",
+    "accepted_answers": [
+      "ВАЛЛ·И",
+      "ВАЛЛИ",
+      "WALL-E"
+    ]
+  },
+  {
+    "id": "pop-0160",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кто рассказывает детям историю в сериале «Как я встретил вашу маму»?",
+    "answer": "Тед Мосби",
+    "accepted_answers": [
+      "Тед Мосби",
+      "Тед"
+    ]
+  },
+  {
+    "id": "pop-0159",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 1,
+    "question": "Как зовут героя «Друзей», известного фразой «Как поживаешь?»?",
+    "answer": "Джоуи",
+    "accepted_answers": [
+      "Джоуи",
+      "Джоуи Триббиани"
+    ]
+  },
+  {
+    "id": "pop-0163",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Какое слово часто произносит Шелдон после шутки?",
+    "answer": "Бугагашенька",
+    "accepted_answers": [
+      "Бугагашенька",
+      "Bazinga",
+      "Базинга"
+    ]
+  },
+  {
+    "id": "pop-0164",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кто является соседом и лучшим другом Шелдона в начале «Теории большого взрыва»?",
+    "answer": "Леонард",
+    "accepted_answers": [
+      "Леонард",
+      "Леонард Хофстедтер"
+    ]
+  },
+  {
+    "id": "pop-0181",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Из какой страны сериал «Игра в кальмара»?",
+    "answer": "Южная Корея",
+    "accepted_answers": [
+      "Южная Корея",
+      "Республика Корея"
+    ]
+  },
+  {
+    "id": "pop-0167",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кем работал Уолтер Уайт до криминальной жизни?",
+    "answer": "Учителем химии",
+    "accepted_answers": [
+      "Учителем химии",
+      "преподаватель химии"
+    ]
+  },
+  {
+    "id": "pop-0171",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Как называется материк, где происходит большая часть «Игры престолов»?",
+    "answer": "Вестерос",
+    "accepted_answers": [
+      "Вестерос"
+    ]
+  },
+  {
+    "id": "pop-0172",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "За какой престол борются герои «Игры престолов»?",
+    "answer": "Железный трон",
+    "accepted_answers": [
+      "Железный трон"
+    ]
+  },
+  {
+    "id": "pop-0174",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "Сколько драконов появляется у Дейенерис в начале их взросления?",
+    "answer": "3",
+    "accepted_answers": [
+      "3"
+    ]
+  },
+  {
+    "id": "pop-0175",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Какая династия находится в центре сериала «Дом Дракона»?",
+    "answer": "Таргариены",
+    "accepted_answers": [
+      "Таргариены",
+      "Таргариен"
+    ]
+  },
+  {
+    "id": "pop-0176",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "В каком городе происходит действие «Очень странных дел»?",
+    "answer": "Хоукинс",
+    "accepted_answers": [
+      "Хоукинс",
+      "Хокинс"
+    ]
+  },
+  {
+    "id": "pop-0177",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "Какой номер носит девочка со сверхспособностями в «Очень странных делах»?",
+    "answer": "Одиннадцать",
+    "accepted_answers": [
+      "Одиннадцать",
+      "11",
+      "Элевен"
+    ]
+  },
+  {
+    "id": "pop-0156",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 1,
+    "question": "В каком городе живут герои сериала «Друзья»?",
+    "answer": "Нью-Йорк",
+    "accepted_answers": [
+      "Нью-Йорк",
+      "Нью Йорк"
+    ]
+  },
+  {
+    "id": "pop-0178",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "Как называют чудовище из первого сезона «Очень странных дел»?",
+    "answer": "Демогоргон",
+    "accepted_answers": [
+      "Демогоргон"
+    ]
+  },
+  {
+    "id": "pop-0157",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кем работает Росс из сериала «Друзья»?",
+    "answer": "Палеонтологом",
+    "accepted_answers": [
+      "Палеонтологом",
+      "палеонтолог"
+    ]
+  },
+  {
+    "id": "pop-0158",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кем работает Моника из сериала «Друзья»?",
+    "answer": "Шеф-поваром",
+    "accepted_answers": [
+      "Шеф-поваром",
+      "повар"
+    ]
+  },
+  {
+    "id": "pop-0182",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "Какой номер у главного героя Сон Ки Хуна в «Игре в кальмара»?",
+    "answer": "456",
+    "accepted_answers": [
+      "456"
+    ]
+  },
+  {
+    "id": "pop-0183",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "Как называют организатора ограблений в сериале «Бумажный дом»?",
+    "answer": "Профессор",
+    "accepted_answers": [
+      "Профессор"
+    ]
+  },
+  {
+    "id": "pop-0162",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Кем по профессии является Шелдон Купер?",
+    "answer": "Физиком",
+    "accepted_answers": [
+      "Физиком",
+      "физик"
+    ]
+  },
+  {
+    "id": "pop-0184",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "Чьё лицо изображено на масках грабителей в «Бумажном доме»?",
+    "answer": "Сальвадора Дали",
+    "accepted_answers": [
+      "Сальвадора Дали",
+      "Дали"
+    ]
+  },
+  {
+    "id": "pop-0187",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "В какой области медицины особенно силён доктор Хаус?",
+    "answer": "Диагностика",
+    "accepted_answers": [
+      "Диагностика",
+      "диагностическая медицина"
+    ]
+  },
+  {
+    "id": "pop-0179",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 2,
+    "question": "Какова фамилия Уэнсдей?",
+    "answer": "Аддамс",
+    "accepted_answers": [
+      "Аддамс"
+    ]
+  },
+  {
+    "id": "pop-0168",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "Какой псевдоним использует Уолтер Уайт?",
+    "answer": "Гейзенберг",
+    "accepted_answers": [
+      "Гейзенберг",
+      "Хайзенберг",
+      "Heisenberg"
+    ]
+  },
+  {
+    "id": "pop-0191",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 4,
+    "question": "Какова фамилия братьев Сэма и Дина из «Сверхъестественного»?",
+    "answer": "Винчестер",
+    "accepted_answers": [
+      "Винчестер"
+    ]
+  },
+  {
+    "id": "pop-0170",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "Каково настоящее имя Сола Гудмана?",
+    "answer": "Джимми Макгилл",
+    "accepted_answers": [
+      "Джимми Макгилл",
+      "Джеймс Макгилл"
+    ]
+  },
+  {
+    "id": "pop-0166",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "Как зовут регионального менеджера в американском сериале «Офис»?",
+    "answer": "Майкл Скотт",
+    "accepted_answers": [
+      "Майкл Скотт"
+    ]
+  },
+  {
+    "id": "pop-0185",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 3,
+    "question": "По какому адресу живёт Шерлок Холмс?",
+    "answer": "Бейкер-стрит, 221Б",
+    "accepted_answers": [
+      "Бейкер-стрит, 221Б",
+      "221B Baker Street",
+      "Бейкер-стрит 221Б"
+    ]
+  },
+  {
+    "id": "pop-0195",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 5,
+    "question": "Где оказываются выжившие после авиакатастрофы в «Остаться в живых»?",
+    "answer": "На острове",
+    "accepted_answers": [
+      "На острове",
+      "остров"
+    ]
+  },
+  {
+    "id": "pop-0196",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 5,
+    "question": "Кем работал Рик Граймс до зомби-апокалипсиса?",
+    "answer": "Шерифом",
+    "accepted_answers": [
+      "Шерифом",
+      "полицейский"
+    ]
+  },
+  {
+    "id": "pop-0200",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Сериалы",
+    "points": 5,
+    "question": "Какой гриб вызывает заражение в «Одних из нас»?",
+    "answer": "Кордицепс",
+    "accepted_answers": [
+      "Кордицепс"
+    ]
+  },
+  {
+    "id": "pop-0243",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 1,
+    "question": "В каком жанре прежде всего известна группа Metallica?",
+    "answer": "Хеви-метал",
+    "accepted_answers": [
+      "Хеви-метал",
+      "метал",
+      "heavy metal"
+    ]
+  },
+  {
+    "id": "pop-0248",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 1,
+    "question": "В каком музыкальном жанре прежде всего известен Эминем?",
+    "answer": "Рэп",
+    "accepted_answers": [
+      "Рэп",
+      "хип-хоп"
+    ]
+  },
+  {
+    "id": "pop-0231",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 1,
+    "question": "В каком английском городе появилась группа The Beatles?",
+    "answer": "Ливерпуль",
+    "accepted_answers": [
+      "Ливерпуль"
+    ]
+  },
+  {
+    "id": "pop-0254",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Какой британский певец известен рыжими волосами, гитарой и песней «Shape of You»?",
+    "answer": "Эд Ширан",
+    "accepted_answers": [
+      "Эд Ширан"
+    ]
+  },
+  {
+    "id": "pop-0244",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какой орган изображён на знаменитом логотипе The Rolling Stones?",
+    "answer": "Язык",
+    "accepted_answers": [
+      "Язык",
+      "губы и язык"
+    ]
+  },
+  {
+    "id": "pop-0245",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какая группа выпустила альбом «The Dark Side of the Moon» с призмой на обложке?",
+    "answer": "Pink Floyd",
+    "accepted_answers": [
+      "Pink Floyd",
+      "Пинк Флойд"
+    ]
+  },
+  {
+    "id": "pop-0251",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "С какого островного государства родом Рианна?",
+    "answer": "Барбадос",
+    "accepted_answers": [
+      "Барбадос"
+    ]
+  },
+  {
+    "id": "pop-0232",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Как часто называют участников The Beatles?",
+    "answer": "Ливерпульская четвёрка",
+    "accepted_answers": [
+      "Ливерпульская четвёрка",
+      "великолепная четвёрка",
+      "Fab Four"
+    ]
+  },
+  {
+    "id": "pop-0252",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какая британская певица выпустила альбомы «19», «21», «25» и «30»?",
+    "answer": "Адель",
+    "accepted_answers": [
+      "Адель"
+    ]
+  },
+  {
+    "id": "pop-0235",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Кто был вокалистом группы Queen?",
+    "answer": "Фредди Меркьюри",
+    "accepted_answers": [
+      "Фредди Меркьюри",
+      "Меркьюри"
+    ]
+  },
+  {
+    "id": "pop-0236",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Какая группа исполнила «Bohemian Rhapsody»?",
+    "answer": "Queen",
+    "accepted_answers": [
+      "Queen",
+      "Куин"
+    ]
+  },
+  {
+    "id": "pop-0237",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Кого называют королём поп-музыки?",
+    "answer": "Майкл Джексон",
+    "accepted_answers": [
+      "Майкл Джексон",
+      "Джексон"
+    ]
+  },
+  {
+    "id": "pop-0238",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Кого часто называют королевой поп-музыки?",
+    "answer": "Мадонна",
+    "accepted_answers": [
+      "Мадонна"
+    ]
+  },
+  {
+    "id": "pop-0234",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 2,
+    "question": "Как зовут участника The Beatles, продолжившего успешную сольную карьеру и играющего на бас-гитаре?",
+    "answer": "Пол Маккартни",
+    "accepted_answers": [
+      "Пол Маккартни",
+      "Маккартни"
+    ]
+  },
+  {
+    "id": "pop-0239",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Кого называют королём рок-н-ролла?",
+    "answer": "Элвис Пресли",
+    "accepted_answers": [
+      "Элвис Пресли",
+      "Элвис"
+    ]
+  },
+  {
+    "id": "pop-0240",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Из какой страны группа ABBA?",
+    "answer": "Швеция",
+    "accepted_answers": [
+      "Швеция"
+    ]
+  },
+  {
+    "id": "pop-0260",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "Какой электронный дуэт выступал в шлемах роботов?",
+    "answer": "Daft Punk",
+    "accepted_answers": [
+      "Daft Punk",
+      "Дафт Панк"
+    ]
+  },
+  {
+    "id": "pop-0241",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какая группа исполнила песню «Mamma Mia»?",
+    "answer": "ABBA",
+    "accepted_answers": [
+      "ABBA",
+      "АББА"
+    ]
+  },
+  {
+    "id": "pop-0253",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какая певица известна альбомами «1989» и «Red»?",
+    "answer": "Тейлор Свифт",
+    "accepted_answers": [
+      "Тейлор Свифт"
+    ]
+  },
+  {
+    "id": "pop-0261",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "Какая певица часто скрывала лицо большим двухцветным париком?",
+    "answer": "Сиа",
+    "accepted_answers": [
+      "Сиа",
+      "Sia"
+    ]
+  },
+  {
+    "id": "pop-0242",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Кто был лидером группы Nirvana?",
+    "answer": "Курт Кобейн",
+    "accepted_answers": [
+      "Курт Кобейн",
+      "Кобейн"
+    ]
+  },
+  {
+    "id": "pop-0265",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "С каким жанром особенно связывают Боба Марли?",
+    "answer": "Регги",
+    "accepted_answers": [
+      "Регги"
+    ]
+  },
+  {
+    "id": "pop-0266",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 5,
+    "question": "На каком инструменте часто играет Элтон Джон во время выступлений?",
+    "answer": "Фортепиано",
+    "accepted_answers": [
+      "Фортепиано",
+      "пианино",
+      "рояль"
+    ]
+  },
+  {
+    "id": "pop-0249",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 3,
+    "question": "Какая певица исполнила «Poker Face»?",
+    "answer": "Леди Гага",
+    "accepted_answers": [
+      "Леди Гага",
+      "Lady Gaga"
+    ]
+  },
+  {
+    "id": "pop-0269",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 5,
+    "question": "Какая певица исполнила «Levitating» и «New Rules»?",
+    "answer": "Дуа Липа",
+    "accepted_answers": [
+      "Дуа Липа"
+    ]
+  },
+  {
+    "id": "pop-0250",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "В какой женской группе начинала Бейонсе?",
+    "answer": "Destiny’s Child",
+    "accepted_answers": [
+      "Destiny’s Child",
+      "Destiny's Child",
+      "Дестинис Чайлд"
+    ]
+  },
+  {
+    "id": "pop-0274",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 5,
+    "question": "Какая группа исполнила песню «Что такое осень»?",
+    "answer": "ДДТ",
+    "accepted_answers": [
+      "ДДТ"
+    ]
+  },
+  {
+    "id": "pop-0256",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "Какая певица исполнила «bad guy»?",
+    "answer": "Билли Айлиш",
+    "accepted_answers": [
+      "Билли Айлиш"
+    ]
+  },
+  {
+    "id": "pop-0257",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "Какой артист исполнил «Blinding Lights»?",
+    "answer": "The Weeknd",
+    "accepted_answers": [
+      "The Weeknd",
+      "Уикенд"
+    ]
+  },
+  {
+    "id": "pop-0258",
+    "category": "Поп-культура",
+    "category_key": "pop_culture",
+    "subcategory": "Музыка",
+    "points": 4,
+    "question": "Из какой страны группа BTS?",
+    "answer": "Южная Корея",
+    "accepted_answers": [
+      "Южная Корея",
+      "Республика Корея"
+    ]
+  },
+  {
+    "id": "history-0011",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 2,
+    "question": "Какой вавилонский царь известен одним из древнейших сборников законов?",
+    "answer": "Хаммурапи",
+    "accepted_answers": [
+      "Хаммурапи"
+    ]
+  },
+  {
+    "id": "history-0001",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 2,
+    "question": "Для кого в Древнем Египте строили крупнейшие пирамиды?",
+    "answer": "Для фараонов",
+    "accepted_answers": [
+      "Для фараонов",
+      "фараоны"
+    ]
+  },
+  {
+    "id": "history-0002",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 2,
+    "question": "Какая река была основой жизни Древнего Египта?",
+    "answer": "Нил",
+    "accepted_answers": [
+      "Нил"
+    ]
+  },
+  {
+    "id": "history-0003",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "Как называется древнеегипетская письменность с рисунками-символами?",
+    "answer": "Иероглифы",
+    "accepted_answers": [
+      "Иероглифы"
+    ]
+  },
+  {
+    "id": "history-0004",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 2,
+    "question": "Тело какого животного имеет Великий сфинкс в Гизе?",
+    "answer": "Льва",
+    "accepted_answers": [
+      "Льва",
+      "лев"
+    ]
+  },
+  {
+    "id": "history-0007",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "Как назывался процесс сохранения тела умершего в Древнем Египте?",
+    "answer": "Мумификация",
+    "accepted_answers": [
+      "Мумификация"
+    ]
+  },
+  {
+    "id": "history-0008",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "На каком материале из речного растения писали древние египтяне?",
+    "answer": "Папирус",
+    "accepted_answers": [
+      "Папирус"
+    ]
+  },
+  {
+    "id": "history-0024",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 5,
+    "question": "Кто из братьев, по легенде, стал первым царём Рима?",
+    "answer": "Ромул",
+    "accepted_answers": [
+      "Ромул"
+    ]
+  },
+  {
+    "id": "history-0010",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "Как называлась письменность древних народов Месопотамии на глиняных табличках?",
+    "answer": "Клинопись",
+    "accepted_answers": [
+      "Клинопись"
+    ]
+  },
+  {
+    "id": "history-0012",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Как назывался великий город Месопотамии с легендарной башней?",
+    "answer": "Вавилон",
+    "accepted_answers": [
+      "Вавилон"
+    ]
+  },
+  {
+    "id": "history-0013",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Какое из семи чудес древности связывают с Вавилоном?",
+    "answer": "Висячие сады Семирамиды",
+    "accepted_answers": [
+      "Висячие сады Семирамиды",
+      "Висячие сады"
+    ]
+  },
+  {
+    "id": "history-0014",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Какой древний народ Средиземноморья прославился мореплаванием и алфавитом?",
+    "answer": "Финикийцы",
+    "accepted_answers": [
+      "Финикийцы"
+    ]
+  },
+  {
+    "id": "history-0015",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Как назывался независимый город-государство в Древней Греции?",
+    "answer": "Полис",
+    "accepted_answers": [
+      "Полис"
+    ]
+  },
+  {
+    "id": "history-0016",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Какой греческий полис считают родиной демократии?",
+    "answer": "Афины",
+    "accepted_answers": [
+      "Афины"
+    ]
+  },
+  {
+    "id": "history-0017",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Какой греческий полис прославился суровым военным воспитанием?",
+    "answer": "Спарта",
+    "accepted_answers": [
+      "Спарта"
+    ]
+  },
+  {
+    "id": "history-0018",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "В честь какого бога проводились древние Олимпийские игры?",
+    "answer": "Зевса",
+    "accepted_answers": [
+      "Зевса",
+      "Зевс"
+    ]
+  },
+  {
+    "id": "history-0019",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Как называется поэма Гомера о Троянской войне?",
+    "answer": "Илиада",
+    "accepted_answers": [
+      "Илиада"
+    ]
+  },
+  {
+    "id": "history-0020",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "С помощью какого деревянного сооружения греки, по легенде, вошли в Трою?",
+    "answer": "Троянский конь",
+    "accepted_answers": [
+      "Троянский конь",
+      "деревянный конь"
+    ]
+  },
+  {
+    "id": "history-0021",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Какого правителя называли Александром Великим?",
+    "answer": "Александр Македонский",
+    "accepted_answers": [
+      "Александр Македонский",
+      "Македонский"
+    ]
+  },
+  {
+    "id": "history-0005",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "Как звали молодого фараона, чью почти нетронутую гробницу нашли в XX веке?",
+    "answer": "Тутанхамон",
+    "accepted_answers": [
+      "Тутанхамон"
+    ]
+  },
+  {
+    "id": "history-0009",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 4,
+    "question": "Между какими реками возникла Месопотамия?",
+    "answer": "Тигр и Евфрат",
+    "accepted_answers": [
+      "Тигр и Евфрат",
+      "Евфрат и Тигр"
+    ]
+  },
+  {
+    "id": "history-0006",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 3,
+    "question": "Как звали знаменитую последнюю царицу эллинистического Египта?",
+    "answer": "Клеопатра",
+    "accepted_answers": [
+      "Клеопатра"
+    ]
+  },
+  {
+    "id": "history-0025",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 5,
+    "question": "Какого римского полководца убили заговорщики в мартовские иды?",
+    "answer": "Юлий Цезарь",
+    "accepted_answers": [
+      "Юлий Цезарь",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": "history-0028",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 5,
+    "question": "Как назывались римские сооружения для подачи воды в города?",
+    "answer": "Акведуки",
+    "accepted_answers": [
+      "Акведуки",
+      "акведук"
+    ]
+  },
+  {
+    "id": "history-0029",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Древний мир",
+    "points": 5,
+    "question": "Как называлось основное крупное подразделение римской армии?",
+    "answer": "Легион",
+    "accepted_answers": [
+      "Легион"
+    ]
+  },
+  {
+    "id": "history-0052",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 2,
+    "question": "Как называлась система отношений между сеньорами и вассалами в Средневековье?",
+    "answer": "Феодализм",
+    "accepted_answers": [
+      "Феодализм"
+    ]
+  },
+  {
+    "id": "history-0053",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как называли тяжеловооружённого конного воина в средневековой Европе?",
+    "answer": "Рыцарь",
+    "accepted_answers": [
+      "Рыцарь"
+    ]
+  },
+  {
+    "id": "history-0055",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как назывался земледелец, зависимый от феодала и прикреплённый к земле?",
+    "answer": "Крепостной крестьянин",
+    "accepted_answers": [
+      "Крепостной крестьянин",
+      "серв",
+      "крепостной"
+    ]
+  },
+  {
+    "id": "history-0056",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как назывались военные походы европейских христиан на Ближний Восток?",
+    "answer": "Крестовые походы",
+    "accepted_answers": [
+      "Крестовые походы"
+    ]
+  },
+  {
+    "id": "history-0057",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Какой город был главной целью Первого крестового похода?",
+    "answer": "Иерусалим",
+    "accepted_answers": [
+      "Иерусалим"
+    ]
+  },
+  {
+    "id": "history-0058",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как называли скандинавских мореплавателей и воинов раннего Средневековья?",
+    "answer": "Викинги",
+    "accepted_answers": [
+      "Викинги"
+    ]
+  },
+  {
+    "id": "history-0062",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Как называлась эпидемия чумы XIV века в Европе?",
+    "answer": "Чёрная смерть",
+    "accepted_answers": [
+      "Чёрная смерть",
+      "Черная смерть"
+    ]
+  },
+  {
+    "id": "history-0063",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Между Англией и Францией шла война, название которой содержит какое число?",
+    "answer": "Сто",
+    "accepted_answers": [
+      "Сто",
+      "100",
+      "Столетняя война"
+    ]
+  },
+  {
+    "id": "history-0066",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Как называется храм Константинополя, который в разные эпохи был собором, мечетью и музеем?",
+    "answer": "Собор Святой Софии",
+    "accepted_answers": [
+      "Собор Святой Софии",
+      "Айя-София",
+      "Святая София"
+    ]
+  },
+  {
+    "id": "history-0064",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как звали французскую героиню Столетней войны, известную как Орлеанская дева?",
+    "answer": "Жанна д’Арк",
+    "accepted_answers": [
+      "Жанна д’Арк",
+      "Жанна д'Арк"
+    ]
+  },
+  {
+    "id": "history-0054",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 3,
+    "question": "Как называлось укреплённое жилище феодала?",
+    "answer": "Замок",
+    "accepted_answers": [
+      "Замок"
+    ]
+  },
+  {
+    "id": "history-0069",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Какой город стал столицей Аббасидского халифата и крупным центром науки?",
+    "answer": "Багдад",
+    "accepted_answers": [
+      "Багдад"
+    ]
+  },
+  {
+    "id": "history-0070",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Как назывался знаменитый научный центр переводов и исследований в средневековом Багдаде?",
+    "answer": "Дом мудрости",
+    "accepted_answers": [
+      "Дом мудрости"
+    ]
+  },
+  {
+    "id": "history-0071",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Кто объединил монгольские племена и создал огромную империю?",
+    "answer": "Чингисхан",
+    "accepted_answers": [
+      "Чингисхан"
+    ]
+  },
+  {
+    "id": "history-0072",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 5,
+    "question": "Как называлась империя потомков Чингисхана на землях Восточной Европы и степей?",
+    "answer": "Золотая Орда",
+    "accepted_answers": [
+      "Золотая Орда"
+    ]
+  },
+  {
+    "id": "history-0059",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Как назывались длинные корабли викингов?",
+    "answer": "Драккары",
+    "accepted_answers": [
+      "Драккары",
+      "драккар"
+    ]
+  },
+  {
+    "id": "history-0078",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 5,
+    "question": "Как назывался союз средневековых торговых городов Северной Европы?",
+    "answer": "Ганза",
+    "accepted_answers": [
+      "Ганза",
+      "Ганзейский союз"
+    ]
+  },
+  {
+    "id": "history-0079",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 5,
+    "question": "Как назывались объединения ремесленников одной профессии в средневековых городах?",
+    "answer": "Цехи",
+    "accepted_answers": [
+      "Цехи",
+      "ремесленные цехи"
+    ]
+  },
+  {
+    "id": "history-0065",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 4,
+    "question": "Как называлась столица Византийской империи?",
+    "answer": "Константинополь",
+    "accepted_answers": [
+      "Константинополь"
+    ]
+  },
+  {
+    "id": "history-0080",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Средневековье",
+    "points": 5,
+    "question": "Как назывались объединения купцов для взаимной защиты и торговли?",
+    "answer": "Гильдии",
+    "accepted_answers": [
+      "Гильдии",
+      "купеческие гильдии"
+    ]
+  },
+  {
+    "id": "history-0107",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Кто изобрёл печатный станок с подвижными литерами в Европе?",
+    "answer": "Иоганн Гутенберг",
+    "accepted_answers": [
+      "Иоганн Гутенберг",
+      "Гутенберг"
+    ]
+  },
+  {
+    "id": "history-0101",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 2,
+    "question": "Как называется эпоха европейского культурного подъёма после Средневековья?",
+    "answer": "Возрождение",
+    "accepted_answers": [
+      "Возрождение",
+      "Ренессанс"
+    ]
+  },
+  {
+    "id": "history-0103",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Какого художника и изобретателя называют автором «Моны Лизы»?",
+    "answer": "Леонардо да Винчи",
+    "accepted_answers": [
+      "Леонардо да Винчи",
+      "Леонардо"
+    ]
+  },
+  {
+    "id": "history-0105",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Какой город считают одним из главных центров раннего Возрождения?",
+    "answer": "Флоренция",
+    "accepted_answers": [
+      "Флоренция"
+    ]
+  },
+  {
+    "id": "history-0106",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Какая влиятельная семья покровительствовала искусству во Флоренции?",
+    "answer": "Медичи",
+    "accepted_answers": [
+      "Медичи"
+    ]
+  },
+  {
+    "id": "history-0108",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Какую книгу Гутенберг напечатал одной из первых крупных тиражных книг?",
+    "answer": "Библия",
+    "accepted_answers": [
+      "Библия",
+      "Библия Гутенберга"
+    ]
+  },
+  {
+    "id": "history-0113",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Куда, как полагал Колумб, он прибыл, достигнув Карибских островов?",
+    "answer": "В Индию",
+    "accepted_answers": [
+      "В Индию",
+      "Индия",
+      "Азию"
+    ]
+  },
+  {
+    "id": "history-0115",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Чья экспедиция первой совершила кругосветное плавание?",
+    "answer": "Фернана Магеллана",
+    "accepted_answers": [
+      "Фернана Магеллана",
+      "Магеллан"
+    ]
+  },
+  {
+    "id": "history-0116",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Кто завершил первую кругосветную экспедицию после гибели Магеллана?",
+    "answer": "Хуан Себастьян Элькано",
+    "accepted_answers": [
+      "Хуан Себастьян Элькано",
+      "Элькано"
+    ]
+  },
+  {
+    "id": "history-0102",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "В какой стране началось Возрождение?",
+    "answer": "Италия",
+    "accepted_answers": [
+      "Италия"
+    ]
+  },
+  {
+    "id": "history-0117",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Какой португальский мореплаватель проложил морской путь в Индию вокруг Африки?",
+    "answer": "Васко да Гама",
+    "accepted_answers": [
+      "Васко да Гама",
+      "да Гама"
+    ]
+  },
+  {
+    "id": "history-0118",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Какой мыс обогнул Бартоломеу Диаш у юга Африки?",
+    "answer": "Мыс Доброй Надежды",
+    "accepted_answers": [
+      "Мыс Доброй Надежды"
+    ]
+  },
+  {
+    "id": "history-0119",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Какой английский мореплаватель исследовал Тихий океан и восточное побережье Австралии?",
+    "answer": "Джеймс Кук",
+    "accepted_answers": [
+      "Джеймс Кук",
+      "Кук"
+    ]
+  },
+  {
+    "id": "history-0120",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Как назывался корабль Джеймса Кука в первом путешествии?",
+    "answer": "Индевор",
+    "accepted_answers": [
+      "Индевор",
+      "Endeavour"
+    ]
+  },
+  {
+    "id": "history-0136",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Какой философ известен фразой «Мыслю, следовательно, существую»?",
+    "answer": "Рене Декарт",
+    "accepted_answers": [
+      "Рене Декарт",
+      "Декарт"
+    ]
+  },
+  {
+    "id": "history-0121",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как назывался договор, разделивший новые земли между Испанией и Португалией?",
+    "answer": "Тордесильясский договор",
+    "accepted_answers": [
+      "Тордесильясский договор",
+      "договор в Тордесильясе"
+    ]
+  },
+  {
+    "id": "history-0104",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 3,
+    "question": "Кто создал фрески потолка Сикстинской капеллы?",
+    "answer": "Микеланджело",
+    "accepted_answers": [
+      "Микеланджело"
+    ]
+  },
+  {
+    "id": "history-0122",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как назывался обмен растениями, животными и болезнями между Старым и Новым Светом?",
+    "answer": "Колумбов обмен",
+    "accepted_answers": [
+      "Колумбов обмен",
+      "Колумбовский обмен"
+    ]
+  },
+  {
+    "id": "history-0123",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как называлась империя в Центральной Америке, покорённая Кортесом?",
+    "answer": "Империя ацтеков",
+    "accepted_answers": [
+      "Империя ацтеков",
+      "ацтеки"
+    ]
+  },
+  {
+    "id": "history-0125",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как называлась империя в Андах, покорённая Писарро?",
+    "answer": "Империя инков",
+    "accepted_answers": [
+      "Империя инков",
+      "инки"
+    ]
+  },
+  {
+    "id": "history-0112",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "Какой океан пересёк Колумб?",
+    "answer": "Атлантический океан",
+    "accepted_answers": [
+      "Атлантический океан",
+      "Атлантика"
+    ]
+  },
+  {
+    "id": "history-0127",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как называется движение за реформу католической церкви, начатое в XVI веке?",
+    "answer": "Реформация",
+    "accepted_answers": [
+      "Реформация"
+    ]
+  },
+  {
+    "id": "history-0128",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Кто опубликовал 95 тезисов и стал символом Реформации?",
+    "answer": "Мартин Лютер",
+    "accepted_answers": [
+      "Мартин Лютер",
+      "Лютер"
+    ]
+  },
+  {
+    "id": "history-0114",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 4,
+    "question": "В честь какого мореплавателя европейцы назвали Америку?",
+    "answer": "Америго Веспуччи",
+    "accepted_answers": [
+      "Америго Веспуччи",
+      "Веспуччи"
+    ]
+  },
+  {
+    "id": "history-0129",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Возрождение и открытия",
+    "points": 5,
+    "question": "Как называется направление христианства, возникшее в результате Реформации?",
+    "answer": "Протестантизм",
+    "accepted_answers": [
+      "Протестантизм"
+    ]
+  },
+  {
+    "id": "history-0152",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 2,
+    "question": "От какой страны добивались независимости тринадцать американских колоний?",
+    "answer": "Великобритания",
+    "accepted_answers": [
+      "Великобритания",
+      "Британия",
+      "Англия"
+    ]
+  },
+  {
+    "id": "history-0154",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Кто был главным автором Декларации независимости США?",
+    "answer": "Томас Джефферсон",
+    "accepted_answers": [
+      "Томас Джефферсон",
+      "Джефферсон"
+    ]
+  },
+  {
+    "id": "history-0155",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Как называлась акция протеста, когда колонисты выбросили британский чай в гавань?",
+    "answer": "Бостонское чаепитие",
+    "accepted_answers": [
+      "Бостонское чаепитие"
+    ]
+  },
+  {
+    "id": "history-0157",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Взятие какой крепости стало символом начала Французской революции?",
+    "answer": "Бастилия",
+    "accepted_answers": [
+      "Бастилия"
+    ]
+  },
+  {
+    "id": "history-0158",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "Какой девиз связывают с Французской революцией?",
+    "answer": "Свобода, равенство, братство",
+    "accepted_answers": [
+      "Свобода, равенство, братство"
+    ]
+  },
+  {
+    "id": "history-0159",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Как называлось устройство для казни, ставшее символом Французской революции?",
+    "answer": "Гильотина",
+    "accepted_answers": [
+      "Гильотина"
+    ]
+  },
+  {
+    "id": "history-0160",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Какого французского короля казнили во время революции?",
+    "answer": "Людовик XVI",
+    "accepted_answers": [
+      "Людовик XVI",
+      "Людовик 16"
+    ]
+  },
+  {
+    "id": "history-0161",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Кто пришёл к власти во Франции после революции и стал императором?",
+    "answer": "Наполеон Бонапарт",
+    "accepted_answers": [
+      "Наполеон Бонапарт",
+      "Наполеон"
+    ]
+  },
+  {
+    "id": "history-0162",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "В какой битве Наполеон потерпел окончательное поражение?",
+    "answer": "Ватерлоо",
+    "accepted_answers": [
+      "Ватерлоо",
+      "битва при Ватерлоо"
+    ]
+  },
+  {
+    "id": "history-0163",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "Как назывался свод гражданских законов, созданный при Наполеоне?",
+    "answer": "Кодекс Наполеона",
+    "accepted_answers": [
+      "Кодекс Наполеона",
+      "Гражданский кодекс"
+    ]
+  },
+  {
+    "id": "history-0166",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "В какой стране началась промышленная революция?",
+    "answer": "Великобритания",
+    "accepted_answers": [
+      "Великобритания",
+      "Англия"
+    ]
+  },
+  {
+    "id": "history-0167",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "Кто усовершенствовал паровую машину и сделал её символом промышленной революции?",
+    "answer": "Джеймс Уатт",
+    "accepted_answers": [
+      "Джеймс Уатт",
+      "Уатт",
+      "Ватт"
+    ]
+  },
+  {
+    "id": "history-0153",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 3,
+    "question": "Кто стал первым президентом США?",
+    "answer": "Джордж Вашингтон",
+    "accepted_answers": [
+      "Джордж Вашингтон",
+      "Вашингтон"
+    ]
+  },
+  {
+    "id": "history-0168",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Какая отрасль одной из первых перешла к фабричному производству?",
+    "answer": "Текстильная промышленность",
+    "accepted_answers": [
+      "Текстильная промышленность",
+      "текстиль"
+    ]
+  },
+  {
+    "id": "history-0170",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Как называется быстрый рост городов из-за переселения людей из деревень?",
+    "answer": "Урбанизация",
+    "accepted_answers": [
+      "Урбанизация"
+    ]
+  },
+  {
+    "id": "history-0171",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 4,
+    "question": "Как называли рабочих, ломавших машины из страха потерять работу?",
+    "answer": "Луддиты",
+    "accepted_answers": [
+      "Луддиты"
+    ]
+  },
+  {
+    "id": "history-0172",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Между какими сторонами шла Гражданская война в США?",
+    "answer": "Севером и Югом",
+    "accepted_answers": [
+      "Севером и Югом",
+      "Север и Юг"
+    ]
+  },
+  {
+    "id": "history-0173",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Кто был президентом США во время Гражданской войны?",
+    "answer": "Авраам Линкольн",
+    "accepted_answers": [
+      "Авраам Линкольн",
+      "Линкольн"
+    ]
+  },
+  {
+    "id": "history-0174",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Какой институт был отменён в США после Гражданской войны?",
+    "answer": "Рабство",
+    "accepted_answers": [
+      "Рабство"
+    ]
+  },
+  {
+    "id": "history-0176",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Революции и империи",
+    "points": 5,
+    "question": "Какого деятеля называют Освободителем Южной Америки?",
+    "answer": "Симон Боливар",
+    "accepted_answers": [
+      "Симон Боливар",
+      "Боливар"
+    ]
+  },
+  {
+    "id": "history-0203",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 3,
+    "question": "Как назывался союз Великобритании, Франции и России в Первой мировой войне?",
+    "answer": "Антанта",
+    "accepted_answers": [
+      "Антанта"
+    ]
+  },
+  {
+    "id": "history-0204",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 3,
+    "question": "Как назывался военный союз Германии и Австро-Венгрии с их союзниками?",
+    "answer": "Центральные державы",
+    "accepted_answers": [
+      "Центральные державы",
+      "Четверной союз"
+    ]
+  },
+  {
+    "id": "history-0205",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 3,
+    "question": "Какой тип укреплений стал символом Западного фронта Первой мировой?",
+    "answer": "Окопы",
+    "accepted_answers": [
+      "Окопы",
+      "траншеи"
+    ]
+  },
+  {
+    "id": "history-0206",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 3,
+    "question": "Какой договор официально завершил войну между Германией и союзниками после Первой мировой?",
+    "answer": "Версальский договор",
+    "accepted_answers": [
+      "Версальский договор"
+    ]
+  },
+  {
+    "id": "history-0208",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 3,
+    "question": "Кто возглавлял большевиков во время Октябрьской революции?",
+    "answer": "Владимир Ленин",
+    "accepted_answers": [
+      "Владимир Ленин",
+      "Ленин"
+    ]
+  },
+  {
+    "id": "history-0213",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 4,
+    "question": "Нападение на какую страну стало началом Второй мировой войны в Европе?",
+    "answer": "Польша",
+    "accepted_answers": [
+      "Польша"
+    ]
+  },
+  {
+    "id": "history-0214",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 4,
+    "question": "Как назывался план нападения нацистской Германии на СССР?",
+    "answer": "Барбаросса",
+    "accepted_answers": [
+      "Барбаросса",
+      "план Барбаросса"
+    ]
+  },
+  {
+    "id": "history-0216",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 4,
+    "question": "Какая битва стала одним из главных переломов на Восточном фронте?",
+    "answer": "Сталинградская битва",
+    "accepted_answers": [
+      "Сталинградская битва",
+      "Сталинград"
+    ]
+  },
+  {
+    "id": "history-0221",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 4,
+    "question": "Как называется систематическое уничтожение европейских евреев нацистами?",
+    "answer": "Холокост",
+    "accepted_answers": [
+      "Холокост"
+    ]
+  },
+  {
+    "id": "history-0222",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "На какие два японских города были сброшены атомные бомбы?",
+    "answer": "Хиросима и Нагасаки",
+    "accepted_answers": [
+      "Хиросима и Нагасаки",
+      "Нагасаки и Хиросима"
+    ]
+  },
+  {
+    "id": "history-0201",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 4,
+    "question": "Какое событие стало непосредственным поводом к Первой мировой войне?",
+    "answer": "Убийство эрцгерцога Франца Фердинанда",
+    "accepted_answers": [
+      "Убийство эрцгерцога Франца Фердинанда",
+      "Сараевское убийство"
+    ]
+  },
+  {
+    "id": "history-0225",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Как называется длительное противостояние СССР и США после Второй мировой войны?",
+    "answer": "Холодная война",
+    "accepted_answers": [
+      "Холодная война"
+    ]
+  },
+  {
+    "id": "history-0241",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Какую фразу содержит самая известная речь Мартина Лютера Кинга?",
+    "answer": "У меня есть мечта",
+    "accepted_answers": [
+      "У меня есть мечта",
+      "I Have a Dream"
+    ]
+  },
+  {
+    "id": "history-0226",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Какой город был разделён стеной во время Холодной войны?",
+    "answer": "Берлин",
+    "accepted_answers": [
+      "Берлин"
+    ]
+  },
+  {
+    "id": "history-0231",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 6,
+    "question": "Как называлась американская миссия первой высадки людей на Луну?",
+    "answer": "Аполлон-11",
+    "accepted_answers": [
+      "Аполлон-11",
+      "Apollo 11",
+      "Аполлон 11"
+    ]
+  },
+  {
+    "id": "history-0210",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Как назывался мировой экономический кризис, начавшийся в 1929 году?",
+    "answer": "Великая депрессия",
+    "accepted_answers": [
+      "Великая депрессия"
+    ]
+  },
+  {
+    "id": "history-0211",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Какой политик пришёл к власти в Германии в 1933 году?",
+    "answer": "Адольф Гитлер",
+    "accepted_answers": [
+      "Адольф Гитлер",
+      "Гитлер"
+    ]
+  },
+  {
+    "id": "history-0234",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 6,
+    "question": "Кто возглавлял ненасильственную борьбу за независимость Индии?",
+    "answer": "Махатма Ганди",
+    "accepted_answers": [
+      "Махатма Ганди",
+      "Ганди"
+    ]
+  },
+  {
+    "id": "history-0218",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Как звали премьер-министра Великобритании во время большей части Второй мировой войны?",
+    "answer": "Уинстон Черчилль",
+    "accepted_answers": [
+      "Уинстон Черчилль",
+      "Черчилль"
+    ]
+  },
+  {
+    "id": "history-0236",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 6,
+    "question": "Как называлась система расовой сегрегации в Южной Африке?",
+    "answer": "Апартеид",
+    "accepted_answers": [
+      "Апартеид"
+    ]
+  },
+  {
+    "id": "history-0219",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Как звали президента США в большую часть Второй мировой войны?",
+    "answer": "Франклин Рузвельт",
+    "accepted_answers": [
+      "Франклин Рузвельт",
+      "Рузвельт"
+    ]
+  },
+  {
+    "id": "history-0237",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 6,
+    "question": "Кто стал первым чернокожим президентом Южной Африки?",
+    "answer": "Нельсон Мандела",
+    "accepted_answers": [
+      "Нельсон Мандела",
+      "Мандела"
+    ]
+  },
+  {
+    "id": "history-0217",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 5,
+    "question": "Как называют сражение лета 1943 года под Курском, ставшее одним из ключевых событий на Восточном фронте?",
+    "answer": "Курская битва",
+    "accepted_answers": [
+      "Курская битва",
+      "Курская дуга"
+    ]
+  },
+  {
+    "id": "history-0240",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 7,
+    "question": "Какое движение в США боролось против расовой сегрегации под руководством Мартина Лютера Кинга?",
+    "answer": "Движение за гражданские права",
+    "accepted_answers": [
+      "Движение за гражданские права",
+      "гражданские права"
+    ]
+  },
+  {
+    "id": "history-0220",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "XX век",
+    "points": 6,
+    "question": "Как называлась высадка союзников в Нормандии в июне 1944 года?",
+    "answer": "День Д",
+    "accepted_answers": [
+      "День Д",
+      "D-Day",
+      "операция Оверлорд"
+    ]
+  },
+  {
+    "id": "history-0251",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 1,
+    "question": "Как называется наука, изучающая прошлое по вещественным находкам?",
+    "answer": "Археология",
+    "accepted_answers": [
+      "Археология"
+    ]
+  },
+  {
+    "id": "history-0252",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 1,
+    "question": "Как называется учёный, проводящий раскопки древних поселений?",
+    "answer": "Археолог",
+    "accepted_answers": [
+      "Археолог"
+    ]
+  },
+  {
+    "id": "history-0253",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 1,
+    "question": "Как называется письменный или вещественный объект, рассказывающий о прошлом?",
+    "answer": "Исторический источник",
+    "accepted_answers": [
+      "Исторический источник",
+      "источник"
+    ]
+  },
+  {
+    "id": "history-0254",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется последовательность событий по времени?",
+    "answer": "Хронология",
+    "accepted_answers": [
+      "Хронология"
+    ]
+  },
+  {
+    "id": "history-0257",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется правящая семья, передающая власть по наследству?",
+    "answer": "Династия",
+    "accepted_answers": [
+      "Династия"
+    ]
+  },
+  {
+    "id": "history-0258",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется государство во главе с императором?",
+    "answer": "Империя",
+    "accepted_answers": [
+      "Империя"
+    ]
+  },
+  {
+    "id": "history-0259",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется территория, зависимая от другого государства?",
+    "answer": "Колония",
+    "accepted_answers": [
+      "Колония"
+    ]
+  },
+  {
+    "id": "history-0261",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется форма правления с наследственным королём или королевой?",
+    "answer": "Монархия",
+    "accepted_answers": [
+      "Монархия"
+    ]
+  },
+  {
+    "id": "history-0262",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется государство, где глава власти не получает должность по наследству?",
+    "answer": "Республика",
+    "accepted_answers": [
+      "Республика"
+    ]
+  },
+  {
+    "id": "history-0264",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется резкая смена политического или общественного строя?",
+    "answer": "Революция",
+    "accepted_answers": [
+      "Революция"
+    ]
+  },
+  {
+    "id": "history-0265",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется постепенное изменение системы без полного разрушения?",
+    "answer": "Реформа",
+    "accepted_answers": [
+      "Реформа"
+    ]
+  },
+  {
+    "id": "history-0266",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 3,
+    "question": "Как называется насильственный захват власти небольшой группой?",
+    "answer": "Переворот",
+    "accepted_answers": [
+      "Переворот"
+    ]
+  },
+  {
+    "id": "history-0267",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 3,
+    "question": "Как называется временное прекращение боевых действий по соглашению сторон?",
+    "answer": "Перемирие",
+    "accepted_answers": [
+      "Перемирие"
+    ]
+  },
+  {
+    "id": "history-0269",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 3,
+    "question": "Как называется договор, заключённый после войны?",
+    "answer": "Мирный договор",
+    "accepted_answers": [
+      "Мирный договор",
+      "мир"
+    ]
+  },
+  {
+    "id": "history-0255",
+    "category": "История",
+    "category_key": "history",
+    "subcategory": "Исторические понятия",
+    "points": 2,
+    "question": "Как называется период в сто лет?",
+    "answer": "Век",
+    "accepted_answers": [
+      "Век",
+      "столетие"
+    ]
+  },
+  {
+    "id": "biology-0003",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "Какой орган является самым большим органом тела человека?",
+    "answer": "Кожа",
+    "accepted_answers": [
+      "Кожа"
+    ]
+  },
+  {
+    "id": "biology-0004",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "Какой внутренний орган человека самый крупный?",
+    "answer": "Печень",
+    "accepted_answers": [
+      "Печень"
+    ]
+  },
+  {
+    "id": "biology-0005",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "В каких органах происходит основной газообмен при дыхании?",
+    "answer": "В лёгких",
+    "accepted_answers": [
+      "В лёгких",
+      "легкие"
+    ]
+  },
+  {
+    "id": "biology-0006",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "Какая мышца под лёгкими помогает человеку дышать?",
+    "answer": "Диафрагма",
+    "accepted_answers": [
+      "Диафрагма"
+    ]
+  },
+  {
+    "id": "biology-0008",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "Какой белок в эритроцитах связывает кислород?",
+    "answer": "Гемоглобин",
+    "accepted_answers": [
+      "Гемоглобин"
+    ]
+  },
+  {
+    "id": "biology-0009",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какие клетки крови защищают организм от инфекций?",
+    "answer": "Лейкоциты",
+    "accepted_answers": [
+      "Лейкоциты",
+      "белые кровяные клетки"
+    ]
+  },
+  {
+    "id": "biology-0010",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какие элементы крови участвуют в свёртывании?",
+    "answer": "Тромбоциты",
+    "accepted_answers": [
+      "Тромбоциты",
+      "кровяные пластинки"
+    ]
+  },
+  {
+    "id": "biology-0012",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Как называются сосуды, несущие кровь от сердца?",
+    "answer": "Артерии",
+    "accepted_answers": [
+      "Артерии"
+    ]
+  },
+  {
+    "id": "biology-0013",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Как называются сосуды, несущие кровь к сердцу?",
+    "answer": "Вены",
+    "accepted_answers": [
+      "Вены"
+    ]
+  },
+  {
+    "id": "biology-0014",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Как называются самые тонкие кровеносные сосуды?",
+    "answer": "Капилляры",
+    "accepted_answers": [
+      "Капилляры"
+    ]
+  },
+  {
+    "id": "biology-0015",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какой орган управляет нервной системой и обработкой информации?",
+    "answer": "Головной мозг",
+    "accepted_answers": [
+      "Головной мозг",
+      "мозг"
+    ]
+  },
+  {
+    "id": "biology-0016",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какая часть мозга особенно важна для равновесия и координации?",
+    "answer": "Мозжечок",
+    "accepted_answers": [
+      "Мозжечок"
+    ]
+  },
+  {
+    "id": "biology-0017",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какая структура передаёт сигналы между головным мозгом и телом внутри позвоночника?",
+    "answer": "Спинной мозг",
+    "accepted_answers": [
+      "Спинной мозг"
+    ]
+  },
+  {
+    "id": "biology-0018",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Сколько костей обычно в скелете взрослого человека?",
+    "answer": "206",
+    "accepted_answers": [
+      "206"
+    ]
+  },
+  {
+    "id": "biology-0001",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 1,
+    "question": "Какой орган перекачивает кровь по телу?",
+    "answer": "Сердце",
+    "accepted_answers": [
+      "Сердце"
+    ]
+  },
+  {
+    "id": "biology-0002",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Сколько камер в сердце человека?",
+    "answer": "4",
+    "accepted_answers": [
+      "4"
+    ]
+  },
+  {
+    "id": "biology-0020",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какая кость считается самой маленькой в теле человека?",
+    "answer": "Стремечко",
+    "accepted_answers": [
+      "Стремечко",
+      "стременная кость"
+    ]
+  },
+  {
+    "id": "biology-0022",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какие кости образуют защитную клетку вокруг сердца и лёгких?",
+    "answer": "Рёбра",
+    "accepted_answers": [
+      "Рёбра",
+      "ребра"
+    ]
+  },
+  {
+    "id": "biology-0007",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Какие клетки крови переносят кислород?",
+    "answer": "Эритроциты",
+    "accepted_answers": [
+      "Эритроциты",
+      "красные кровяные клетки"
+    ]
+  },
+  {
+    "id": "biology-0044",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Какая часть внутреннего уха имеет форму улитки и участвует в слухе?",
+    "answer": "Улитка",
+    "accepted_answers": [
+      "Улитка",
+      "кохлеа"
+    ]
+  },
+  {
+    "id": "biology-0026",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Какая мышца на передней стороне плеча сгибает руку?",
+    "answer": "Бицепс",
+    "accepted_answers": [
+      "Бицепс"
+    ]
+  },
+  {
+    "id": "biology-0027",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "В каком органе пища смешивается с желудочным соком?",
+    "answer": "Желудок",
+    "accepted_answers": [
+      "Желудок"
+    ]
+  },
+  {
+    "id": "biology-0028",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "В каком отделе кишечника всасывается большая часть питательных веществ?",
+    "answer": "Тонкий кишечник",
+    "accepted_answers": [
+      "Тонкий кишечник"
+    ]
+  },
+  {
+    "id": "biology-0011",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 2,
+    "question": "Как называется жидкая часть крови?",
+    "answer": "Плазма",
+    "accepted_answers": [
+      "Плазма"
+    ]
+  },
+  {
+    "id": "biology-0029",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Какой отдел кишечника в основном всасывает воду и формирует кал?",
+    "answer": "Толстый кишечник",
+    "accepted_answers": [
+      "Толстый кишечник"
+    ]
+  },
+  {
+    "id": "biology-0031",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Где хранится желчь до поступления в кишечник?",
+    "answer": "В желчном пузыре",
+    "accepted_answers": [
+      "В желчном пузыре",
+      "желчный пузырь"
+    ]
+  },
+  {
+    "id": "biology-0033",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Какие органы фильтруют кровь и образуют мочу?",
+    "answer": "Почки",
+    "accepted_answers": [
+      "Почки"
+    ]
+  },
+  {
+    "id": "biology-0035",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Как называется трубка, по которой пища идёт из глотки в желудок?",
+    "answer": "Пищевод",
+    "accepted_answers": [
+      "Пищевод"
+    ]
+  },
+  {
+    "id": "biology-0036",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Как называется дыхательная трубка, ведущая к бронхам?",
+    "answer": "Трахея",
+    "accepted_answers": [
+      "Трахея"
+    ]
+  },
+  {
+    "id": "biology-0019",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Человек",
+    "points": 3,
+    "question": "Какая кость самая длинная в теле человека?",
+    "answer": "Бедренная кость",
+    "accepted_answers": [
+      "Бедренная кость",
+      "бедренная"
+    ]
+  },
+  {
+    "id": "biology-0078",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "Какое млекопитающее откладывает яйца и имеет утиный клюв?",
+    "answer": "Утконос",
+    "accepted_answers": [
+      "Утконос"
+    ]
+  },
+  {
+    "id": "biology-0066",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "Какие позвоночные обычно покрыты чешуёй и дышат жабрами?",
+    "answer": "Рыбы",
+    "accepted_answers": [
+      "Рыбы"
+    ]
+  },
+  {
+    "id": "biology-0067",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "Какие позвоночные часть жизни проводят в воде, а часть на суше?",
+    "answer": "Земноводные",
+    "accepted_answers": [
+      "Земноводные",
+      "амфибии"
+    ]
+  },
+  {
+    "id": "biology-0074",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое животное является крупнейшим из ныне живущих?",
+    "answer": "Синий кит",
+    "accepted_answers": [
+      "Синий кит",
+      "голубой кит"
+    ]
+  },
+  {
+    "id": "biology-0076",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое наземное животное самое быстрое на короткой дистанции?",
+    "answer": "Гепард",
+    "accepted_answers": [
+      "Гепард"
+    ]
+  },
+  {
+    "id": "biology-0061",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "Как называются животные с позвоночником?",
+    "answer": "Позвоночные",
+    "accepted_answers": [
+      "Позвоночные"
+    ]
+  },
+  {
+    "id": "biology-0097",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какая птица известна способностью подражать человеческой речи?",
+    "answer": "Попугай",
+    "accepted_answers": [
+      "Попугай"
+    ]
+  },
+  {
+    "id": "biology-0079",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое сумчатое животное носит детёныша в сумке и прыгает?",
+    "answer": "Кенгуру",
+    "accepted_answers": [
+      "Кенгуру"
+    ]
+  },
+  {
+    "id": "biology-0062",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "Как называются животные без позвоночника?",
+    "answer": "Беспозвоночные",
+    "accepted_answers": [
+      "Беспозвоночные"
+    ]
+  },
+  {
+    "id": "biology-0080",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое животное большую часть жизни питается эвкалиптом?",
+    "answer": "Коала",
+    "accepted_answers": [
+      "Коала"
+    ]
+  },
+  {
+    "id": "biology-0063",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 1,
+    "question": "К какому классу животных относится человек?",
+    "answer": "Млекопитающие",
+    "accepted_answers": [
+      "Млекопитающие",
+      "млекопитающее"
+    ]
+  },
+  {
+    "id": "biology-0064",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какой признак дал название млекопитающим?",
+    "answer": "Кормление детёнышей молоком",
+    "accepted_answers": [
+      "Кормление детёнышей молоком",
+      "молочные железы"
+    ]
+  },
+  {
+    "id": "biology-0065",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какие позвоночные покрыты перьями?",
+    "answer": "Птицы",
+    "accepted_answers": [
+      "Птицы"
+    ]
+  },
+  {
+    "id": "biology-0068",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится лягушка?",
+    "answer": "Земноводные",
+    "accepted_answers": [
+      "Земноводные",
+      "амфибии"
+    ]
+  },
+  {
+    "id": "biology-0069",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится крокодил?",
+    "answer": "Пресмыкающиеся",
+    "accepted_answers": [
+      "Пресмыкающиеся",
+      "рептилии"
+    ]
+  },
+  {
+    "id": "biology-0070",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится пингвин?",
+    "answer": "Птицы",
+    "accepted_answers": [
+      "Птицы",
+      "птица"
+    ]
+  },
+  {
+    "id": "biology-0071",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится дельфин?",
+    "answer": "Млекопитающие",
+    "accepted_answers": [
+      "Млекопитающие",
+      "млекопитающее"
+    ]
+  },
+  {
+    "id": "biology-0072",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится кит?",
+    "answer": "Млекопитающие",
+    "accepted_answers": [
+      "Млекопитающие",
+      "млекопитающее"
+    ]
+  },
+  {
+    "id": "biology-0073",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "К какой группе относится летучая мышь?",
+    "answer": "Млекопитающие",
+    "accepted_answers": [
+      "Млекопитающие",
+      "млекопитающее"
+    ]
+  },
+  {
+    "id": "biology-0092",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется сезонное перемещение животных на большие расстояния?",
+    "answer": "Миграция",
+    "accepted_answers": [
+      "Миграция"
+    ]
+  },
+  {
+    "id": "biology-0075",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое сухопутное животное самое крупное?",
+    "answer": "Африканский слон",
+    "accepted_answers": [
+      "Африканский слон",
+      "слон"
+    ]
+  },
+  {
+    "id": "biology-0112",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Какое морское животное имеет пять лучей и способно восстанавливать их?",
+    "answer": "Морская звезда",
+    "accepted_answers": [
+      "Морская звезда"
+    ]
+  },
+  {
+    "id": "biology-0094",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Какая крупная птица не летает и быстро бегает?",
+    "answer": "Страус",
+    "accepted_answers": [
+      "Страус"
+    ]
+  },
+  {
+    "id": "biology-0077",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 2,
+    "question": "Какое животное считается самым высоким?",
+    "answer": "Жираф",
+    "accepted_answers": [
+      "Жираф"
+    ]
+  },
+  {
+    "id": "biology-0095",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Какая птица способна зависать в воздухе и лететь назад?",
+    "answer": "Колибри",
+    "accepted_answers": [
+      "Колибри"
+    ]
+  },
+  {
+    "id": "biology-0096",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Какая ночная птица поворачивает голову на большой угол?",
+    "answer": "Сова",
+    "accepted_answers": [
+      "Сова"
+    ]
+  },
+  {
+    "id": "biology-0098",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 4,
+    "question": "Как называется процесс появления птенца из яйца?",
+    "answer": "Вылупление",
+    "accepted_answers": [
+      "Вылупление"
+    ]
+  },
+  {
+    "id": "biology-0081",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется детёныш овцы?",
+    "answer": "Ягнёнок",
+    "accepted_answers": [
+      "Ягнёнок",
+      "ягненок"
+    ]
+  },
+  {
+    "id": "biology-0099",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 4,
+    "question": "Как называется смена наружного покрова у змей и членистоногих?",
+    "answer": "Линька",
+    "accepted_answers": [
+      "Линька"
+    ]
+  },
+  {
+    "id": "biology-0082",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется детёныш лошади?",
+    "answer": "Жеребёнок",
+    "accepted_answers": [
+      "Жеребёнок",
+      "жеребенок"
+    ]
+  },
+  {
+    "id": "biology-0083",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется детёныш коровы?",
+    "answer": "Телёнок",
+    "accepted_answers": [
+      "Телёнок",
+      "теленок"
+    ]
+  },
+  {
+    "id": "biology-0084",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется детёныш свиньи?",
+    "answer": "Поросёнок",
+    "accepted_answers": [
+      "Поросёнок",
+      "поросенок"
+    ]
+  },
+  {
+    "id": "biology-0085",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется детёныш козы?",
+    "answer": "Козлёнок",
+    "accepted_answers": [
+      "Козлёнок",
+      "козленок"
+    ]
+  },
+  {
+    "id": "biology-0086",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 3,
+    "question": "Как называется группа львов?",
+    "answer": "Прайд",
+    "accepted_answers": [
+      "Прайд"
+    ]
+  },
+  {
+    "id": "biology-0104",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Животные",
+    "points": 4,
+    "question": "Как называются органы чувств на голове насекомых?",
+    "answer": "Усики",
+    "accepted_answers": [
+      "Усики",
+      "антенны"
+    ]
+  },
+  {
+    "id": "biology-0121",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "Как называется процесс, при котором растения создают органические вещества с помощью света?",
+    "answer": "Фотосинтез",
+    "accepted_answers": [
+      "Фотосинтез"
+    ]
+  },
+  {
+    "id": "biology-0122",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "Какой зелёный пигмент поглощает свет для фотосинтеза?",
+    "answer": "Хлорофилл",
+    "accepted_answers": [
+      "Хлорофилл"
+    ]
+  },
+  {
+    "id": "biology-0123",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "Какой газ растения поглощают при фотосинтезе?",
+    "answer": "Углекислый газ",
+    "accepted_answers": [
+      "Углекислый газ",
+      "CO₂",
+      "CO2"
+    ]
+  },
+  {
+    "id": "biology-0125",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "Какая часть растения обычно поглощает воду и соли из почвы?",
+    "answer": "Корень",
+    "accepted_answers": [
+      "Корень"
+    ]
+  },
+  {
+    "id": "biology-0126",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "Какая часть растения поддерживает листья и проводит вещества?",
+    "answer": "Стебель",
+    "accepted_answers": [
+      "Стебель"
+    ]
+  },
+  {
+    "id": "biology-0127",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 1,
+    "question": "В какой части растения чаще всего происходит фотосинтез?",
+    "answer": "В листьях",
+    "accepted_answers": [
+      "В листьях",
+      "лист"
+    ]
+  },
+  {
+    "id": "biology-0128",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Как называются маленькие отверстия на поверхности листа для газообмена?",
+    "answer": "Устьица",
+    "accepted_answers": [
+      "Устьица",
+      "устьице"
+    ]
+  },
+  {
+    "id": "biology-0131",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Какая ткань переносит сахара от листьев к другим частям растения?",
+    "answer": "Флоэма",
+    "accepted_answers": [
+      "Флоэма"
+    ]
+  },
+  {
+    "id": "biology-0134",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Как называется перенос пыльцы с тычинки на пестик?",
+    "answer": "Опыление",
+    "accepted_answers": [
+      "Опыление"
+    ]
+  },
+  {
+    "id": "biology-0135",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Какие животные особенно часто опыляют цветущие растения?",
+    "answer": "Насекомые",
+    "accepted_answers": [
+      "Насекомые",
+      "пчёлы",
+      "пчелы"
+    ]
+  },
+  {
+    "id": "biology-0136",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Как называется слияние мужской и женской половых клеток у растений?",
+    "answer": "Оплодотворение",
+    "accepted_answers": [
+      "Оплодотворение"
+    ]
+  },
+  {
+    "id": "biology-0137",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Из какой части цветка после оплодотворения обычно развивается плод?",
+    "answer": "Из завязи",
+    "accepted_answers": [
+      "Из завязи",
+      "завязь"
+    ]
+  },
+  {
+    "id": "biology-0124",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Какой газ растения выделяют при фотосинтезе?",
+    "answer": "Кислород",
+    "accepted_answers": [
+      "Кислород"
+    ]
+  },
+  {
+    "id": "biology-0139",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 3,
+    "question": "Как называется начало роста растения из семени?",
+    "answer": "Прорастание",
+    "accepted_answers": [
+      "Прорастание"
+    ]
+  },
+  {
+    "id": "biology-0140",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 3,
+    "question": "Какие три условия обычно нужны семени для прорастания?",
+    "answer": "Вода, тепло и кислород",
+    "accepted_answers": [
+      "Вода, тепло и кислород",
+      "влага, тепло и воздух"
+    ]
+  },
+  {
+    "id": "biology-0143",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 3,
+    "question": "Как называются деревья, сбрасывающие листья на зиму?",
+    "answer": "Листопадные",
+    "accepted_answers": [
+      "Листопадные"
+    ]
+  },
+  {
+    "id": "biology-0129",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Как называется испарение воды листьями?",
+    "answer": "Транспирация",
+    "accepted_answers": [
+      "Транспирация"
+    ]
+  },
+  {
+    "id": "biology-0130",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Какая ткань проводит воду от корней вверх?",
+    "answer": "Ксилема",
+    "accepted_answers": [
+      "Ксилема"
+    ]
+  },
+  {
+    "id": "biology-0132",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 2,
+    "question": "Какая часть цветка производит пыльцу?",
+    "answer": "Тычинка",
+    "accepted_answers": [
+      "Тычинка",
+      "тычинки"
+    ]
+  },
+  {
+    "id": "biology-0162",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Растения и грибы",
+    "points": 3,
+    "question": "Какое растение запасает воду в мясистом стебле и имеет колючки?",
+    "answer": "Кактус",
+    "accepted_answers": [
+      "Кактус"
+    ]
+  },
+  {
+    "id": "biology-0171",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Как называется тонкая оболочка, отделяющая клетку от окружающей среды?",
+    "answer": "Клеточная мембрана",
+    "accepted_answers": [
+      "Клеточная мембрана",
+      "мембрана"
+    ]
+  },
+  {
+    "id": "biology-0172",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Как называется внутреннее полужидкое содержимое клетки?",
+    "answer": "Цитоплазма",
+    "accepted_answers": [
+      "Цитоплазма"
+    ]
+  },
+  {
+    "id": "biology-0173",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Какая органелла хранит большую часть ДНК эукариотической клетки?",
+    "answer": "Ядро",
+    "accepted_answers": [
+      "Ядро"
+    ]
+  },
+  {
+    "id": "biology-0175",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Какие органеллы производят основную часть энергии в клетке?",
+    "answer": "Митохондрии",
+    "accepted_answers": [
+      "Митохондрии"
+    ]
+  },
+  {
+    "id": "biology-0176",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "В каких органеллах растительной клетки происходит фотосинтез?",
+    "answer": "Хлоропласты",
+    "accepted_answers": [
+      "Хлоропласты"
+    ]
+  },
+  {
+    "id": "biology-0177",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Какая жёсткая структура находится снаружи мембраны растительной клетки?",
+    "answer": "Клеточная стенка",
+    "accepted_answers": [
+      "Клеточная стенка"
+    ]
+  },
+  {
+    "id": "biology-0178",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Какая крупная полость растительной клетки заполнена клеточным соком?",
+    "answer": "Вакуоль",
+    "accepted_answers": [
+      "Вакуоль"
+    ]
+  },
+  {
+    "id": "biology-0179",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 1,
+    "question": "Как называется организм, клетка которого не имеет оформленного ядра?",
+    "answer": "Прокариот",
+    "accepted_answers": [
+      "Прокариот",
+      "прокариотический организм"
+    ]
+  },
+  {
+    "id": "biology-0180",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Как называется организм с клетками, имеющими оформленное ядро?",
+    "answer": "Эукариот",
+    "accepted_answers": [
+      "Эукариот",
+      "эукариотический организм"
+    ]
+  },
+  {
+    "id": "biology-0181",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "К какой группе клеточных организмов относятся бактерии?",
+    "answer": "Прокариоты",
+    "accepted_answers": [
+      "Прокариоты"
+    ]
+  },
+  {
+    "id": "biology-0182",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Как называется деление клетки, при котором образуются две генетически похожие клетки?",
+    "answer": "Митоз",
+    "accepted_answers": [
+      "Митоз"
+    ]
+  },
+  {
+    "id": "biology-0183",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Как называется деление, при котором образуются половые клетки с половинным набором хромосом?",
+    "answer": "Мейоз",
+    "accepted_answers": [
+      "Мейоз"
+    ]
+  },
+  {
+    "id": "biology-0184",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Как называются мужская и женская половые клетки одним словом?",
+    "answer": "Гаметы",
+    "accepted_answers": [
+      "Гаметы"
+    ]
+  },
+  {
+    "id": "biology-0186",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Как называется участок ДНК, содержащий информацию о признаке или продукте?",
+    "answer": "Ген",
+    "accepted_answers": [
+      "Ген"
+    ]
+  },
+  {
+    "id": "biology-0187",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Как называется полный набор наследственной информации организма?",
+    "answer": "Геном",
+    "accepted_answers": [
+      "Геном"
+    ]
+  },
+  {
+    "id": "biology-0174",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 2,
+    "question": "Какие органеллы синтезируют белки?",
+    "answer": "Рибосомы",
+    "accepted_answers": [
+      "Рибосомы"
+    ]
+  },
+  {
+    "id": "biology-0189",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Какой учёный сформулировал основные законы наследования на опытах с горохом?",
+    "answer": "Грегор Мендель",
+    "accepted_answers": [
+      "Грегор Мендель",
+      "Мендель"
+    ]
+  },
+  {
+    "id": "biology-0190",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Как называется признак, проявляющийся при наличии одного соответствующего аллеля?",
+    "answer": "Доминантный признак",
+    "accepted_answers": [
+      "Доминантный признак",
+      "доминантный"
+    ]
+  },
+  {
+    "id": "biology-0191",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Как называется признак, скрытый доминантным аллелем?",
+    "answer": "Рецессивный признак",
+    "accepted_answers": [
+      "Рецессивный признак",
+      "рецессивный"
+    ]
+  },
+  {
+    "id": "biology-0192",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Клетка и генетика",
+    "points": 3,
+    "question": "Как называется внешний набор наблюдаемых признаков организма?",
+    "answer": "Фенотип",
+    "accepted_answers": [
+      "Фенотип"
+    ]
+  },
+  {
+    "id": "biology-0228",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называется последовательность организмов, где каждый служит пищей следующему?",
+    "answer": "Пищевая цепь",
+    "accepted_answers": [
+      "Пищевая цепь",
+      "цепь питания"
+    ]
+  },
+  {
+    "id": "biology-0221",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 1,
+    "question": "Как называется система живых организмов и среды их обитания?",
+    "answer": "Экосистема",
+    "accepted_answers": [
+      "Экосистема"
+    ]
+  },
+  {
+    "id": "biology-0222",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 1,
+    "question": "Как называется место, где организм живёт в природе?",
+    "answer": "Среда обитания",
+    "accepted_answers": [
+      "Среда обитания",
+      "местообитание"
+    ]
+  },
+  {
+    "id": "biology-0223",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 1,
+    "question": "Как называется группа особей одного вида на одной территории?",
+    "answer": "Популяция",
+    "accepted_answers": [
+      "Популяция"
+    ]
+  },
+  {
+    "id": "biology-0224",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 1,
+    "question": "Как называется совокупность популяций разных видов на одной территории?",
+    "answer": "Сообщество",
+    "accepted_answers": [
+      "Сообщество",
+      "биоценоз"
+    ]
+  },
+  {
+    "id": "biology-0225",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называются организмы, создающие органические вещества из неорганических?",
+    "answer": "Продуценты",
+    "accepted_answers": [
+      "Продуценты",
+      "производители"
+    ]
+  },
+  {
+    "id": "biology-0226",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называются организмы, питающиеся готовыми органическими веществами?",
+    "answer": "Консументы",
+    "accepted_answers": [
+      "Консументы",
+      "потребители"
+    ]
+  },
+  {
+    "id": "biology-0227",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называются организмы, разлагающие мёртвое органическое вещество?",
+    "answer": "Редуценты",
+    "accepted_answers": [
+      "Редуценты",
+      "разрушители",
+      "деструкторы"
+    ]
+  },
+  {
+    "id": "biology-0230",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называется организм, самостоятельно создающий органические вещества?",
+    "answer": "Автотроф",
+    "accepted_answers": [
+      "Автотроф"
+    ]
+  },
+  {
+    "id": "biology-0231",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называется животное, питающееся растениями?",
+    "answer": "Травоядное",
+    "accepted_answers": [
+      "Травоядное",
+      "растительноядное"
+    ]
+  },
+  {
+    "id": "biology-0232",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называется животное, питающееся другими животными?",
+    "answer": "Хищник",
+    "accepted_answers": [
+      "Хищник",
+      "плотоядное"
+    ]
+  },
+  {
+    "id": "biology-0233",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется организм, на который охотится хищник?",
+    "answer": "Жертва",
+    "accepted_answers": [
+      "Жертва",
+      "добыча"
+    ]
+  },
+  {
+    "id": "biology-0234",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется борьба организмов за одинаковые ограниченные ресурсы?",
+    "answer": "Конкуренция",
+    "accepted_answers": [
+      "Конкуренция"
+    ]
+  },
+  {
+    "id": "biology-0235",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется связь, при которой один организм получает пользу, а другой терпит вред?",
+    "answer": "Паразитизм",
+    "accepted_answers": [
+      "Паразитизм"
+    ]
+  },
+  {
+    "id": "biology-0236",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется связь, при которой один вид получает пользу, а другому безразлично?",
+    "answer": "Комменсализм",
+    "accepted_answers": [
+      "Комменсализм"
+    ]
+  },
+  {
+    "id": "biology-0237",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется разнообразие видов, генов и экосистем?",
+    "answer": "Биоразнообразие",
+    "accepted_answers": [
+      "Биоразнообразие"
+    ]
+  },
+  {
+    "id": "biology-0238",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется вид, занесённый человеком за пределы естественного ареала и вредящий местной природе?",
+    "answer": "Инвазивный вид",
+    "accepted_answers": [
+      "Инвазивный вид",
+      "инвазивный"
+    ]
+  },
+  {
+    "id": "biology-0239",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 3,
+    "question": "Как называется вид, которому грозит исчезновение?",
+    "answer": "Исчезающий вид",
+    "accepted_answers": [
+      "Исчезающий вид",
+      "угрожаемый вид"
+    ]
+  },
+  {
+    "id": "biology-0229",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 2,
+    "question": "Как называется сеть связанных пищевых цепей?",
+    "answer": "Пищевая сеть",
+    "accepted_answers": [
+      "Пищевая сеть"
+    ]
+  },
+  {
+    "id": "biology-0241",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Экология и эволюция",
+    "points": 4,
+    "question": "Как называется список редких и находящихся под угрозой видов?",
+    "answer": "Красная книга",
+    "accepted_answers": [
+      "Красная книга",
+      "Красный список"
+    ]
+  },
+  {
+    "id": "biology-0273",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 4,
+    "question": "Почему антибиотики не лечат обычную вирусную простуду?",
+    "answer": "Они не действуют на вирусы",
+    "accepted_answers": [
+      "Они не действуют на вирусы",
+      "простуда вызывается вирусами"
+    ]
+  },
+  {
+    "id": "biology-0261",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 1,
+    "question": "Как называются одноклеточные организмы без оформленного ядра?",
+    "answer": "Бактерии",
+    "accepted_answers": [
+      "Бактерии"
+    ]
+  },
+  {
+    "id": "biology-0264",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 1,
+    "question": "Как называются микроскопические грибы, используемые в выпечке?",
+    "answer": "Дрожжи",
+    "accepted_answers": [
+      "Дрожжи"
+    ]
+  },
+  {
+    "id": "biology-0265",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 2,
+    "question": "Как называется процесс, при котором дрожжи превращают сахар в спирт и углекислый газ?",
+    "answer": "Брожение",
+    "accepted_answers": [
+      "Брожение",
+      "ферментация"
+    ]
+  },
+  {
+    "id": "biology-0266",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 2,
+    "question": "Какие бактерии помогают превращать молоко в йогурт?",
+    "answer": "Молочнокислые бактерии",
+    "accepted_answers": [
+      "Молочнокислые бактерии",
+      "лактобактерии"
+    ]
+  },
+  {
+    "id": "biology-0269",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 2,
+    "question": "Как называется нагрев продукта для уничтожения опасных микробов без кипячения?",
+    "answer": "Пастеризация",
+    "accepted_answers": [
+      "Пастеризация"
+    ]
+  },
+  {
+    "id": "biology-0271",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 2,
+    "question": "Как одним словом называют организм или агент, вызывающий болезнь?",
+    "answer": "Патоген",
+    "accepted_answers": [
+      "Патоген",
+      "возбудитель"
+    ]
+  },
+  {
+    "id": "biology-0262",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 1,
+    "question": "Является ли вирус клеточным организмом?",
+    "answer": "Нет",
+    "accepted_answers": [
+      "Нет"
+    ]
+  },
+  {
+    "id": "biology-0274",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется способность бактерий перестать реагировать на антибиотик?",
+    "answer": "Устойчивость к антибиотикам",
+    "accepted_answers": [
+      "Устойчивость к антибиотикам",
+      "антибиотикорезистентность"
+    ]
+  },
+  {
+    "id": "biology-0263",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 2,
+    "question": "Что вирусу необходимо для размножения?",
+    "answer": "Клетка хозяина",
+    "accepted_answers": [
+      "Клетка хозяина",
+      "живая клетка"
+    ]
+  },
+  {
+    "id": "biology-0275",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется препарат, обучающий иммунитет распознавать возбудителя?",
+    "answer": "Вакцина",
+    "accepted_answers": [
+      "Вакцина"
+    ]
+  },
+  {
+    "id": "biology-0276",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется вещество, которое иммунная система распознаёт как чужое?",
+    "answer": "Антиген",
+    "accepted_answers": [
+      "Антиген"
+    ]
+  },
+  {
+    "id": "biology-0277",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется защитная реакция организма с покраснением, жаром, болью и отёком?",
+    "answer": "Воспаление",
+    "accepted_answers": [
+      "Воспаление"
+    ]
+  },
+  {
+    "id": "biology-0278",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется повышенная чувствительность иммунной системы к безвредному веществу?",
+    "answer": "Аллергия",
+    "accepted_answers": [
+      "Аллергия"
+    ]
+  },
+  {
+    "id": "biology-0279",
+    "category": "Биология",
+    "category_key": "biology",
+    "subcategory": "Микроорганизмы и иммунитет",
+    "points": 3,
+    "question": "Как называется врождённая защита организма, действующая с рождения?",
+    "answer": "Врождённый иммунитет",
+    "accepted_answers": [
+      "Врождённый иммунитет",
+      "неспецифический иммунитет"
+    ]
+  }
+];
