@@ -1014,9 +1014,12 @@ input:focus-visible,
 }
 
 .back-button {
-  width: auto;
-  min-width: 82px;
-  padding-inline: 11px 13px;
+  width: 46px;
+  height: 46px;
+  min-width: 46px;
+  min-height: 46px;
+  padding: 0;
+  border-radius: 50%;
 }
 
 .plain-button {
@@ -1026,7 +1029,6 @@ input:focus-visible,
 
 .menu-home-button {
   display: inline-flex;
-  gap: 7px;
   align-items: center;
   justify-content: center;
   font-family: var(--bq-action);
@@ -1281,6 +1283,7 @@ input:focus-visible,
 
 .ready-card {
   --swipe-x: 0px;
+  --swipe-exit: 0px;
   position: relative;
   isolation: isolate;
   display: flex;
@@ -1300,6 +1303,26 @@ input:focus-visible,
   text-align: left;
   touch-action: pan-y;
   user-select: none;
+  will-change: transform, opacity;
+  transform: translate3d(var(--swipe-x), 0, 0);
+  transition:
+    transform 280ms cubic-bezier(0.2, 0.82, 0.2, 1),
+    opacity 220ms ease,
+    box-shadow 220ms ease;
+}
+
+.ready-card.swiping {
+  box-shadow: 0 24px 70px rgba(6, 11, 50, 0.42);
+  transform: translate3d(clamp(-150px, var(--swipe-x), 150px), 0, 0);
+  transition: none;
+}
+
+.ready-card.swipe-committed {
+  opacity: 0.08;
+  transform: translate3d(var(--swipe-exit), 0, 0);
+  transition:
+    transform 260ms cubic-bezier(0.34, 0.02, 0.78, 0.24),
+    opacity 210ms ease;
 }
 
 .ready-card > *:not(.ready-phone-turn) {
@@ -1388,7 +1411,7 @@ input:focus-visible,
 
 .ready-card.swiping .swipe-start-hint {
   background: rgba(255, 75, 69, 0.88);
-  transform: translateX(clamp(-54px, var(--swipe-x), 54px));
+  transform: none;
   transition: none;
 }
 
@@ -1488,14 +1511,16 @@ input:focus-visible,
 
 .exit-home-button {
   display: inline-flex;
-  gap: 6px;
   align-items: center;
   justify-content: center;
-  min-height: 34px;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
   margin: 0;
-  padding: 7px 9px;
+  padding: 0;
   border: 1px solid rgba(255, 244, 218, 0.64);
-  border-radius: 5px;
+  border-radius: 50%;
   background: rgba(6, 11, 50, 0.32);
   color: var(--bq-cream);
   font-family: var(--bq-action);
@@ -1505,8 +1530,8 @@ input:focus-visible,
 }
 
 .exit-home-button svg {
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
 }
 
 .exit-home-button:hover {
@@ -1538,8 +1563,12 @@ input:focus-visible,
   --timer-progress: 100%;
   position: relative;
   display: grid;
+  width: 76px;
+  height: 76px;
   min-width: 76px;
   min-height: 76px;
+  aspect-ratio: 1;
+  justify-self: end;
   padding: 8px;
   place-content: center;
   overflow: hidden;
@@ -1888,6 +1917,58 @@ input:focus-visible,
   margin: 0;
   font-size: 15px;
   font-weight: 750;
+}
+
+.full-answer-list {
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  height: 100%;
+  padding: 5px 12px;
+}
+
+.full-answer-list .answer-row {
+  grid-template-columns: 50px minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: 5px 9px;
+  align-content: stretch;
+  min-height: 0;
+  padding: 6px 2px;
+}
+
+.full-answer-list .answer-row-head {
+  grid-row: 1 / span 2;
+  padding-right: 6px;
+}
+
+.game-card.answer-side.multi-answer-face .full-answer-list .answer-row h2.answer-value {
+  grid-column: 2;
+  align-self: end;
+  width: 100%;
+  margin: 0;
+  padding: 6px 9px;
+  border-left-width: 4px;
+  box-shadow: none;
+  font-size: clamp(13px, 3.6vw, 18px);
+  line-height: 1.08;
+}
+
+.full-answer-list .answer-mark {
+  grid-column: 2;
+  gap: 5px;
+}
+
+.full-answer-list .answer-mark button {
+  min-height: 31px;
+  padding: 4px 3px;
+  font-size: clamp(8px, 2.45vw, 11px);
+  line-height: 1.05;
+}
+
+.full-answer-list .answer-row.marked.correct {
+  background: linear-gradient(90deg, rgba(85, 217, 165, 0.12), transparent 58%);
+}
+
+.full-answer-list .answer-row.marked.missed {
+  background: linear-gradient(90deg, rgba(255, 75, 69, 0.09), transparent 58%);
 }
 
 .play-actions {
@@ -15097,13 +15178,12 @@ window.ASI_QUESTION_BANK = [
 
   function topbar(title) {
     return `<header class="game-topbar">
-      <button class="back-button menu-home-button" id="homeMenuButton" type="button" aria-label="Вернуться в главное меню">
+      <button class="back-button menu-home-button" id="homeMenuButton" type="button" aria-label="Вернуться в главное меню" title="В меню">
         <svg viewBox="0 0 24 24" aria-hidden="true">
           <path d="M3 11.2 12 4l9 7.2"></path>
           <path d="M5.8 10.2V20h12.4v-9.8"></path>
           <path d="M9.6 20v-5.8h4.8V20"></path>
         </svg>
-        <span>Меню</span>
       </button>
       <div class="mini-brand"><span class="mini-mark" aria-hidden="true">ASI</span><span>${safeText(title)}</span></div>
       <button class="plain-button" id="newGameButton" type="button">Новая игра</button>
@@ -15205,40 +15285,21 @@ window.ASI_QUESTION_BANK = [
   }
 
   function answerFaceMarkup(questions) {
-    const total=cardTotal(questions);
-    const markedCount=questions.filter(question=>state.answerMarks[question.id]).length;
-    const allMarked=questions.length===4 && markedCount===4;
-    const index=Math.max(0,Math.min(questions.length-1,state.answerIndex || 0));
-    const question=questions[index];
-    if (allMarked) {
-      return `<article class="game-card answer-side multi-answer-face" aria-label="Все ответы проверены">
-        <div class="answer-complete">
-          <span class="answer-progress-label">4 из 4</span>
-          <strong>Все ответы отмечены</strong>
-          <p>Команда получает ${scoreLabel(currentScore())} из ${scoreLabel(total)}.</p>
-        </div>
-      </article>`;
-    }
     return `<article class="game-card answer-side multi-answer-face" aria-label="Сторона с ответами">
-      <div class="sequential-answer-head">
-        <span>Ответ ${index+1} из 4</span>
-        <div class="answer-progress-dots" aria-hidden="true">${questions.map((item,itemIndex)=>`
-          <i class="${state.answerMarks[item.id]?"done":itemIndex===index?"current":""}"></i>`).join("")}</div>
-      </div>
-      <div class="answer-list sequential-answer-list">
-        <section class="answer-row active-answer">
+      <div class="answer-list full-answer-list">${questions.map(question=>{
+        const mark=state.answerMarks[question.id] || "";
+        return `<section class="answer-row ${mark?`marked ${mark}`:""}">
           <div class="answer-row-head" aria-label="${scoreLabel(question.points)}">
             <span class="question-number">${question.points}</span>
             <span class="question-points">${scoreWord(question.points)}</span>
           </div>
-          <p class="answer-label">Правильный ответ</p>
           <h2 class="answer-value">${safeText(question.answer)}</h2>
           <div class="answer-mark">
-            <button data-mark-id="${safeText(question.id)}" data-mark="correct" type="button">Правильно ✓</button>
-            <button data-mark-id="${safeText(question.id)}" data-mark="missed" type="button">Неправильно ×</button>
+            <button class="${mark==="correct"?"selected correct":""}" data-mark-id="${safeText(question.id)}" data-mark="correct" type="button" aria-pressed="${mark==="correct"}">Правильно ✓</button>
+            <button class="${mark==="missed"?"selected missed":""}" data-mark-id="${safeText(question.id)}" data-mark="missed" type="button" aria-pressed="${mark==="missed"}">Неправильно ×</button>
           </div>
-        </section>
-      </div>
+        </section>`;
+      }).join("")}</div>
     </article>`;
   }
 
@@ -15257,7 +15318,8 @@ window.ASI_QUESTION_BANK = [
     const total = state.minutes*60;
     const percent = Math.max(0,Math.min(100,state.timeLeft/total*100));
     const status = state.timeExpired ? "Время вышло" : state.timerRunning ? "Идёт" : state.flipped ? "Ответы" : "Пауза";
-    const allMarked = questions.length===4 && questions.every(question=>state.answerMarks[question.id]);
+    const markedCount = questions.filter(question=>state.answerMarks[question.id]).length;
+    const hasMarked = markedCount>0;
     return `${topbar("Карточка команды")}
       <div class="play-header">
         <div class="score-box"><span>${safeText(currentTeam().name)}</span><strong>${currentTeam().score}</strong></div>
@@ -15265,15 +15327,14 @@ window.ASI_QUESTION_BANK = [
         <div class="score-box next"><span>Далее · ${safeText(nextTeam().name)}</span><strong>${nextTeam().score}</strong></div>
       </div>
       <header class="quiz-card-banner">
+        <button class="exit-home-button menu-home-button" id="exitHomeButton" type="button" aria-label="Вернуться в главное меню" title="В меню">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M3 11.2 12 4l9 7.2"></path>
+            <path d="M5.8 10.2V20h12.4v-9.8"></path>
+            <path d="M9.6 20v-5.8h4.8V20"></path>
+          </svg>
+        </button>
         <div class="quiz-card-copy">
-          <button class="exit-home-button menu-home-button" id="exitHomeButton" type="button" aria-label="Вернуться в главное меню">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M3 11.2 12 4l9 7.2"></path>
-              <path d="M5.8 10.2V20h12.4v-9.8"></path>
-              <path d="M9.6 20v-5.8h4.8V20"></path>
-            </svg>
-            <span>В меню</span>
-          </button>
           <h1>Карточка ${String(state.turn+1).padStart(2,"0")}</h1>
           <span class="card-count">4 вопроса</span>
         </div>
@@ -15291,10 +15352,10 @@ window.ASI_QUESTION_BANK = [
           ${answerFaceMarkup(questions)}
         </div>
       </div>
-      <div class="play-actions ${state.flipped&&allMarked?"answer-actions":"single-action"}">
+      <div class="play-actions ${state.flipped?"answer-actions":"single-action"}">
         ${state.flipped
           ? `<button class="button secondary answer-back-button" id="returnQuestionsButton" type="button"><span class="answer-back-icon" aria-hidden="true">↓</span><span>К вопросам</span></button>
-             ${allMarked?`<button class="button primary" id="confirmScoreButton" type="button">Засчитать ${scoreLabel(currentScore())}</button>`:""}`
+             <button class="button primary" id="confirmScoreButton" type="button" ${hasMarked?"":"disabled"}>${hasMarked?`Засчитать ${scoreLabel(currentScore())} →`:"Отметьте ответ"}</button>`
           : `<button class="button secondary" id="manualFlipButton" type="button">Показать ответы ↓</button>`}
       </div>`;
   }
@@ -15458,28 +15519,20 @@ window.ASI_QUESTION_BANK = [
   function flipCard() {
     if (state.screen!=="play") return;
     state.flipped=!state.flipped;
-    if (state.flipped) {
-      const questions=resolveCurrentQuestions();
-      const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
-      state.answerIndex=nextUnmarked>=0 ? nextUnmarked : 0;
-    }
     tone(state.flipped?620:520,.08);
     renderGame();
   }
 
   function markAnswer(questionId,mark) {
     state.answerMarks[questionId]=mark;
-    const questions=resolveCurrentQuestions();
-    const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
-    state.answerIndex=nextUnmarked>=0 ? nextUnmarked : questions.length-1;
     tone(mark==="correct"?720:310,.07);
     renderGame();
   }
 
   function confirmScore() {
     const questions=resolveCurrentQuestions();
-    if (!questions.every(question=>state.answerMarks[question.id])) {
-      showToast("Отметьте каждый ответ: «Правильно» или «Неправильно».");
+    if (!questions.some(question=>state.answerMarks[question.id])) {
+      showToast("Отметьте хотя бы один ответ.");
       return;
     }
     const points=currentScore();
@@ -15622,13 +15675,29 @@ window.ASI_QUESTION_BANK = [
       let startX=0;
       let startY=0;
       let tracking=false;
-      const resetSwipe=()=>{
+      let resetId=0;
+      const resetSwipe=(animate=true)=>{
         tracking=false;
         swipeSurface.classList.remove("swiping");
-        swipeSurface.style.removeProperty("--swipe-x");
+        if (!animate) {
+          swipeSurface.style.removeProperty("--swipe-x");
+          return;
+        }
+        swipeSurface.style.setProperty("--swipe-x","0px");
+        clearTimeout(resetId);
+        resetId=window.setTimeout(()=>swipeSurface.style.removeProperty("--swipe-x"),280);
+      };
+      const commitSwipe=direction=>{
+        tracking=false;
+        swipeSurface.classList.remove("swiping");
+        swipeSurface.classList.add("swipe-committed");
+        swipeSurface.style.setProperty("--swipe-exit",`${direction*(window.innerWidth+120)}px`);
+        tone(560,.06);
+        window.setTimeout(drawQuestionCard,260);
       };
       swipeSurface.addEventListener("pointerdown",event=>{
         if (event.pointerType==="mouse" && event.button!==0) return;
+        clearTimeout(resetId);
         tracking=true;
         startX=event.clientX;
         startY=event.clientY;
@@ -15644,16 +15713,17 @@ window.ASI_QUESTION_BANK = [
         if (!tracking) return;
         const deltaX=event.clientX-startX;
         const deltaY=event.clientY-startY;
-        resetSwipe();
         if (Math.abs(deltaX)>=64 && Math.abs(deltaX)>Math.abs(deltaY)*1.15) {
-          drawQuestionCard();
+          commitSwipe(deltaX<0?-1:1);
+        } else {
+          resetSwipe();
         }
       });
       swipeSurface.addEventListener("pointercancel",resetSwipe);
       swipeSurface.addEventListener("keydown",event=>{
         if (event.key!=="ArrowLeft" && event.key!=="ArrowRight") return;
         event.preventDefault();
-        drawQuestionCard();
+        commitSwipe(event.key==="ArrowLeft"?-1:1);
       });
     }
 
