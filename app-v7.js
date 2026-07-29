@@ -1,9 +1,22 @@
 (() => {
   "use strict";
 
-  const STORE = "almost-said-it-bold-v10";
+  const STORE = "almost-said-it-bold-v12";
   const LAST_DECK_STORE = "almost-said-it-last-deck-v1";
-  const TEAM_NAMES = ["Детективы","Мозговой штурм","Знатоки","Ночные совы","Вот это поворот","Дикие догадки"];
+  const TEAM_NAMES = [
+    "База знаний","Мимо кассы","Гении на минималках","Чисто интуиция",
+    "Факты в чате","Последние нейроны","Слишком умные","Думали недолго",
+    "Ответ на подходе","Без понятия","Мозги онлайн","Знали, но забыли",
+    "Случайный успех","Это база","Коллективный разум","Почти эксперты",
+    "Вайб эрудиции","Главные герои","Пруфы будут","Шум в голове",
+    "На опыте","Четыре извилины","Умный ход","Кринж-контроль",
+    "Точно знаем","Проверим теорию","Логика вышла","Гугл запрещён",
+    "Фактчекеры","Вопрос закрыт","Версия есть","Дайте подумать",
+    "Сейчас вспомним","Не душните","Мемологи","Культурный код",
+    "Скрытый потенциал","Ответили красиво","Без спойлеров","Мозговой Wi-Fi",
+    "Легенды квиза","Теория всего","Финальный ответ","Зумеры знают",
+    "Турбоэрудиция","Ум в аренду","Нормально делай","Сигма-мыслители"
+  ];
   const home = document.getElementById("main");
   const gameApp = document.getElementById("gameApp");
   const gameRoot = document.getElementById("gameRoot");
@@ -83,13 +96,21 @@
     return [...new Set(QUESTION_BANK.map(question=>question.category))].sort((a,b)=>a.localeCompare(b,"ru"));
   }
 
+  function randomTeamNames(count,excluded=[]) {
+    const blocked=new Set(excluded.map(name=>String(name || "").trim()));
+    let candidates=shuffle(TEAM_NAMES.filter(name=>!blocked.has(name)));
+    if (candidates.length<count) candidates=shuffle(TEAM_NAMES);
+    return candidates.slice(0,count);
+  }
+
   function freshState() {
+    const names=randomTeamNames(2);
     return {
       screen:"home",
       target:30,
       teamCount:2,
       minutes:3,
-      teams:TEAM_NAMES.slice(0,2).map((name,index)=>({id:index+1,name,score:0})),
+      teams:names.map((name,index)=>({id:index+1,name,score:0})),
       activeTeam:0,
       turn:0,
       questionOrder:[],
@@ -97,8 +118,10 @@
       currentQuestionIds:[],
       timeLeft:180,
       timerRunning:false,
+      timerEndsAt:0,
       timeExpired:false,
       flipped:false,
+      answerIndex:0,
       answerMarks:{},
       sound:false,
       categories:categories()
@@ -110,7 +133,7 @@
       const saved = JSON.parse(localStorage.getItem(STORE));
       if (!saved || !Array.isArray(saved.teams)) return freshState();
       const base = freshState();
-      const merged = {...base,...saved,timerRunning:false};
+      const merged = {...base,...saved,timerRunning:false,timerEndsAt:0};
       merged.teams = saved.teams.slice(0,6).map((team,index)=>({
         id:index+1,
         name:String(team.name || `Команда ${index+1}`).slice(0,28),
@@ -130,6 +153,7 @@
         Number.isInteger(saved.questionCursor) ? saved.questionCursor : 0
       ));
       merged.currentQuestionIds = Array.isArray(saved.currentQuestionIds) ? saved.currentQuestionIds : [];
+      merged.answerIndex = Math.max(0,Math.min(3,Number(saved.answerIndex) || 0));
       merged.answerMarks = saved.answerMarks && typeof saved.answerMarks === "object" ? saved.answerMarks : {};
       if (!["home","setup","ready","play","results"].includes(merged.screen)) merged.screen = "home";
       if (merged.screen === "play" && resolveCurrentQuestions(merged).length !== 4) merged.screen = "ready";
@@ -222,6 +246,7 @@
     stopTimer();
     state.screen="home";
     state.timerRunning=false;
+    state.timerEndsAt=0;
     home.hidden=false;
     gameApp.hidden=true;
     saveState();
@@ -237,7 +262,14 @@
 
   function topbar(title) {
     return `<header class="game-topbar">
-      <button class="back-button" id="backButton" type="button" aria-label="Назад">←</button>
+      <button class="back-button menu-home-button" id="homeMenuButton" type="button" aria-label="Вернуться в главное меню">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3 11.2 12 4l9 7.2"></path>
+          <path d="M5.8 10.2V20h12.4v-9.8"></path>
+          <path d="M9.6 20v-5.8h4.8V20"></path>
+        </svg>
+        <span>Меню</span>
+      </button>
       <div class="mini-brand"><span class="mini-mark" aria-hidden="true">ASI</span><span>${safeText(title)}</span></div>
       <button class="plain-button" id="newGameButton" type="button">Новая игра</button>
     </header>`;
@@ -262,7 +294,10 @@
             <div class="choice-row">${[2,3,4,5,6].map(value=>`<button class="choice ${state.teamCount===value?"selected":""}" data-team-count="${value}" type="button">${value}</button>`).join("")}</div>
           </section>
           <section class="setting">
-            <div class="setting-label"><strong>Названия команд</strong><span>нажмите, чтобы изменить</span></div>
+            <div class="setting-label team-name-label">
+              <div><strong>Названия команд</strong><span>можно изменить вручную</span></div>
+              <button class="randomize-teams" id="randomizeTeamNamesButton" type="button" aria-label="Сгенерировать новые названия команд">↻ Другие</button>
+            </div>
             <div class="team-fields">${state.teams.map((team,index)=>`
               <label class="team-field">
                 <span class="team-index">${index+1}</span>
@@ -294,10 +329,11 @@
 
   function readyMarkup() {
     return `${topbar("Almost Said It")}
-      <section class="panel ready-card" aria-labelledby="readyTitle">
+      <section class="panel ready-card" id="readySwipeSurface" tabindex="0" aria-labelledby="readyTitle" aria-describedby="readySwipeHint">
+        <span class="ready-phone-turn" aria-hidden="true">${state.turn+1}</span>
         <span class="ready-badge">Ход ${state.turn+1}</span>
         <h1 id="readyTitle">${safeText(currentTeam().name)}, ваш ход</h1>
-        <p>Передайте телефон активной команде. После старта откроется карточка и сразу пойдёт время.</p>
+        <p>Передайте телефон активной команде. Проведите по экрану влево или вправо — карточка откроется и сразу пойдёт время.</p>
         <div class="summary-grid">
           <div class="summary-item"><strong>${state.target}</strong><span>До победы</span></div>
           <div class="summary-item"><strong>${state.teams.length}</strong><span>Команд</span></div>
@@ -306,7 +342,11 @@
         </div>
         ${teamBoardMarkup()}
         <p class="ready-note">Сейчас отвечает команда «${safeText(currentTeam().name)}». Каждый вопрос приносит от 1 до 8 баллов.</p>
-        <button class="button primary" id="startRoundButton" type="button">Старт</button>
+        <div class="swipe-start-hint" id="readySwipeHint" aria-hidden="true">
+          <span class="swipe-arrows">←</span>
+          <strong>Проведите, чтобы начать</strong>
+          <span class="swipe-arrows">→</span>
+        </div>
       </section>`;
   }
 
@@ -331,14 +371,27 @@
 
   function answerFaceMarkup(questions) {
     const total=cardTotal(questions);
+    const markedCount=questions.filter(question=>state.answerMarks[question.id]).length;
+    const allMarked=questions.length===4 && markedCount===4;
+    const index=Math.max(0,Math.min(questions.length-1,state.answerIndex || 0));
+    const question=questions[index];
+    if (allMarked) {
+      return `<article class="game-card answer-side multi-answer-face" aria-label="Все ответы проверены">
+        <div class="answer-complete">
+          <span class="answer-progress-label">4 из 4</span>
+          <strong>Все ответы отмечены</strong>
+          <p>Команда получает ${scoreLabel(currentScore())} из ${scoreLabel(total)}.</p>
+        </div>
+      </article>`;
+    }
     return `<article class="game-card answer-side multi-answer-face" aria-label="Сторона с ответами">
-      <div class="game-card-head">
-        <span class="category">Ответы</span>
-        <span class="difficulty">${currentScore()} из ${scoreLabel(total)}</span>
+      <div class="sequential-answer-head">
+        <span>Ответ ${index+1} из 4</span>
+        <div class="answer-progress-dots" aria-hidden="true">${questions.map((item,itemIndex)=>`
+          <i class="${state.answerMarks[item.id]?"done":itemIndex===index?"current":""}"></i>`).join("")}</div>
       </div>
-      <div class="answer-list">${questions.map((question,index)=>{
-        const mark = state.answerMarks[question.id];
-        return `<section class="answer-row">
+      <div class="answer-list sequential-answer-list">
+        <section class="answer-row active-answer">
           <div class="answer-row-head" aria-label="${scoreLabel(question.points)}">
             <span class="question-number">${question.points}</span>
             <span class="question-points">${scoreWord(question.points)}</span>
@@ -346,11 +399,11 @@
           <p class="answer-label">Правильный ответ</p>
           <h2 class="answer-value">${safeText(question.answer)}</h2>
           <div class="answer-mark">
-            <button class="${mark==="correct"?"selected correct":""}" data-mark-id="${safeText(question.id)}" data-mark="correct" type="button">Правильно ✓</button>
-            <button class="${mark==="missed"?"selected missed":""}" data-mark-id="${safeText(question.id)}" data-mark="missed" type="button">Неправильно ×</button>
+            <button data-mark-id="${safeText(question.id)}" data-mark="correct" type="button">Правильно ✓</button>
+            <button data-mark-id="${safeText(question.id)}" data-mark="missed" type="button">Неправильно ×</button>
           </div>
-        </section>`;
-      }).join("")}</div>
+        </section>
+      </div>
     </article>`;
   }
 
@@ -377,7 +430,15 @@
         <div class="score-box next"><span>Далее · ${safeText(nextTeam().name)}</span><strong>${nextTeam().score}</strong></div>
       </div>
       <header class="quiz-card-banner">
-        <div>
+        <div class="quiz-card-copy">
+          <button class="exit-home-button menu-home-button" id="exitHomeButton" type="button" aria-label="Вернуться в главное меню">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 11.2 12 4l9 7.2"></path>
+              <path d="M5.8 10.2V20h12.4v-9.8"></path>
+              <path d="M9.6 20v-5.8h4.8V20"></path>
+            </svg>
+            <span>В меню</span>
+          </button>
           <h1>Карточка ${String(state.turn+1).padStart(2,"0")}</h1>
           <span class="card-count">4 вопроса</span>
         </div>
@@ -390,15 +451,16 @@
         <div class="timer-fill ${state.timeLeft<=30?"warning":""}" id="timerFill" style="width:${percent}%"></div>
       </div>
       <div class="card-scene multi-card-scene">
-        <div class="flip-card multi-flip-card ${state.flipped?"flipped":""}" id="flipCard" role="button" tabindex="0" aria-label="${state.flipped?"Показать вопросы":"Показать ответы"}">
+        <div class="flip-card multi-flip-card ${state.flipped?"flipped":""}" id="flipCard" aria-live="polite">
           ${questionFaceMarkup(questions)}
           ${answerFaceMarkup(questions)}
         </div>
       </div>
-      <div class="play-actions single-action">
+      <div class="play-actions ${state.flipped&&allMarked?"answer-actions":"single-action"}">
         ${state.flipped
-          ? `<button class="button primary" id="confirmScoreButton" type="button" ${allMarked?"":"disabled"}>Засчитать ${scoreLabel(currentScore())}</button>`
-          : `<button class="button secondary" id="manualFlipButton" type="button">Показать ответы сейчас</button>`}
+          ? `<button class="button secondary answer-back-button" id="returnQuestionsButton" type="button"><span class="answer-back-icon" aria-hidden="true">↓</span><span>К вопросам</span></button>
+             ${allMarked?`<button class="button primary" id="confirmScoreButton" type="button">Засчитать ${scoreLabel(currentScore())}</button>`:""}`
+          : `<button class="button secondary" id="manualFlipButton" type="button">Показать ответы ↓</button>`}
       </div>`;
   }
 
@@ -422,7 +484,10 @@
   }
 
   function renderGame() {
-    stopTimer();
+    const keepTimerRunning=Boolean(
+      timerId && state.timerRunning && state.screen==="play"
+    );
+    if (!keepTimerRunning) stopTimer();
     gameApp.dataset.screen = state.screen;
     gameRoot.innerHTML =
       state.screen==="setup" ? setupMarkup() :
@@ -430,16 +495,24 @@
       state.screen==="play" ? playMarkup() :
       state.screen==="results" ? resultsMarkup() : setupMarkup();
     bindGameEvents();
-    if (state.timerRunning && state.screen==="play") startTimerLoop();
+    if (state.timerRunning && state.screen==="play" && !timerId) startTimerLoop();
     saveState();
   }
 
   function setTeamCount(count) {
     state.teamCount=count;
+    const missing=Math.max(0,count-state.teams.length);
+    const additions=randomTeamNames(missing,state.teams.map(team=>team.name));
     state.teams=Array.from({length:count},(_,index)=>state.teams[index] || {
-      id:index+1,name:TEAM_NAMES[index],score:0
+      id:index+1,name:additions[index-state.teams.length],score:0
     });
     renderGame();
+  }
+
+  function randomizeTeamNames({render=true}={}) {
+    const names=randomTeamNames(state.teams.length,state.teams.map(team=>team.name));
+    state.teams=state.teams.map((team,index)=>({...team,name:names[index]}));
+    if (render) renderGame();
   }
 
   function beginGame() {
@@ -453,6 +526,7 @@
     prepareFreshDeck();
     state.currentQuestionIds=[];
     state.answerMarks={};
+    state.answerIndex=0;
     state.screen="ready";
     renderGame();
   }
@@ -535,8 +609,10 @@
     state.currentQuestionIds=state.questionOrder.slice(state.questionCursor,state.questionCursor+4);
     state.questionCursor+=4;
     state.answerMarks={};
+    state.answerIndex=0;
     state.timeLeft=state.minutes*60;
     state.timerRunning=true;
+    state.timerEndsAt=Date.now()+state.timeLeft*1000;
     state.timeExpired=false;
     state.flipped=false;
     state.screen="play";
@@ -544,20 +620,24 @@
     renderGame();
   }
 
-  function flipCard({expired=false}={}) {
+  function flipCard() {
     if (state.screen!=="play") return;
     state.flipped=!state.flipped;
     if (state.flipped) {
-      state.timerRunning=false;
-      state.timeExpired=state.timeExpired || expired;
-      stopTimer();
-      tone(expired?230:620,.1);
+      const questions=resolveCurrentQuestions();
+      const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
+      state.answerIndex=nextUnmarked>=0 ? nextUnmarked : 0;
     }
+    tone(state.flipped?620:520,.08);
     renderGame();
   }
 
   function markAnswer(questionId,mark) {
     state.answerMarks[questionId]=mark;
+    const questions=resolveCurrentQuestions();
+    const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
+    state.answerIndex=nextUnmarked>=0 ? nextUnmarked : questions.length-1;
+    tone(mark==="correct"?720:310,.07);
     renderGame();
   }
 
@@ -569,6 +649,8 @@
     }
     const points=currentScore();
     const teamName=currentTeam().name;
+    state.timerRunning=false;
+    state.timerEndsAt=0;
     state.teams[state.activeTeam].score+=points;
     if (state.teams[state.activeTeam].score>=state.target) {
       state.screen="results";
@@ -580,6 +662,7 @@
     state.turn+=1;
     state.currentQuestionIds=[];
     state.answerMarks={};
+    state.answerIndex=0;
     state.flipped=false;
     state.timeExpired=false;
     state.screen="ready";
@@ -589,13 +672,13 @@
 
   function startTimerLoop() {
     stopTimer();
-    const startedAt=performance.now();
-    const startingSeconds=Math.max(0,state.timeLeft);
+    if (!Number.isFinite(state.timerEndsAt) || state.timerEndsAt<=0) {
+      state.timerEndsAt=Date.now()+Math.max(0,state.timeLeft)*1000;
+    }
     let lastSavedSecond=state.timeLeft;
     timerId=window.setInterval(()=>{
       if (!state.timerRunning || state.screen!=="play") return stopTimer();
-      const elapsedSeconds=(performance.now()-startedAt)/1000;
-      const exactRemaining=Math.max(0,startingSeconds-elapsedSeconds);
+      const exactRemaining=Math.max(0,(state.timerEndsAt-Date.now())/1000);
       state.timeLeft=Math.ceil(exactRemaining);
       const percent=Math.max(0,exactRemaining/(state.minutes*60)*100);
       const text=document.getElementById("timerText");
@@ -612,6 +695,7 @@
       }
       if (exactRemaining<=0) {
         state.timerRunning=false;
+        state.timerEndsAt=0;
         state.timeExpired=true;
         state.flipped=true;
         stopTimer();
@@ -639,6 +723,7 @@
     prepareFreshDeck();
     state.currentQuestionIds=[];
     state.answerMarks={};
+    state.answerIndex=0;
     state.screen="ready";
     renderGame();
   }
@@ -664,21 +749,13 @@
       const element=document.getElementById(id);
       if (element) element.addEventListener(event,handler);
     };
-    on("backButton","click",()=>{
-      if (state.screen==="setup") showHome();
-      else if (state.screen==="play") {
-        state.timerRunning=false;
-        state.screen="ready";
-        renderGame();
-      } else {
-        state.screen="setup";
-        renderGame();
-      }
-    });
+    on("homeMenuButton","click",showHome);
     on("newGameButton","click",resetToSetup);
+    on("exitHomeButton","click",showHome);
+    on("randomizeTeamNamesButton","click",()=>randomizeTeamNames());
     on("continueButton","click",beginGame);
-    on("startRoundButton","click",drawQuestionCard);
     on("manualFlipButton","click",()=>flipCard());
+    on("returnQuestionsButton","click",()=>flipCard());
     on("confirmScoreButton","click",confirmScore);
     on("rematchButton","click",rematch);
     on("changeSetupButton","click",resetToSetup);
@@ -705,19 +782,46 @@
       markAnswer(button.dataset.markId,button.dataset.mark);
     }));
 
-    const flip=document.getElementById("flipCard");
-    if (flip) {
-      flip.addEventListener("click",event=>{
-        if (event.target.closest("button,details,summary")) return;
-        flipCard();
+    const swipeSurface=document.getElementById("readySwipeSurface");
+    if (swipeSurface) {
+      let startX=0;
+      let startY=0;
+      let tracking=false;
+      const resetSwipe=()=>{
+        tracking=false;
+        swipeSurface.classList.remove("swiping");
+        swipeSurface.style.removeProperty("--swipe-x");
+      };
+      swipeSurface.addEventListener("pointerdown",event=>{
+        if (event.pointerType==="mouse" && event.button!==0) return;
+        tracking=true;
+        startX=event.clientX;
+        startY=event.clientY;
+        swipeSurface.classList.add("swiping");
+        swipeSurface.setPointerCapture?.(event.pointerId);
       });
-      flip.addEventListener("keydown",event=>{
-        if ((event.key==="Enter" || event.key===" ") && !event.target.closest("button,summary")) {
-          event.preventDefault();
-          flipCard();
+      swipeSurface.addEventListener("pointermove",event=>{
+        if (!tracking) return;
+        const deltaX=Math.max(-120,Math.min(120,event.clientX-startX));
+        swipeSurface.style.setProperty("--swipe-x",`${deltaX}px`);
+      });
+      swipeSurface.addEventListener("pointerup",event=>{
+        if (!tracking) return;
+        const deltaX=event.clientX-startX;
+        const deltaY=event.clientY-startY;
+        resetSwipe();
+        if (Math.abs(deltaX)>=64 && Math.abs(deltaX)>Math.abs(deltaY)*1.15) {
+          drawQuestionCard();
         }
       });
+      swipeSurface.addEventListener("pointercancel",resetSwipe);
+      swipeSurface.addEventListener("keydown",event=>{
+        if (event.key!=="ArrowLeft" && event.key!=="ArrowRight") return;
+        event.preventDefault();
+        drawQuestionCard();
+      });
     }
+
   }
 
   setSound(state.sound);
@@ -725,12 +829,17 @@
   howButton.addEventListener("click",()=>openModal(howModal,closeHow));
   closeHow.addEventListener("click",()=>closeModal(howModal,howButton));
   howModal.addEventListener("click",event=>{if (event.target===howModal)closeModal(howModal,howButton)});
-  startButton.addEventListener("click",()=>{state.screen="setup";showGame()});
+  startButton.addEventListener("click",()=>{
+    state.screen="setup";
+    randomizeTeamNames({render:false});
+    showGame();
+  });
   document.addEventListener("keydown",event=>{if(event.key==="Escape"&&!howModal.hidden)closeModal(howModal,howButton)});
   window.addEventListener("beforeunload",saveState);
   document.addEventListener("visibilitychange",()=>{
     if (!document.hidden) return;
     state.timerRunning=false;
+    state.timerEndsAt=0;
     stopTimer();
     saveState();
   });
