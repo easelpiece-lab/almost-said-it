@@ -262,13 +262,12 @@
 
   function topbar(title) {
     return `<header class="game-topbar">
-      <button class="back-button menu-home-button" id="homeMenuButton" type="button" aria-label="Вернуться в главное меню">
+      <button class="back-button menu-home-button" id="homeMenuButton" type="button" aria-label="Вернуться в главное меню" title="В меню">
         <svg viewBox="0 0 24 24" aria-hidden="true">
           <path d="M3 11.2 12 4l9 7.2"></path>
           <path d="M5.8 10.2V20h12.4v-9.8"></path>
           <path d="M9.6 20v-5.8h4.8V20"></path>
         </svg>
-        <span>Меню</span>
       </button>
       <div class="mini-brand"><span class="mini-mark" aria-hidden="true">ASI</span><span>${safeText(title)}</span></div>
       <button class="plain-button" id="newGameButton" type="button">Новая игра</button>
@@ -370,40 +369,21 @@
   }
 
   function answerFaceMarkup(questions) {
-    const total=cardTotal(questions);
-    const markedCount=questions.filter(question=>state.answerMarks[question.id]).length;
-    const allMarked=questions.length===4 && markedCount===4;
-    const index=Math.max(0,Math.min(questions.length-1,state.answerIndex || 0));
-    const question=questions[index];
-    if (allMarked) {
-      return `<article class="game-card answer-side multi-answer-face" aria-label="Все ответы проверены">
-        <div class="answer-complete">
-          <span class="answer-progress-label">4 из 4</span>
-          <strong>Все ответы отмечены</strong>
-          <p>Команда получает ${scoreLabel(currentScore())} из ${scoreLabel(total)}.</p>
-        </div>
-      </article>`;
-    }
     return `<article class="game-card answer-side multi-answer-face" aria-label="Сторона с ответами">
-      <div class="sequential-answer-head">
-        <span>Ответ ${index+1} из 4</span>
-        <div class="answer-progress-dots" aria-hidden="true">${questions.map((item,itemIndex)=>`
-          <i class="${state.answerMarks[item.id]?"done":itemIndex===index?"current":""}"></i>`).join("")}</div>
-      </div>
-      <div class="answer-list sequential-answer-list">
-        <section class="answer-row active-answer">
+      <div class="answer-list full-answer-list">${questions.map(question=>{
+        const mark=state.answerMarks[question.id] || "";
+        return `<section class="answer-row ${mark?`marked ${mark}`:""}">
           <div class="answer-row-head" aria-label="${scoreLabel(question.points)}">
             <span class="question-number">${question.points}</span>
             <span class="question-points">${scoreWord(question.points)}</span>
           </div>
-          <p class="answer-label">Правильный ответ</p>
           <h2 class="answer-value">${safeText(question.answer)}</h2>
           <div class="answer-mark">
-            <button data-mark-id="${safeText(question.id)}" data-mark="correct" type="button">Правильно ✓</button>
-            <button data-mark-id="${safeText(question.id)}" data-mark="missed" type="button">Неправильно ×</button>
+            <button class="${mark==="correct"?"selected correct":""}" data-mark-id="${safeText(question.id)}" data-mark="correct" type="button" aria-pressed="${mark==="correct"}">Правильно ✓</button>
+            <button class="${mark==="missed"?"selected missed":""}" data-mark-id="${safeText(question.id)}" data-mark="missed" type="button" aria-pressed="${mark==="missed"}">Неправильно ×</button>
           </div>
-        </section>
-      </div>
+        </section>`;
+      }).join("")}</div>
     </article>`;
   }
 
@@ -422,7 +402,8 @@
     const total = state.minutes*60;
     const percent = Math.max(0,Math.min(100,state.timeLeft/total*100));
     const status = state.timeExpired ? "Время вышло" : state.timerRunning ? "Идёт" : state.flipped ? "Ответы" : "Пауза";
-    const allMarked = questions.length===4 && questions.every(question=>state.answerMarks[question.id]);
+    const markedCount = questions.filter(question=>state.answerMarks[question.id]).length;
+    const hasMarked = markedCount>0;
     return `${topbar("Карточка команды")}
       <div class="play-header">
         <div class="score-box"><span>${safeText(currentTeam().name)}</span><strong>${currentTeam().score}</strong></div>
@@ -430,15 +411,14 @@
         <div class="score-box next"><span>Далее · ${safeText(nextTeam().name)}</span><strong>${nextTeam().score}</strong></div>
       </div>
       <header class="quiz-card-banner">
+        <button class="exit-home-button menu-home-button" id="exitHomeButton" type="button" aria-label="Вернуться в главное меню" title="В меню">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M3 11.2 12 4l9 7.2"></path>
+            <path d="M5.8 10.2V20h12.4v-9.8"></path>
+            <path d="M9.6 20v-5.8h4.8V20"></path>
+          </svg>
+        </button>
         <div class="quiz-card-copy">
-          <button class="exit-home-button menu-home-button" id="exitHomeButton" type="button" aria-label="Вернуться в главное меню">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M3 11.2 12 4l9 7.2"></path>
-              <path d="M5.8 10.2V20h12.4v-9.8"></path>
-              <path d="M9.6 20v-5.8h4.8V20"></path>
-            </svg>
-            <span>В меню</span>
-          </button>
           <h1>Карточка ${String(state.turn+1).padStart(2,"0")}</h1>
           <span class="card-count">4 вопроса</span>
         </div>
@@ -456,10 +436,10 @@
           ${answerFaceMarkup(questions)}
         </div>
       </div>
-      <div class="play-actions ${state.flipped&&allMarked?"answer-actions":"single-action"}">
+      <div class="play-actions ${state.flipped?"answer-actions":"single-action"}">
         ${state.flipped
           ? `<button class="button secondary answer-back-button" id="returnQuestionsButton" type="button"><span class="answer-back-icon" aria-hidden="true">↓</span><span>К вопросам</span></button>
-             ${allMarked?`<button class="button primary" id="confirmScoreButton" type="button">Засчитать ${scoreLabel(currentScore())}</button>`:""}`
+             <button class="button primary" id="confirmScoreButton" type="button" ${hasMarked?"":"disabled"}>${hasMarked?`Засчитать ${scoreLabel(currentScore())} →`:"Отметьте ответ"}</button>`
           : `<button class="button secondary" id="manualFlipButton" type="button">Показать ответы ↓</button>`}
       </div>`;
   }
@@ -623,28 +603,20 @@
   function flipCard() {
     if (state.screen!=="play") return;
     state.flipped=!state.flipped;
-    if (state.flipped) {
-      const questions=resolveCurrentQuestions();
-      const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
-      state.answerIndex=nextUnmarked>=0 ? nextUnmarked : 0;
-    }
     tone(state.flipped?620:520,.08);
     renderGame();
   }
 
   function markAnswer(questionId,mark) {
     state.answerMarks[questionId]=mark;
-    const questions=resolveCurrentQuestions();
-    const nextUnmarked=questions.findIndex(question=>!state.answerMarks[question.id]);
-    state.answerIndex=nextUnmarked>=0 ? nextUnmarked : questions.length-1;
     tone(mark==="correct"?720:310,.07);
     renderGame();
   }
 
   function confirmScore() {
     const questions=resolveCurrentQuestions();
-    if (!questions.every(question=>state.answerMarks[question.id])) {
-      showToast("Отметьте каждый ответ: «Правильно» или «Неправильно».");
+    if (!questions.some(question=>state.answerMarks[question.id])) {
+      showToast("Отметьте хотя бы один ответ.");
       return;
     }
     const points=currentScore();
@@ -787,13 +759,29 @@
       let startX=0;
       let startY=0;
       let tracking=false;
-      const resetSwipe=()=>{
+      let resetId=0;
+      const resetSwipe=(animate=true)=>{
         tracking=false;
         swipeSurface.classList.remove("swiping");
-        swipeSurface.style.removeProperty("--swipe-x");
+        if (!animate) {
+          swipeSurface.style.removeProperty("--swipe-x");
+          return;
+        }
+        swipeSurface.style.setProperty("--swipe-x","0px");
+        clearTimeout(resetId);
+        resetId=window.setTimeout(()=>swipeSurface.style.removeProperty("--swipe-x"),280);
+      };
+      const commitSwipe=direction=>{
+        tracking=false;
+        swipeSurface.classList.remove("swiping");
+        swipeSurface.classList.add("swipe-committed");
+        swipeSurface.style.setProperty("--swipe-exit",`${direction*(window.innerWidth+120)}px`);
+        tone(560,.06);
+        window.setTimeout(drawQuestionCard,260);
       };
       swipeSurface.addEventListener("pointerdown",event=>{
         if (event.pointerType==="mouse" && event.button!==0) return;
+        clearTimeout(resetId);
         tracking=true;
         startX=event.clientX;
         startY=event.clientY;
@@ -809,16 +797,17 @@
         if (!tracking) return;
         const deltaX=event.clientX-startX;
         const deltaY=event.clientY-startY;
-        resetSwipe();
         if (Math.abs(deltaX)>=64 && Math.abs(deltaX)>Math.abs(deltaY)*1.15) {
-          drawQuestionCard();
+          commitSwipe(deltaX<0?-1:1);
+        } else {
+          resetSwipe();
         }
       });
       swipeSurface.addEventListener("pointercancel",resetSwipe);
       swipeSurface.addEventListener("keydown",event=>{
         if (event.key!=="ArrowLeft" && event.key!=="ArrowRight") return;
         event.preventDefault();
-        drawQuestionCard();
+        commitSwipe(event.key==="ArrowLeft"?-1:1);
       });
     }
 
