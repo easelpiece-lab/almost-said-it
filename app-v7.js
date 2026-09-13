@@ -1,7 +1,13 @@
 (() => {
   "use strict";
 
-  const STORE = "almost-said-it-bold-v12";
+  const STORE = "almost-said-it-bold-v13";
+  let language = "ru";
+  try { language = localStorage.getItem("almost-said-it-language") === "en" ? "en" : "ru"; } catch (_) {}
+  const translate = text => window.ASI_I18N.translate(text,language);
+  const stateKey = () => `${STORE}-${language}`;
+  const banks = { ru: window.ASI_QUESTION_BANK || [], en: window.ASI_QUESTION_BANK_EN || [] };
+  const EN_TEAM_NAMES = ["Almost Geniuses","Brainstormers","No Googling","Last Neurons","Pure Guesswork","Tip of the Tongue","Quiz Happens","Think Again","Mind the Gap","Final Answer","Lucky Guess","Know It All","Memory Loading","Fact Finders","Plot Twist","Smart Cookies","The Brain Trust","Close Enough","Trivia Titans","Just Remembered","Question Marks","On a Roll","Team Maybe","Common Sense"];
   const LAST_DECK_STORE = "almost-said-it-last-deck-v1";
   const TEAM_NAMES = [
     "База знаний","Мимо кассы","Гении на минималках","Чисто интуиция",
@@ -90,7 +96,7 @@
     return result;
   }
 
-  let QUESTION_BANK = normalizeQuestions(window.ASI_QUESTION_BANK || []);
+  let QUESTION_BANK = normalizeQuestions(banks[language]);
 
   function categories() {
     return [...new Set(QUESTION_BANK.map(question=>question.category))].sort((a,b)=>a.localeCompare(b,"ru"));
@@ -98,8 +104,8 @@
 
   function randomTeamNames(count,excluded=[]) {
     const blocked=new Set(excluded.map(name=>String(name || "").trim()));
-    let candidates=shuffle(TEAM_NAMES.filter(name=>!blocked.has(name)));
-    if (candidates.length<count) candidates=shuffle(TEAM_NAMES);
+    let candidates=shuffle((language === "en" ? EN_TEAM_NAMES : TEAM_NAMES).filter(name=>!blocked.has(name)));
+    if (candidates.length<count) candidates=shuffle(language === "en" ? EN_TEAM_NAMES : TEAM_NAMES);
     return candidates.slice(0,count);
   }
 
@@ -130,10 +136,12 @@
 
   function loadState() {
     try {
-      const saved = JSON.parse(localStorage.getItem(STORE));
+      const saved = JSON.parse(localStorage.getItem(stateKey()));
       if (!saved || !Array.isArray(saved.teams)) return freshState();
       const base = freshState();
-      const merged = {...base,...saved,timerRunning:false,timerEndsAt:0};
+      const merged = {...base,...saved};
+      merged.timerRunning = Boolean(saved.timerRunning && Number(saved.timerEndsAt)>0);
+      merged.timerEndsAt = merged.timerRunning ? Number(saved.timerEndsAt) : 0;
       merged.teams = saved.teams.slice(0,6).map((team,index)=>({
         id:index+1,
         name:String(team.name || `Команда ${index+1}`).slice(0,28),
@@ -166,7 +174,7 @@
   let state = loadState();
 
   function saveState() {
-    try { localStorage.setItem(STORE,JSON.stringify(state)); } catch (_) {}
+    try { localStorage.setItem(stateKey(),JSON.stringify(state)); } catch (_) {}
   }
 
   function currentTeam() { return state.teams[state.activeTeam] || state.teams[0]; }
@@ -181,6 +189,7 @@
     return `${String(Math.floor(safe/60)).padStart(2,"0")}:${String(safe%60).padStart(2,"0")}`;
   }
   function scoreWord(points) {
+    if (language === "en") return Number(points) === 1 ? "point" : "points";
     const safe = Math.abs(Number(points) || 0);
     const lastTwo = safe % 100;
     const last = safe % 10;
@@ -213,14 +222,14 @@
 
   function showToast(message) {
     clearTimeout(toastId);
-    toastRoot.innerHTML = `<div class="toast">${safeText(message)}</div>`;
+    toastRoot.innerHTML = `<div class="toast">${safeText(translate(message))}</div>`;
     toastId = window.setTimeout(()=>{ toastRoot.innerHTML=""; },2300);
   }
 
   function setSound(nextValue) {
     state.sound = nextValue;
     soundButton.setAttribute("aria-pressed",String(state.sound));
-    soundButton.setAttribute("aria-label",state.sound ? "Выключить звук" : "Включить звук");
+    soundButton.setAttribute("aria-label",translate(state.sound ? "Выключить звук" : "Включить звук"));
     saveState();
   }
 
@@ -248,6 +257,8 @@
     state.timerRunning=false;
     state.timerEndsAt=0;
     home.hidden=false;
+    document.body.dataset.screen="home";
+    updateLanguageUi();
     gameApp.hidden=true;
     saveState();
     window.scrollTo({top:0,behavior:"smooth"});
@@ -286,11 +297,11 @@
         <div class="setting-list">
           <section class="setting">
             <div class="setting-label"><strong>Играем до</strong><span>баллов</span></div>
-            <div class="choice-row">${[30,50,75,100].map(value=>`<button class="choice ${state.target===value?"selected":""}" data-target="${value}" type="button">${value}</button>`).join("")}</div>
+            <div class="choice-row">${[30,50,75,100].map(value=>`<button class="choice ${state.target===value?"selected":""}" data-target="${value}" type="button" aria-pressed="${state.target===value}">${value}</button>`).join("")}</div>
           </section>
           <section class="setting">
             <div class="setting-label"><strong>Команды</strong><span>от 2 до 6</span></div>
-            <div class="choice-row">${[2,3,4,5,6].map(value=>`<button class="choice ${state.teamCount===value?"selected":""}" data-team-count="${value}" type="button">${value}</button>`).join("")}</div>
+            <div class="choice-row">${[2,3,4,5,6].map(value=>`<button class="choice ${state.teamCount===value?"selected":""}" data-team-count="${value}" type="button" aria-pressed="${state.teamCount===value}">${value}</button>`).join("")}</div>
           </section>
           <section class="setting">
             <div class="setting-label team-name-label">
@@ -306,12 +317,12 @@
           </section>
           <section class="setting">
             <div class="setting-label"><strong>Время на карточку</strong><span>таймер запускается автоматически</span></div>
-            <div class="choice-row">${[3,5,7].map(value=>`<button class="choice ${state.minutes===value?"selected":""}" data-minutes="${value}" type="button">${value} мин</button>`).join("")}</div>
+            <div class="choice-row">${[3,5,7].map(value=>`<button class="choice ${state.minutes===value?"selected":""}" data-minutes="${value}" type="button" aria-pressed="${state.minutes===value}">${value} мин</button>`).join("")}</div>
           </section>
           <section class="setting">
-            <div class="setting-label"><strong>Категории</strong><span>${state.categories.length} из ${allCategories.length}</span></div>
+            <div class="setting-label"><strong>Категории</strong><span class="category-count">${state.categories.length} из ${allCategories.length}</span></div>
             <div class="category-choices">${allCategories.map(category=>`
-              <button class="category-choice ${state.categories.includes(category)?"selected":""}" data-category="${safeText(category)}" type="button">${safeText(category)}</button>`).join("")}
+              <button class="category-choice ${state.categories.includes(category)?"selected":""}" data-category="${safeText(category)}" type="button" aria-pressed="${state.categories.includes(category)}">${safeText(category)}</button>`).join("")}
             </div>
           </section>
         </div>
@@ -328,11 +339,11 @@
 
   function readyMarkup() {
     return `${topbar("Almost Said It")}
-      <section class="panel ready-card" id="readySwipeSurface" tabindex="0" aria-labelledby="readyTitle" aria-describedby="readySwipeHint">
+      <section class="panel ready-card" aria-labelledby="readyTitle">
         <span class="ready-phone-turn" aria-hidden="true">${state.turn+1}</span>
         <span class="ready-badge">Ход ${state.turn+1}</span>
         <h1 id="readyTitle">${safeText(currentTeam().name)}, ваш ход</h1>
-        <p>Передайте телефон активной команде. Проведите по экрану влево или вправо — карточка откроется и сразу пойдёт время.</p>
+        <p>Передайте телефон активной команде. Нажмите «Начать раунд»: откроются четыре вопроса и запустится таймер.</p>
         <div class="summary-grid">
           <div class="summary-item"><strong>${state.target}</strong><span>До победы</span></div>
           <div class="summary-item"><strong>${state.teams.length}</strong><span>Команд</span></div>
@@ -340,12 +351,8 @@
           <div class="summary-item"><strong>4</strong><span>Вопроса</span></div>
         </div>
         ${teamBoardMarkup()}
-        <p class="ready-note">Сейчас отвечает команда «${safeText(currentTeam().name)}». Каждый вопрос приносит от 1 до 8 баллов.</p>
-        <div class="swipe-start-hint" id="readySwipeHint" aria-hidden="true">
-          <span class="swipe-arrows">←</span>
-          <strong>Проведите, чтобы начать</strong>
-          <span class="swipe-arrows">→</span>
-        </div>
+        <p class="ready-note">Каждый вопрос приносит от 1 до 8 баллов.</p>
+        <button class="button primary ready-start-button" id="startRoundButton" type="button">Начать раунд →</button>
       </section>`;
   }
 
@@ -378,6 +385,7 @@
             <span class="question-points">${scoreWord(question.points)}</span>
           </div>
           <h2 class="answer-value">${safeText(question.answer)}</h2>
+          ${question.acceptedAnswers.filter(value=>value.toLocaleLowerCase()!==question.answer.toLocaleLowerCase()).length ? `<p class="answer-alias">${language==="en"?"Also accepted":"Допустимо"}: ${safeText(question.acceptedAnswers.filter(value=>value.toLocaleLowerCase()!==question.answer.toLocaleLowerCase()).slice(0,2).join(" · "))}</p>` : ""}
           <div class="answer-mark">
             <button class="${mark==="correct"?"selected correct":""}" data-mark-id="${safeText(question.id)}" data-mark="correct" type="button" aria-pressed="${mark==="correct"}">Правильно ✓</button>
             <button class="${mark==="missed"?"selected missed":""}" data-mark-id="${safeText(question.id)}" data-mark="missed" type="button" aria-pressed="${mark==="missed"}">Неправильно ×</button>
@@ -403,7 +411,7 @@
     const percent = Math.max(0,Math.min(100,state.timeLeft/total*100));
     const status = state.timeExpired ? "Время вышло" : state.timerRunning ? "Идёт" : state.flipped ? "Ответы" : "Пауза";
     const markedCount = questions.filter(question=>state.answerMarks[question.id]).length;
-    const hasMarked = markedCount>0;
+    const hasMarked = markedCount===4;
     return `${topbar("Карточка команды")}
       <div class="play-header">
         <div class="score-box"><span>${safeText(currentTeam().name)}</span><strong>${currentTeam().score}</strong></div>
@@ -439,7 +447,7 @@
       <div class="play-actions ${state.flipped?"answer-actions":"single-action"}">
         ${state.flipped
           ? `<button class="button secondary answer-back-button" id="returnQuestionsButton" type="button"><span class="answer-back-icon" aria-hidden="true">↓</span><span>К вопросам</span></button>
-             <button class="button primary" id="confirmScoreButton" type="button" ${hasMarked?"":"disabled"}>${hasMarked?`Засчитать ${scoreLabel(currentScore())} →`:"Отметьте ответ"}</button>`
+             <button class="button primary" id="confirmScoreButton" type="button" ${hasMarked?"":"disabled"}>${hasMarked?`Засчитать ${scoreLabel(currentScore())} →`:"Отметьте все ответы"}</button>`
           : `<button class="button secondary" id="manualFlipButton" type="button">Показать ответы ↓</button>`}
       </div>`;
   }
@@ -469,11 +477,15 @@
     );
     if (!keepTimerRunning) stopTimer();
     gameApp.dataset.screen = state.screen;
+    document.body.dataset.screen=state.screen;
     gameRoot.innerHTML =
       state.screen==="setup" ? setupMarkup() :
       state.screen==="ready" ? readyMarkup() :
       state.screen==="play" ? playMarkup() :
       state.screen==="results" ? resultsMarkup() : setupMarkup();
+    window.ASI_I18N.apply(gameRoot,language);
+    updateLanguageUi();
+    updateCardAccessibility();
     bindGameEvents();
     if (state.timerRunning && state.screen==="play" && !timerId) startTimerLoop();
     saveState();
@@ -565,6 +577,7 @@
   }
 
   function drawQuestionCard() {
+    if (state.screen!=="ready") return;
     const eligibleIds=selectedQuestionIds();
     if (eligibleIds.length<4) {
       showToast("В выбранных категориях должно быть минимум четыре вопроса.");
@@ -604,19 +617,45 @@
     if (state.screen!=="play") return;
     state.flipped=!state.flipped;
     tone(state.flipped?620:520,.08);
-    renderGame();
+    const card=document.getElementById("flipCard");
+    card.classList.toggle("flipped",state.flipped);
+    updateCardAccessibility();
+    const fresh=document.createElement("div");
+    fresh.innerHTML=playMarkup();
+    document.querySelector(".play-actions").replaceWith(fresh.querySelector(".play-actions"));
+    window.ASI_I18N.apply(gameRoot,language);
+    bindPlayActions();
+    document.getElementById(state.flipped?"returnQuestionsButton":"manualFlipButton")?.focus({preventScroll:true});
+    saveState();
   }
 
   function markAnswer(questionId,mark) {
+    if (state.screen!=="play" || !state.flipped || !["correct","missed"].includes(mark) || !state.currentQuestionIds.includes(questionId)) return;
     state.answerMarks[questionId]=mark;
     tone(mark==="correct"?720:310,.07);
-    renderGame();
+    // Keep the card and focused button in place when checking an answer.
+    document.querySelectorAll(`[data-mark-id="${questionId}"]`).forEach(button=>{
+      const selected=button.dataset.mark===mark;
+      button.classList.toggle("selected",selected);
+      button.classList.toggle("correct",selected && mark==="correct");
+      button.classList.toggle("missed",selected && mark==="missed");
+      button.setAttribute("aria-pressed",String(selected));
+      const row=button.closest(".answer-row");
+      row.classList.add("marked");
+      row.classList.toggle("correct",mark==="correct");
+      row.classList.toggle("missed",mark==="missed");
+    });
+    const complete=resolveCurrentQuestions().every(question=>state.answerMarks[question.id]);
+    const confirm=document.getElementById("confirmScoreButton");
+    confirm.disabled=!complete;
+    confirm.textContent=translate(complete ? `Засчитать ${scoreLabel(currentScore())} →` : "Отметьте все ответы");
+    saveState();
   }
 
   function confirmScore() {
     const questions=resolveCurrentQuestions();
-    if (!questions.some(question=>state.answerMarks[question.id])) {
-      showToast("Отметьте хотя бы один ответ.");
+    if (state.screen!=="play" || !state.flipped || questions.length!==4 || !questions.every(question=>state.answerMarks[question.id])) {
+      showToast("Отметьте все четыре ответа.");
       return;
     }
     const points=currentScore();
@@ -703,11 +742,16 @@
   async function refreshRemoteBase() {
     if (!/^https?:$/.test(location.protocol)) return;
     try {
-      const response=await fetch("./questions.json",{cache:"no-store"});
+      const requestedLanguage=language;
+      const response=await fetch(language === "en" ? "./questions-en.json" : "./questions.json",{cache:"no-store"});
       if (!response.ok) return;
-      const incoming=normalizeQuestions(await response.json());
+      const data=await response.json();
+      if (requestedLanguage!==language || data.version<5 || data.language!==language || !["home","setup"].includes(state.screen)) return;
+      const incoming=normalizeQuestions(data);
       if (!incoming.length) return;
+      banks[language]=incoming;
       QUESTION_BANK=incoming;
+      updateLanguageUi();
       const available=categories();
       state.categories=state.categories.filter(category=>available.includes(category));
       if (!state.categories.length) state.categories=available;
@@ -732,8 +776,8 @@
     on("rematchButton","click",rematch);
     on("changeSetupButton","click",resetToSetup);
     document.querySelectorAll("[data-team-count]").forEach(button=>button.addEventListener("click",()=>setTeamCount(Number(button.dataset.teamCount))));
-    document.querySelectorAll("[data-target]").forEach(button=>button.addEventListener("click",()=>{state.target=Number(button.dataset.target);renderGame()}));
-    document.querySelectorAll("[data-minutes]").forEach(button=>button.addEventListener("click",()=>{state.minutes=Number(button.dataset.minutes);state.timeLeft=state.minutes*60;renderGame()}));
+    document.querySelectorAll("[data-target]").forEach(button=>button.addEventListener("click",()=>{state.target=Number(button.dataset.target);updateChoiceGroup("target",state.target);saveState()}));
+    document.querySelectorAll("[data-minutes]").forEach(button=>button.addEventListener("click",()=>{state.minutes=Number(button.dataset.minutes);state.timeLeft=state.minutes*60;updateChoiceGroup("minutes",state.minutes);saveState()}));
     document.querySelectorAll("[data-category]").forEach(button=>button.addEventListener("click",()=>{
       const category=button.dataset.category;
       if (state.categories.includes(category)) {
@@ -742,7 +786,13 @@
       } else {
         state.categories.push(category);
       }
-      renderGame();
+      document.querySelectorAll("[data-category]").forEach(item=>{
+        const selected=state.categories.includes(item.dataset.category);
+        item.classList.toggle("selected",selected);
+        item.setAttribute("aria-pressed",String(selected));
+      });
+      document.querySelector(".category-count").textContent=translate(`${state.categories.length} из ${categories().length}`);
+      saveState();
     }));
     document.querySelectorAll("[data-team-name]").forEach(input=>input.addEventListener("input",()=>{
       const index=Number(input.dataset.teamName);
@@ -754,64 +804,64 @@
       markAnswer(button.dataset.markId,button.dataset.mark);
     }));
 
-    const swipeSurface=document.getElementById("readySwipeSurface");
-    if (swipeSurface) {
-      let startX=0;
-      let startY=0;
-      let tracking=false;
-      let resetId=0;
-      const resetSwipe=(animate=true)=>{
-        tracking=false;
-        swipeSurface.classList.remove("swiping");
-        if (!animate) {
-          swipeSurface.style.removeProperty("--swipe-x");
-          return;
-        }
-        swipeSurface.style.setProperty("--swipe-x","0px");
-        clearTimeout(resetId);
-        resetId=window.setTimeout(()=>swipeSurface.style.removeProperty("--swipe-x"),280);
-      };
-      const commitSwipe=direction=>{
-        tracking=false;
-        swipeSurface.classList.remove("swiping");
-        swipeSurface.classList.add("swipe-committed");
-        swipeSurface.style.setProperty("--swipe-exit",`${direction*(window.innerWidth+120)}px`);
-        tone(560,.06);
-        window.setTimeout(drawQuestionCard,260);
-      };
-      swipeSurface.addEventListener("pointerdown",event=>{
-        if (event.pointerType==="mouse" && event.button!==0) return;
-        clearTimeout(resetId);
-        tracking=true;
-        startX=event.clientX;
-        startY=event.clientY;
-        swipeSurface.classList.add("swiping");
-        swipeSurface.setPointerCapture?.(event.pointerId);
-      });
-      swipeSurface.addEventListener("pointermove",event=>{
-        if (!tracking) return;
-        const deltaX=Math.max(-120,Math.min(120,event.clientX-startX));
-        swipeSurface.style.setProperty("--swipe-x",`${deltaX}px`);
-      });
-      swipeSurface.addEventListener("pointerup",event=>{
-        if (!tracking) return;
-        const deltaX=event.clientX-startX;
-        const deltaY=event.clientY-startY;
-        if (Math.abs(deltaX)>=64 && Math.abs(deltaX)>Math.abs(deltaY)*1.15) {
-          commitSwipe(deltaX<0?-1:1);
-        } else {
-          resetSwipe();
-        }
-      });
-      swipeSurface.addEventListener("pointercancel",resetSwipe);
-      swipeSurface.addEventListener("keydown",event=>{
-        if (event.key!=="ArrowLeft" && event.key!=="ArrowRight") return;
-        event.preventDefault();
-        commitSwipe(event.key==="ArrowLeft"?-1:1);
-      });
-    }
-
+    on("startRoundButton","click",drawQuestionCard);
   }
+
+  function updateChoiceGroup(key,value) {
+    document.querySelectorAll(`[data-${key}]`).forEach(button=>{
+      const selected=Number(button.dataset[key])===value;
+      button.classList.toggle("selected",selected);
+      button.setAttribute("aria-pressed",String(selected));
+    });
+  }
+
+  function updateCardAccessibility() {
+    const questionSide=document.querySelector(".question-side");
+    const answerSide=document.querySelector(".answer-side");
+    if (!questionSide || !answerSide) return;
+    questionSide.inert=state.flipped;
+    answerSide.inert=!state.flipped;
+    questionSide.setAttribute("aria-hidden",String(state.flipped));
+    answerSide.setAttribute("aria-hidden",String(!state.flipped));
+  }
+
+  function bindPlayActions() {
+    document.getElementById("manualFlipButton")?.addEventListener("click",flipCard);
+    document.getElementById("returnQuestionsButton")?.addEventListener("click",flipCard);
+    document.getElementById("confirmScoreButton")?.addEventListener("click",confirmScore);
+  }
+
+  function updateLanguageUi() {
+    document.documentElement.lang=language;
+    document.title=language==="en"?"Almost Said It — team trivia":"Вертится на языке — Almost Said It";
+    document.getElementById("languageSwitch").hidden=!["home","setup"].includes(state.screen);
+    document.querySelectorAll("[data-language]").forEach(button=>{
+      button.setAttribute("aria-pressed",String(button.dataset.language===language));
+      button.classList.toggle("selected",button.dataset.language===language);
+    });
+    window.ASI_I18N.apply(home,language);
+    window.ASI_I18N.apply(howModal,language);
+    const note=home.querySelector(".desktop-note");
+    note.textContent=language==="en"?`${QUESTION_BANK.length} questions · a fresh deck every game`:`${QUESTION_BANK.length} вопросов · новая колода в каждой игре`;
+  }
+
+  document.querySelectorAll("[data-language]").forEach(button=>button.addEventListener("click",()=>{
+    if (button.dataset.language===language || !["home","setup"].includes(state.screen)) return;
+    saveState();
+    const screen=state.screen;
+    language=button.dataset.language;
+    try { localStorage.setItem("almost-said-it-language",language); } catch (_) {}
+    QUESTION_BANK=normalizeQuestions(banks[language]);
+    state=loadState();
+    // Language is chosen before a game; never mix two banks in a running deck.
+    state.screen=screen;
+    state.timerRunning=false;
+    state.timerEndsAt=0;
+    updateLanguageUi();
+    if (screen==="setup") renderGame();
+    saveState();
+    refreshRemoteBase();
+  }));
 
   setSound(state.sound);
   soundButton.addEventListener("click",()=>{setSound(!state.sound);tone(560)});
@@ -827,9 +877,6 @@
   window.addEventListener("beforeunload",saveState);
   document.addEventListener("visibilitychange",()=>{
     if (!document.hidden) return;
-    state.timerRunning=false;
-    state.timerEndsAt=0;
-    stopTimer();
     saveState();
   });
 
@@ -837,3 +884,4 @@
   else showHome();
   refreshRemoteBase();
 })();
+

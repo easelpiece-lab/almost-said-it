@@ -3,7 +3,9 @@
   "private": true,
   "version": "10.0.0",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "python rebuild-questions.py && node build-standalone.mjs && cp index-source.html index.html",
+    "test": "node verify-game.mjs"
   },
   "devDependencies": {
     "vite": "^7.0.0"

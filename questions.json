@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "updated_at": "2026-07-29T07:25:47.922Z",
-  "title": "Вертится на языке — 1000 доступных вопросов на эрудицию и рассуждение",
+  "version": 5,
+  "updated_at": "2026-09-12",
+  "title": "Almost Said It — редакция RU/EN",
   "questions": [
     {
       "id": "geo-0046",
@@ -104,13 +104,14 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 1,
-      "question": "С какой страной чаще всего связывают тюльпаны, мельницы и каналы?",
+      "points": 2,
+      "question": "В какой стране находится парк тюльпанов Кёкенхоф?",
       "answer": "Нидерланды",
       "accepted_answers": [
         "Нидерланды",
         "Голландия"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0051",
@@ -129,13 +130,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 1,
-      "question": "Какая страна известна замками, пабами и озером Лох-Несс?",
-      "answer": "Великобритания",
+      "points": 2,
+      "question": "В какой исторической части Великобритании находится озеро Лох-Несс?",
+      "answer": "Шотландия",
       "accepted_answers": [
-        "Великобритания",
-        "Соединённое Королевство"
-      ]
+        "Шотландия"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0053",
@@ -191,12 +192,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна известна фараонами, Сфинксом и Красным морем?",
-      "answer": "Египет",
+      "points": 3,
+      "question": "Какой город является столицей Египта?",
+      "answer": "Каир",
       "accepted_answers": [
-        "Египет"
-      ]
+        "Каир"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0056",
@@ -204,11 +206,12 @@
       "category_key": "geography",
       "subcategory": "Угадай страну",
       "points": 2,
-      "question": "С какой страной связаны фламенко, паэлья и Пиренейский полуостров?",
+      "question": "Из какой страны родом танец фламенко?",
       "answer": "Испания",
       "accepted_answers": [
         "Испания"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0057",
@@ -227,48 +230,52 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна известна сакурой, суши и скоростными поездами?",
-      "answer": "Япония",
+      "points": 3,
+      "question": "Какой город был столицей Японии до Токио?",
+      "answer": "Киото",
       "accepted_answers": [
-        "Япония"
-      ]
+        "Киото"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0081",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна славится кленовым сиропом и Ниагарским водопадом?",
-      "answer": "Канада",
+      "points": 3,
+      "question": "Какой город является столицей Канады?",
+      "answer": "Оттава",
       "accepted_answers": [
-        "Канада"
-      ]
+        "Оттава"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0061",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна ассоциируется с Эйфелевой башней и Лувром?",
-      "answer": "Франция",
+      "points": 3,
+      "question": "Как называется французский остров в Средиземном море, где родился Наполеон?",
+      "answer": "Корсика",
       "accepted_answers": [
-        "Франция"
-      ]
+        "Корсика"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0083",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна известна Октоберфестом и Баварскими Альпами?",
-      "answer": "Германия",
+      "points": 3,
+      "question": "В каком немецком городе проводят Октоберфест?",
+      "answer": "Мюнхен",
       "accepted_answers": [
-        "Германия"
-      ]
+        "Мюнхен"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0062",
@@ -300,11 +307,12 @@
       "category_key": "geography",
       "subcategory": "Угадай страну",
       "points": 2,
-      "question": "С какой страной чаще всего связывают викингов, IKEA и Стокгольм?",
+      "question": "В какой стране была основана IKEA?",
       "answer": "Швеция",
       "accepted_answers": [
         "Швеция"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0066",
@@ -323,12 +331,14 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна известна каналами Венеции и Колизеем?",
-      "answer": "Италия",
+      "points": 3,
+      "question": "Какое море отделяет Италию от Хорватии?",
+      "answer": "Адриатическое море",
       "accepted_answers": [
-        "Италия"
-      ]
+        "Адриатическое море",
+        "Адриатика"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0067",
@@ -347,12 +357,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 1,
-      "question": "Какая страна известна танго и Патагонией?",
-      "answer": "Аргентина",
+      "points": 3,
+      "question": "Какой город является столицей Аргентины?",
+      "answer": "Буэнос-Айрес",
       "accepted_answers": [
-        "Аргентина"
-      ]
+        "Буэнос-Айрес"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0111",
@@ -385,12 +396,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 2,
-      "question": "Какая страна известна Прагой и Карловым мостом?",
-      "answer": "Чехия",
+      "points": 3,
+      "question": "Какой город является столицей Чехии?",
+      "answer": "Прага",
       "accepted_answers": [
-        "Чехия"
-      ]
+        "Прага"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0070",
@@ -434,11 +446,12 @@
       "category_key": "geography",
       "subcategory": "Угадай страну",
       "points": 3,
-      "question": "Какая страна известна островом Пхукет и храмами Бангкока?",
-      "answer": "Таиланд",
+      "question": "Какой город является столицей Таиланда?",
+      "answer": "Бангкок",
       "accepted_answers": [
-        "Таиланд"
-      ]
+        "Бангкок"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0074",
@@ -531,11 +544,12 @@
       "category_key": "geography",
       "subcategory": "Угадай страну",
       "points": 3,
-      "question": "Какая страна известна Дедом Морозом из Лапландии и северным сиянием?",
+      "question": "В какой стране находится город Рованиеми, известный деревней Санта-Клауса?",
       "answer": "Финляндия",
       "accepted_answers": [
         "Финляндия"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0084",
@@ -579,11 +593,12 @@
       "category_key": "geography",
       "subcategory": "Угадай страну",
       "points": 3,
-      "question": "Какая страна известна сигарами, Гаваной и ретро-автомобилями?",
-      "answer": "Куба",
+      "question": "Какой город является столицей Кубы?",
+      "answer": "Гавана",
       "accepted_answers": [
-        "Куба"
-      ]
+        "Гавана"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0087",
@@ -664,12 +679,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Угадай страну",
-      "points": 4,
-      "question": "Какая страна занимает большую часть Скандинавского полуострова вместе со Швецией?",
-      "answer": "Норвегия",
+      "points": 3,
+      "question": "Какой столицей известна Норвегия?",
+      "answer": "Осло",
       "accepted_answers": [
-        "Норвегия"
-      ]
+        "Осло"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0121",
@@ -688,25 +704,26 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 1,
-      "question": "Какой город известен Голливудом и районом Беверли-Хиллз?",
-      "answer": "Лос-Анджелес",
+      "points": 3,
+      "question": "В каком штате США находится Голливуд?",
+      "answer": "Калифорния",
       "accepted_answers": [
-        "Лос-Анджелес",
-        "Лос Анджелес"
-      ]
+        "Калифорния"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0135",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 2,
-      "question": "Какой город известен Карловым мостом и Пражским градом?",
-      "answer": "Прага",
+      "points": 4,
+      "question": "Какая река протекает через Прагу?",
+      "answer": "Влтава",
       "accepted_answers": [
-        "Прага"
-      ]
+        "Влтава"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0119",
@@ -763,13 +780,12 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 3,
-      "question": "Какой город известен статуей Христа-Искупителя на горе?",
-      "answer": "Рио-де-Жанейро",
+      "question": "В какой стране находится статуя Христа-Искупителя в Рио-де-Жанейро?",
+      "answer": "Бразилия",
       "accepted_answers": [
-        "Рио-де-Жанейро",
-        "Рио де Жанейро",
-        "Рио"
-      ]
+        "Бразилия"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0126",
@@ -788,12 +804,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 2,
-      "question": "Какой город называют городом любви и моды, а через него течёт Сена?",
-      "answer": "Париж",
+      "points": 3,
+      "question": "Какой город является столицей Швеции?",
+      "answer": "Стокгольм",
       "accepted_answers": [
-        "Париж"
-      ]
+        "Стокгольм"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0131",
@@ -813,12 +830,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 3,
-      "question": "Какой город известен каналами, велосипедами и музеем Ван Гога?",
-      "answer": "Амстердам",
+      "points": 4,
+      "question": "Какая страна подарила США Статую Свободы?",
+      "answer": "Франция",
       "accepted_answers": [
-        "Амстердам"
-      ]
+        "Франция"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0130",
@@ -888,11 +906,14 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 4,
-      "question": "Какой город известен красными двухэтажными автобусами?",
-      "answer": "Лондон",
+      "question": "Как называется лондонское метро по-английски одним разговорным словом?",
+      "answer": "Tube",
       "accepted_answers": [
-        "Лондон"
-      ]
+        "Tube",
+        "The Tube",
+        "Тьюб"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0152",
@@ -936,11 +957,12 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 3,
-      "question": "Какой город известен фонтаном Треви?",
-      "answer": "Рим",
+      "question": "Какой итальянский город был погребён при извержении Везувия в 79 году?",
+      "answer": "Помпеи",
       "accepted_answers": [
-        "Рим"
-      ]
+        "Помпеи"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0155",
@@ -948,11 +970,13 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 4,
-      "question": "Какой город известен горой Фудзи на горизонте в ясную погоду?",
-      "answer": "Токио",
+      "question": "Какой вулкан изображён на гравюре Хокусая «Большая волна в Канагаве»?",
+      "answer": "Фудзи",
       "accepted_answers": [
-        "Токио"
-      ]
+        "Фудзи",
+        "Фудзияма"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0157",
@@ -973,12 +997,13 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 4,
-      "question": "Какой город знаменит трамваями, крутыми холмами и частыми туманами?",
-      "answer": "Сан-Франциско",
+      "question": "На каком полуострове расположены Испания и Португалия?",
+      "answer": "Пиренейский полуостров",
       "accepted_answers": [
-        "Сан-Франциско",
-        "Сан Франциско"
-      ]
+        "Пиренейский полуостров",
+        "Иберийский полуостров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0142",
@@ -986,23 +1011,27 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 3,
-      "question": "В каком городе находится площадь Пикадилли и Букингемский дворец?",
-      "answer": "Лондон",
+      "question": "В какой стране находится город Эдинбург?",
+      "answer": "Великобритания",
       "accepted_answers": [
-        "Лондон"
-      ]
+        "Великобритания",
+        "Соединённое Королевство",
+        "Шотландия"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0160",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 5,
-      "question": "В каком городе находится крепость и дворцовый комплекс Алькасар, известный садами?",
+      "points": 4,
+      "question": "В каком испанском городе находится Королевский Алькасар рядом с собором и башней Хиральда?",
       "answer": "Севилья",
       "accepted_answers": [
         "Севилья"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0128",
@@ -1021,12 +1050,14 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 5,
-      "question": "Какой город известен голубой мечетью и Айя-Софией?",
-      "answer": "Стамбул",
+      "points": 4,
+      "question": "Какой пролив отделяет Испанию от Марокко?",
+      "answer": "Гибралтарский пролив",
       "accepted_answers": [
-        "Стамбул"
-      ]
+        "Гибралтарский пролив",
+        "Гибралтар"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0129",
@@ -1047,35 +1078,40 @@
       "category_key": "geography",
       "subcategory": "Города и места",
       "points": 4,
-      "question": "Какой город знаменит домами Гауди и парком Гуэль?",
-      "answer": "Барселона",
+      "question": "Какой архитектор спроектировал Саграда Фамилия?",
+      "answer": "Антонио Гауди",
       "accepted_answers": [
-        "Барселона"
-      ]
+        "Антонио Гауди",
+        "Антони Гауди",
+        "Гауди"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0146",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 3,
-      "question": "В каком городе находится башня Бурдж-эль-Араб в форме паруса?",
-      "answer": "Дубай",
+      "points": 4,
+      "question": "Какой город является столицей Объединённых Арабских Эмиратов?",
+      "answer": "Абу-Даби",
       "accepted_answers": [
-        "Дубай"
-      ]
+        "Абу-Даби"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0164",
       "category": "География",
       "category_key": "geography",
       "subcategory": "Города и места",
-      "points": 5,
-      "question": "В каком городе находится самый известный район Гангнам?",
+      "points": 4,
+      "question": "Какой город является столицей Южной Кореи?",
       "answer": "Сеул",
       "accepted_answers": [
         "Сеул"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0132",
@@ -1429,12 +1465,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "Карта и соседи",
-      "points": 2,
-      "question": "Какая страна расположена непосредственно к югу от Германии и известна Альпами?",
-      "answer": "Австрия",
+      "points": 3,
+      "question": "Какой город является столицей Австрии?",
+      "answer": "Вена",
       "accepted_answers": [
-        "Австрия"
-      ]
+        "Вена"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0226",
@@ -1634,12 +1671,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "География без зубрёжки",
-      "points": 2,
-      "question": "Какой материк одновременно омывают Тихий, Атлантический, Индийский и Северный Ледовитый океаны?",
+      "points": 3,
+      "question": "Как называется крупнейший материк в принятой в России модели шести материков?",
       "answer": "Евразия",
       "accepted_answers": [
         "Евразия"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0272",
@@ -1670,12 +1708,13 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "География без зубрёжки",
-      "points": 2,
-      "question": "Какой материк лежит сразу в Северном, Южном, Западном и Восточном полушариях?",
+      "points": 3,
+      "question": "Какой материк пересекают и экватор, и нулевой меридиан?",
       "answer": "Африка",
       "accepted_answers": [
         "Африка"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0274",
@@ -1706,26 +1745,28 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "География без зубрёжки",
-      "points": 3,
-      "question": "Какой язык чаще всего можно услышать в Мексике?",
-      "answer": "Испанский язык",
+      "points": 2,
+      "question": "Какой язык является основным языком общения в Мексике?",
+      "answer": "Испанский",
       "accepted_answers": [
-        "Испанский язык",
-        "испанский"
-      ]
+        "Испанский",
+        "Испанский язык"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0291",
       "category": "География",
       "category_key": "geography",
       "subcategory": "География вокруг нас",
-      "points": 1,
-      "question": "Какая звезда помогает определить направление на север?",
-      "answer": "Полярная звезда",
+      "points": 3,
+      "question": "В какой стране находится остров Мадагаскар как основная территория государства?",
+      "answer": "Мадагаскар",
       "accepted_answers": [
-        "Полярная звезда",
-        "Полярная"
-      ]
+        "Мадагаскар",
+        "Республика Мадагаскар"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "geo-0292",
@@ -1843,11 +1884,13 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 2,
-      "question": "Сколько составляет 10% от 250?",
-      "answer": "25",
+      "question": "Какое число является единственным чётным простым числом?",
+      "answer": "2",
       "accepted_answers": [
-        "25"
-      ]
+        "2",
+        "Два"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0082",
@@ -1855,11 +1898,13 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 2,
-      "question": "Сколько составляет 20% от 180?",
-      "answer": "36",
+      "question": "Сколько нулей в десятичной записи одного миллиона?",
+      "answer": "6",
       "accepted_answers": [
-        "36"
-      ]
+        "6",
+        "Шесть"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0083",
@@ -1867,11 +1912,14 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 2,
-      "question": "Сколько составляет 25% от 200?",
-      "answer": "50",
+      "question": "Какой обычной дроби равно число 0,75?",
+      "answer": "3/4",
       "accepted_answers": [
-        "50"
-      ]
+        "3/4",
+        "Три четверти",
+        "¾"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0084",
@@ -1879,23 +1927,25 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 2,
-      "question": "Сколько составляет 50% от 74?",
-      "answer": "37",
+      "question": "Чему равен квадрат числа 7?",
+      "answer": "49",
       "accepted_answers": [
-        "37"
-      ]
+        "49"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0085",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 3,
-      "question": "Сколько составляет 5% от 300?",
-      "answer": "15",
+      "points": 2,
+      "question": "Чему равен квадратный корень из 144?",
+      "answer": "12",
       "accepted_answers": [
-        "15"
-      ]
+        "12"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0086",
@@ -1903,11 +1953,13 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 3,
-      "question": "Сколько составляет 15% от 200?",
-      "answer": "30",
+      "question": "Сколько граней у куба?",
+      "answer": "6",
       "accepted_answers": [
-        "30"
-      ]
+        "6",
+        "Шесть"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0087",
@@ -1915,11 +1967,13 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 3,
-      "question": "Сколько составляет 30% от 150?",
-      "answer": "45",
+      "question": "Сколько рёбер у куба?",
+      "answer": "12",
       "accepted_answers": [
-        "45"
-      ]
+        "12",
+        "Двенадцать"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0088",
@@ -1927,11 +1981,13 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 3,
-      "question": "Сколько составляет 40% от 90?",
-      "answer": "36",
+      "question": "Сколько вершин у куба?",
+      "answer": "8",
       "accepted_answers": [
-        "36"
-      ]
+        "8",
+        "Восемь"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0089",
@@ -1939,11 +1995,12 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 3,
-      "question": "Сколько составляет 75% от 80?",
-      "answer": "60",
+      "question": "Чему равно 2 в пятой степени?",
+      "answer": "32",
       "accepted_answers": [
-        "60"
-      ]
+        "32"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0090",
@@ -1951,47 +2008,55 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 3,
-      "question": "Сколько составляет 10% от 470?",
-      "answer": "47",
+      "question": "Чему равен остаток при делении 17 на 5?",
+      "answer": "2",
       "accepted_answers": [
-        "47"
-      ]
+        "2"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0091",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 4,
-      "question": "Сколько составляет 20% от 320?",
-      "answer": "64",
+      "points": 3,
+      "question": "Сколько миллиметров в 3,5 сантиметра?",
+      "answer": "35 миллиметров",
       "accepted_answers": [
-        "64"
-      ]
+        "35 миллиметров",
+        "35 мм",
+        "35"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0092",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 4,
-      "question": "Сколько составляет 25% от 360?",
-      "answer": "90",
+      "points": 3,
+      "question": "Сколько секунд в 15 минутах?",
+      "answer": "900 секунд",
       "accepted_answers": [
-        "90"
-      ]
+        "900 секунд",
+        "900"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0093",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 4,
-      "question": "Сколько составляет 50% от 126?",
-      "answer": "63",
+      "points": 3,
+      "question": "Сколько кубических сантиметров в одном литре?",
+      "answer": "1000",
       "accepted_answers": [
-        "63"
-      ]
+        "1000",
+        "1000 см³"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0094",
@@ -1999,11 +2064,12 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 4,
-      "question": "Сколько составляет 5% от 460?",
-      "answer": "23",
+      "question": "Чему равно среднее арифметическое чисел 4, 6 и 14?",
+      "answer": "8",
       "accepted_answers": [
-        "23"
-      ]
+        "8"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0095",
@@ -2011,143 +2077,165 @@
       "category_key": "mathematics",
       "subcategory": "Проценты",
       "points": 4,
-      "question": "Сколько составляет 15% от 120?",
-      "answer": "18",
+      "question": "Чему равна медиана чисел 2, 3, 9, 10 и 100?",
+      "answer": "9",
       "accepted_answers": [
-        "18"
-      ]
+        "9"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0096",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 5,
-      "question": "Сколько составляет 30% от 240?",
-      "answer": "72",
+      "points": 4,
+      "question": "Какое число является модой набора 1, 2, 2, 3, 4?",
+      "answer": "2",
       "accepted_answers": [
-        "72"
-      ]
+        "2"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0097",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 5,
-      "question": "Сколько составляет 40% от 350?",
-      "answer": "140",
+      "points": 4,
+      "question": "Цену повысили на 10%, затем снизили на 10%. Как она изменилась относительно начальной?",
+      "answer": "Стала на 1% ниже",
       "accepted_answers": [
-        "140"
-      ]
+        "Стала на 1% ниже",
+        "Уменьшилась на 1%",
+        "99% от начальной"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0098",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 5,
-      "question": "Сколько составляет 75% от 120?",
-      "answer": "90",
+      "points": 4,
+      "question": "Товар после скидки 25% стоит 60 рублей. Сколько он стоил до скидки?",
+      "answer": "80 рублей",
       "accepted_answers": [
-        "90"
-      ]
+        "80 рублей",
+        "80"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0099",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 5,
-      "question": "Сколько составляет 10% от 990?",
-      "answer": "99",
+      "points": 4,
+      "question": "Какова вероятность выбросить шестёрку на обычном честном шестигранном кубике?",
+      "answer": "1/6",
       "accepted_answers": [
-        "99"
-      ]
+        "1/6",
+        "Один шанс из шести"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0100",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Проценты",
-      "points": 5,
-      "question": "Сколько составляет 20% от 650?",
-      "answer": "130",
+      "points": 4,
+      "question": "Какова вероятность получить два орла при двух бросках честной монеты?",
+      "answer": "1/4",
       "accepted_answers": [
-        "130"
-      ]
+        "1/4",
+        "25%",
+        "Один шанс из четырёх"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0111",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 1,
-      "question": "Чему равна 1/2 от числа 84?",
-      "answer": "42",
+      "points": 3,
+      "question": "Сколько двузначных чисел можно составить из цифр 1, 2 и 3 без повторения цифры?",
+      "answer": "6",
       "accepted_answers": [
-        "42"
-      ]
+        "6"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0112",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 2,
-      "question": "Чему равна 1/3 от числа 90?",
-      "answer": "30",
+      "points": 5,
+      "question": "Чему равна сумма целых чисел от 1 до 10 включительно?",
+      "answer": "55",
       "accepted_answers": [
-        "30"
-      ]
+        "55"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0113",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 2,
-      "question": "Чему равна 1/4 от числа 120?",
-      "answer": "30",
+      "points": 4,
+      "question": "Сколько диагоналей у квадрата?",
+      "answer": "2",
       "accepted_answers": [
-        "30"
-      ]
+        "2",
+        "Две"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0114",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 3,
-      "question": "Чему равна 2/3 от числа 90?",
-      "answer": "60",
+      "points": 5,
+      "question": "Сколько диагоналей у пятиугольника?",
+      "answer": "5",
       "accepted_answers": [
-        "60"
-      ]
+        "5",
+        "Пять"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0115",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 3,
-      "question": "Чему равна 3/4 от числа 80?",
-      "answer": "60",
+      "points": 4,
+      "question": "Машина проехала 150 км за 2,5 часа с постоянной скоростью. Какова её скорость?",
+      "answer": "60 км/ч",
       "accepted_answers": [
-        "60"
-      ]
+        "60 км/ч",
+        "60 километров в час"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0116",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 3,
-      "question": "Чему равна 1/5 от числа 150?",
-      "answer": "30",
+      "points": 4,
+      "question": "Какой путь проедет машина за 20 минут со скоростью 90 км/ч?",
+      "answer": "30 км",
       "accepted_answers": [
-        "30"
-      ]
+        "30 км",
+        "30 километров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0117",
@@ -2155,23 +2243,27 @@
       "category_key": "mathematics",
       "subcategory": "Дроби",
       "points": 4,
-      "question": "Чему равна 2/5 от числа 100?",
-      "answer": "40",
+      "question": "На 6 порций нужно 3 яйца. Сколько яиц нужно на 10 порций по тому же рецепту?",
+      "answer": "5",
       "accepted_answers": [
-        "40"
-      ]
+        "5",
+        "Пять"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0118",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 4,
-      "question": "Чему равна 3/5 от числа 200?",
-      "answer": "120",
+      "points": 5,
+      "question": "Площадь квадрата равна 81 см². Чему равен его периметр?",
+      "answer": "36 см",
       "accepted_answers": [
-        "120"
-      ]
+        "36 см",
+        "36 сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0119",
@@ -2179,11 +2271,13 @@
       "category_key": "mathematics",
       "subcategory": "Дроби",
       "points": 4,
-      "question": "Чему равна 4/5 от числа 75?",
-      "answer": "60",
+      "question": "Чему равен объём куба с ребром 3 см?",
+      "answer": "27 см³",
       "accepted_answers": [
-        "60"
-      ]
+        "27 см³",
+        "27 кубических сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0120",
@@ -2191,11 +2285,12 @@
       "category_key": "mathematics",
       "subcategory": "Дроби",
       "points": 5,
-      "question": "Чему равна 1/6 от числа 144?",
-      "answer": "24",
+      "question": "Катеты прямоугольного треугольника равны 3 и 4. Чему равна гипотенуза?",
+      "answer": "5",
       "accepted_answers": [
-        "24"
-      ]
+        "5"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0126",
@@ -2390,120 +2485,139 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 1,
-      "question": "Найдите x: x + 7 = 11.",
-      "answer": "4",
+      "points": 4,
+      "question": "Чему равно наименьшее общее кратное чисел 4 и 6?",
+      "answer": "12",
       "accepted_answers": [
-        "4"
-      ]
+        "12"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0142",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 8 = 13.",
-      "answer": "5",
+      "points": 4,
+      "question": "Чему равен наибольший общий делитель чисел 18 и 24?",
+      "answer": "6",
       "accepted_answers": [
-        "5"
-      ]
+        "6"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0143",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 9 = 15.",
-      "answer": "6",
+      "points": 4,
+      "question": "Чему равно произведение 0,2 и 0,3?",
+      "answer": "0,06",
       "accepted_answers": [
-        "6"
-      ]
+        "0,06",
+        "0.06"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0144",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 10 = 17.",
-      "answer": "7",
+      "points": 4,
+      "question": "Как изменится площадь круга, если его радиус увеличить вдвое?",
+      "answer": "Увеличится в 4 раза",
       "accepted_answers": [
-        "7"
-      ]
+        "Увеличится в 4 раза",
+        "В четыре раза",
+        "Учетверится"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0145",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 11 = 19.",
-      "answer": "8",
+      "points": 4,
+      "question": "Как изменится периметр квадрата, если его сторону увеличить вдвое?",
+      "answer": "Увеличится в 2 раза",
       "accepted_answers": [
-        "8"
-      ]
+        "Увеличится в 2 раза",
+        "Удвоится",
+        "В два раза"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0146",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 12 = 21.",
-      "answer": "9",
+      "points": 3,
+      "question": "Решите уравнение: 3x + 5 = 20.",
+      "answer": "5",
       "accepted_answers": [
-        "9"
-      ]
+        "5"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0147",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 13 = 23.",
-      "answer": "10",
+      "points": 3,
+      "question": "Решите уравнение: 2x − 7 = 11.",
+      "answer": "9",
       "accepted_answers": [
-        "10"
-      ]
+        "9"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0148",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 2,
-      "question": "Найдите x: x + 14 = 25.",
-      "answer": "11",
+      "points": 4,
+      "question": "Во сколько раз 0,5 больше 0,05?",
+      "answer": "В 10 раз",
       "accepted_answers": [
-        "11"
-      ]
+        "В 10 раз",
+        "10"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0149",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 3,
-      "question": "Найдите x: x + 7 = 19.",
-      "answer": "12",
+      "points": 4,
+      "question": "Какое число в двоичной системе записывается как 101?",
+      "answer": "5",
       "accepted_answers": [
-        "12"
-      ]
+        "5",
+        "Пять"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0150",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Уравнения",
-      "points": 3,
-      "question": "Найдите x: x + 8 = 21.",
-      "answer": "13",
+      "points": 4,
+      "question": "Какое целое число находится ровно посередине между −7 и 3?",
+      "answer": "−2",
       "accepted_answers": [
-        "13"
-      ]
+        "−2",
+        "-2",
+        "Минус два"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0184",
@@ -2631,52 +2745,57 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Периметр",
-      "points": 1,
-      "question": "Чему равен периметр прямоугольника со сторонами 4 см и 3 см?",
-      "answer": "14 см",
+      "points": 4,
+      "question": "Площадь прямоугольника 24 см², одна сторона 4 см. Чему равна другая сторона?",
+      "answer": "6 см",
       "accepted_answers": [
-        "14 см",
-        "14"
-      ]
+        "6 см",
+        "6 сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0192",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Периметр",
-      "points": 1,
-      "question": "Чему равен периметр прямоугольника со сторонами 5 см и 4 см?",
-      "answer": "18 см",
+      "points": 4,
+      "question": "Длина окружности равна 10π см. Чему равен её радиус?",
+      "answer": "5 см",
       "accepted_answers": [
-        "18 см",
-        "18"
-      ]
+        "5 см",
+        "5 сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0193",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Периметр",
-      "points": 2,
-      "question": "Чему равен периметр прямоугольника со сторонами 6 см и 5 см?",
-      "answer": "22 см",
+      "points": 4,
+      "question": "Сторона квадрата равна 5 см. Чему равна его площадь?",
+      "answer": "25 см²",
       "accepted_answers": [
-        "22 см",
-        "22"
-      ]
+        "25 см²",
+        "25 квадратных сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0194",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Периметр",
-      "points": 2,
-      "question": "Чему равен периметр прямоугольника со сторонами 7 см и 6 см?",
-      "answer": "26 см",
+      "points": 4,
+      "question": "Сколько градусов составляют три четверти полного оборота?",
+      "answer": "270 градусов",
       "accepted_answers": [
-        "26 см",
-        "26"
-      ]
+        "270 градусов",
+        "270",
+        "270°"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "reasoning-math-0001",
@@ -2710,104 +2829,111 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 1,
-      "question": "Чему равна площадь прямоугольника со сторонами 5 см и 2 см?",
-      "answer": "10 см²",
+      "points": 4,
+      "question": "В треугольнике два угла равны 35° и 65°. Чему равен третий угол?",
+      "answer": "80 градусов",
       "accepted_answers": [
-        "10 см²",
-        "10"
-      ]
+        "80 градусов",
+        "80",
+        "80°"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0207",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 1,
-      "question": "Чему равна площадь прямоугольника со сторонами 6 см и 3 см?",
-      "answer": "18 см²",
+      "points": 4,
+      "question": "Чему равна площадь треугольника с основанием 8 см и высотой 3 см?",
+      "answer": "12 см²",
       "accepted_answers": [
-        "18 см²",
-        "18"
-      ]
+        "12 см²",
+        "12 квадратных сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0208",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 2,
-      "question": "Чему равна площадь прямоугольника со сторонами 7 см и 4 см?",
-      "answer": "28 см²",
+      "points": 4,
+      "question": "Сколько процентов от числа 80 составляет число 20?",
+      "answer": "25%",
       "accepted_answers": [
-        "28 см²",
-        "28"
-      ]
+        "25%",
+        "25 процентов"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0209",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 2,
-      "question": "Чему равна площадь прямоугольника со сторонами 8 см и 5 см?",
-      "answer": "40 см²",
+      "points": 4,
+      "question": "Сколько минут составляют 1,75 часа?",
+      "answer": "105 минут",
       "accepted_answers": [
-        "40 см²",
-        "40"
-      ]
+        "105 минут",
+        "105"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0210",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 2,
-      "question": "Чему равна площадь прямоугольника со сторонами 9 см и 6 см?",
-      "answer": "54 см²",
+      "points": 5,
+      "question": "У круга радиус 3 см. Чему равна его площадь в виде выражения с π?",
+      "answer": "9π см²",
       "accepted_answers": [
-        "54 см²",
-        "54"
-      ]
+        "9π см²",
+        "9 пи квадратных сантиметров"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0211",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 2,
-      "question": "Чему равна площадь прямоугольника со сторонами 10 см и 7 см?",
-      "answer": "70 см²",
+      "points": 5,
+      "question": "В классе 20 учеников, 12 из них девочки. Какой процент класса составляют мальчики?",
+      "answer": "40%",
       "accepted_answers": [
-        "70 см²",
-        "70"
-      ]
+        "40%",
+        "40 процентов"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0212",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 2,
-      "question": "Чему равна площадь прямоугольника со сторонами 11 см и 8 см?",
-      "answer": "88 см²",
+      "points": 4,
+      "question": "Чему равны две трети от 90?",
+      "answer": "60",
       "accepted_answers": [
-        "88 см²",
-        "88"
-      ]
+        "60"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0213",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 3,
-      "question": "Чему равна площадь прямоугольника со сторонами 12 см и 9 см?",
-      "answer": "108 см²",
+      "points": 4,
+      "question": "Если 40% числа равны 24, чему равно всё число?",
+      "answer": "60",
       "accepted_answers": [
-        "108 см²",
-        "108"
-      ]
+        "60"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "math-0241",
@@ -3591,24 +3717,26 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: яблоко, груша, морковь, слива?",
+      "points": 2,
+      "question": "Какое слово лишнее, если три других обозначают фрукты: яблоко, груша, морковь, слива?",
       "answer": "Морковь",
       "accepted_answers": [
         "Морковь"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0062",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: стол, диван, шкаф, тарелка?",
+      "points": 2,
+      "question": "Какое слово лишнее, если три других обозначают мебель: стол, диван, шкаф, тарелка?",
       "answer": "Тарелка",
       "accepted_answers": [
         "Тарелка"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0063",
@@ -3627,12 +3755,13 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: воробей, орёл, бабочка, голубь?",
+      "points": 2,
+      "question": "Какое слово лишнее по классу животных: воробей, орёл, бабочка, голубь?",
       "answer": "Бабочка",
       "accepted_answers": [
         "Бабочка"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0065",
@@ -3651,24 +3780,26 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: метр, литр, километр, сантиметр?",
+      "points": 2,
+      "question": "Какая единица измеряет объём, а остальные — длину: метр, литр, километр, сантиметр?",
       "answer": "Литр",
       "accepted_answers": [
         "Литр"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0068",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: скрипка, гитара, пианино, микрофон?",
+      "points": 3,
+      "question": "Что здесь не является музыкальным инструментом: скрипка, гитара, пианино, микрофон?",
       "answer": "Микрофон",
       "accepted_answers": [
         "Микрофон"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0069",
@@ -3687,12 +3818,13 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: акула, дельфин, кит, тигр?",
+      "points": 3,
+      "question": "Какое животное живёт на суше, а остальные три — в воде: акула, дельфин, кит, тигр?",
       "answer": "Тигр",
       "accepted_answers": [
         "Тигр"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0071",
@@ -3711,24 +3843,26 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 1,
-      "question": "Какое слово лишнее: квадрат, круг, треугольник, куб?",
+      "points": 2,
+      "question": "Какая фигура объёмная, а остальные плоские: квадрат, круг, треугольник, куб?",
       "answer": "Куб",
       "accepted_answers": [
         "Куб"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0075",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Найди лишнее",
-      "points": 2,
-      "question": "Какое слово лишнее: автобус, трамвай, поезд, лифт?",
+      "points": 3,
+      "question": "Что перемещает людей между этажами, а остальные — между остановками: автобус, трамвай, поезд, лифт?",
       "answer": "Лифт",
       "accepted_answers": [
         "Лифт"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0076",
@@ -4028,14 +4162,15 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Загадки",
-      "points": 1,
-      "question": "Что имеет много ключей, но не открывает дверей?",
+      "points": 2,
+      "question": "У какого музыкального инструмента есть клавиши, но ими нельзя открыть замок?",
       "answer": "Пианино",
       "accepted_answers": [
         "Пианино",
-        "рояль",
-        "клавиатура"
-      ]
+        "Фортепиано",
+        "Синтезатор"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0171",
@@ -4090,12 +4225,14 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Загадки",
-      "points": 2,
-      "question": "Что можно держать только после того, как отдашь?",
+      "points": 3,
+      "question": "Какое обещание можно «дать», а затем «держать», хотя это не предмет?",
       "answer": "Слово",
       "accepted_answers": [
-        "Слово"
-      ]
+        "Слово",
+        "Данное слово"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0161",
@@ -4128,13 +4265,13 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 3,
-      "question": "Какой предмет имеет экран, но не защищает от солнца?",
-      "answer": "Телевизор",
+      "question": "В ящике только чёрные и белые носки. Сколько нужно взять вслепую, чтобы гарантировать пару одного цвета?",
+      "answer": "3",
       "accepted_answers": [
-        "Телевизор",
-        "телефон",
-        "монитор"
-      ]
+        "3",
+        "Три"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0165",
@@ -4167,12 +4304,13 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 3,
-      "question": "Чем можно наполнить комнату, не занимая в ней места?",
+      "question": "Чем можно осветить всю комнату, не поставив в неё новый предмет?",
       "answer": "Светом",
       "accepted_answers": [
         "Светом",
-        "свет"
-      ]
+        "Свет"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0167",
@@ -4191,12 +4329,14 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Загадки",
-      "points": 3,
-      "question": "Какой предмет показывает время, но сам никуда не спешит?",
-      "answer": "Часы",
+      "points": 4,
+      "question": "В мешке пять красных и пять синих шаров. Сколько нужно взять вслепую, чтобы гарантированно получить красный?",
+      "answer": "6",
       "accepted_answers": [
-        "Часы"
-      ]
+        "6",
+        "Шесть"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0169",
@@ -4240,13 +4380,13 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Загадки",
-      "points": 3,
-      "question": "Что становится короче по мере работы?",
+      "points": 2,
+      "question": "Что становится короче, пока горит и даёт свет?",
       "answer": "Свеча",
       "accepted_answers": [
-        "Свеча",
-        "карандаш"
-      ]
+        "Свеча"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0177",
@@ -4254,11 +4394,12 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 2,
-      "question": "Что имеет четыре ноги, но не умеет ходить?",
+      "question": "У какого предмета мебели для еды обычно четыре ножки, но он не ходит?",
       "answer": "Стол",
       "accepted_answers": [
         "Стол"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0178",
@@ -4266,12 +4407,13 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 2,
-      "question": "Что имеет одно ухо, но ничего не слышит?",
+      "question": "У какого инструмента для шитья есть ушко, но нет слуха?",
       "answer": "Игла",
       "accepted_answers": [
         "Игла",
-        "иголка"
-      ]
+        "Иголка"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0193",
@@ -4279,12 +4421,13 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 4,
-      "question": "Что становится ценнее, когда им делятся с другими?",
-      "answer": "Знание",
+      "question": "В ящике красные, синие и зелёные носки. Сколько нужно взять вслепую, чтобы гарантировать два одного цвета?",
+      "answer": "4",
       "accepted_answers": [
-        "Знание",
-        "знания"
-      ]
+        "4",
+        "Четыре"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0179",
@@ -4593,13 +4736,14 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
-      "question": "Отец Сергея — сын дедушки Петра. Кем Пётр приходится Сергею?",
+      "points": 4,
+      "question": "Пётр — отец папы Сергея. Кем Пётр приходится Сергею?",
       "answer": "Дедушкой",
       "accepted_answers": [
         "Дедушкой",
-        "дедушка"
-      ]
+        "Дедушка"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0254",
@@ -4646,27 +4790,28 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 6,
-      "question": "У Лены есть брат Саша. Саша — сын Олега. Кем Олег приходится Лене?",
+      "points": 4,
+      "question": "Лена и Саша — дети Олега и родные брат и сестра. Кем Олег приходится Лене?",
       "answer": "Отцом",
       "accepted_answers": [
         "Отцом",
-        "папа",
-        "отец"
-      ]
+        "Отец",
+        "Папа"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "reasoning-logic-0001",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Практическая логика",
-      "points": 8,
-      "question": "Перед закрытой комнатой находятся три выключателя. Только один включает лампу внутри. В комнату можно войти лишь один раз. Как определить нужный выключатель?",
-      "answer": "Один выключатель включить и подождать, затем выключить; второй включить и войти. Горящая лампа укажет на второй, тёплая — на первый, холодная — на третий.",
+      "points": 7,
+      "question": "Три выключателя снаружи управляют одной лампой накаливания в закрытой комнате. Войти можно один раз. Как найти нужный выключатель?",
+      "answer": "Первый включить на несколько минут, затем выключить. Второй включить и войти: горящая лампа означает второй, тёплая негорящая — первый, холодная — третий.",
       "accepted_answers": [
-        "Использовать свет и нагрев лампы",
-        "Проверить горящую и тёплую лампу"
-      ]
+        "Первый включить на несколько минут, затем выключить. Второй включить и войти: горящая лампа означает второй, тёплая негорящая — первый, холодная — третий."
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "reasoning-logic-0002",
@@ -4723,11 +4868,13 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 3,
-      "question": "У вас было три яблока, и вы взяли два. Сколько яблок у вас стало?",
+      "question": "На столе три яблока. Вы взяли два в руки. Сколько яблок у вас в руках?",
       "answer": "2",
       "accepted_answers": [
-        "2"
-      ]
+        "2",
+        "Два"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0265",
@@ -4748,24 +4895,27 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 3,
-      "question": "Перед вами свеча, лампа и камин. Что нужно зажечь первым?",
+      "question": "У вас одна спичка, незажжённая свеча, керосиновая лампа и камин. Что надо зажечь первым?",
       "answer": "Спичку",
       "accepted_answers": [
-        "Спичку"
-      ]
+        "Спичку",
+        "Спичка"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0267",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 3,
-      "question": "Часы отбивают 6 ударов за 5 секунд. За сколько секунд они отобьют 12 ударов?",
+      "points": 4,
+      "question": "Часы делают 6 ударов за 5 секунд с равными промежутками. За сколько секунд прозвучат 12 ударов?",
       "answer": "11 секунд",
       "accepted_answers": [
         "11 секунд",
         "11"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0268",
@@ -4798,12 +4948,14 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 3,
-      "question": "На дереве сидели пять птиц. Охотник выстрелил, остальные улетели. Сколько птиц осталось сидеть?",
+      "question": "На ветке сидели пять птиц. После выстрела одна упала, остальные улетели. Сколько осталось сидеть на ветке?",
       "answer": "Ни одной",
       "accepted_answers": [
         "Ни одной",
-        "0"
-      ]
+        "0",
+        "Ноль"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0261",
@@ -4811,12 +4963,15 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 3,
-      "question": "Сколько месяцев в году имеют 28 дней?",
-      "answer": "12",
+      "question": "В скольких месяцах года есть как минимум 28 дней?",
+      "answer": "В 12",
       "accepted_answers": [
+        "В 12",
         "12",
-        "Все 12"
-      ]
+        "Во всех",
+        "Во всех месяцах"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0273",
@@ -4824,11 +4979,13 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 4,
-      "question": "У палки два конца. Сколько концов у двух с половиной палок?",
+      "question": "Есть две целые палки и отдельная половина третьей. Сколько у этих трёх кусков концов?",
       "answer": "6",
       "accepted_answers": [
-        "6"
-      ]
+        "6",
+        "Шесть"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0287",
@@ -4863,11 +5020,13 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 4,
-      "question": "В комнате четыре угла. В каждом углу сидит кошка. Сколько кошек в комнате?",
+      "question": "В комнате четыре угла. В каждом углу сидит ровно одна кошка, других кошек нет. Сколько всего кошек?",
       "answer": "4",
       "accepted_answers": [
-        "4"
-      ]
+        "4",
+        "Четыре"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0277",
@@ -4875,12 +5034,13 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 4,
-      "question": "На столе лежат две монеты общей суммой 15 рублей. Одна из них не 5 рублей. Какие это монеты?",
+      "question": "Две монеты дают 15 рублей. Одна из двух не является пятирублёвой. Какие номиналы у монет?",
       "answer": "10 и 5 рублей",
       "accepted_answers": [
         "10 и 5 рублей",
-        "10 рублей и 5 рублей"
-      ]
+        "5 и 10 рублей"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0278",
@@ -4923,26 +5083,29 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
-      "question": "Врач дал три таблетки и велел принимать по одной каждые полчаса. На сколько времени их хватит?",
-      "answer": "На один час",
+      "points": 4,
+      "question": "Первую из трёх таблеток приняли сейчас, остальные — по одной каждые полчаса. Через сколько времени примут последнюю?",
+      "answer": "Через час",
       "accepted_answers": [
-        "На один час",
-        "1 час"
-      ]
+        "Через час",
+        "60 минут",
+        "Один час"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0286",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
-      "question": "Водитель проехал на красный свет, но не нарушил правила. Как это возможно?",
-      "answer": "Он шёл пешком",
+      "points": 4,
+      "question": "Если идёт дождь, дорожка мокрая. Дорожка мокрая. Доказывает ли это, что был дождь?",
+      "answer": "Нет",
       "accepted_answers": [
-        "Он шёл пешком",
-        "водитель был пешеходом"
-      ]
+        "Нет",
+        "Она могла намокнуть по другой причине"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "reasoning-logic-0006",
@@ -4962,26 +5125,29 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
-      "question": "Два человека сыграли пять партий в шахматы. Каждый выиграл одинаковое количество партий, и ничьих не было. Как это возможно?",
-      "answer": "Они играли не друг с другом.",
+      "points": 6,
+      "question": "Два шахматиста сыграли по пять партий. Оба выиграли все пять, ничьих не было. Как это возможно?",
+      "answer": "Они играли с другими соперниками, а не друг с другом.",
       "accepted_answers": [
-        "Они играли с разными соперниками",
+        "Они играли с другими соперниками, а не друг с другом.",
         "Играли не друг с другом"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0291",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "Что будет с красным платком, если опустить его на пять минут в воду?",
-      "answer": "Он намокнет",
+      "points": 5,
+      "question": "Пятно кувшинок удваивается каждый день и покрывает пруд на 20-й день. На какой день оно занимало половину пруда?",
+      "answer": "На 19-й день",
       "accepted_answers": [
-        "Он намокнет",
-        "станет мокрым"
-      ]
+        "На 19-й день",
+        "19",
+        "Девятнадцатый"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0280",
@@ -4989,12 +5155,12 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 4,
-      "question": "Как далеко собака может забежать в лес?",
-      "answer": "До середины леса",
+      "question": "Все квадраты — прямоугольники. Значит ли это, что все прямоугольники — квадраты?",
+      "answer": "Нет",
       "accepted_answers": [
-        "До середины леса",
-        "до середины"
-      ]
+        "Нет"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0292",
@@ -5002,12 +5168,12 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 5,
-      "question": "Можно ли подпрыгнуть выше девятиэтажного дома?",
-      "answer": "Да, дома не прыгают",
+      "question": "Десять человек пожали друг другу руки, каждая пара ровно один раз. Сколько было рукопожатий?",
+      "answer": "45",
       "accepted_answers": [
-        "Да, дома не прыгают",
-        "да"
-      ]
+        "45"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0281",
@@ -5028,25 +5194,28 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "По дороге шли муж с женой, брат с сестрой и шурин с зятем. Сколько минимум человек могло быть?",
-      "answer": "3",
+      "points": 5,
+      "question": "Есть три больших коробки, в каждой по две маленьких. Сколько всего коробок?",
+      "answer": "9",
       "accepted_answers": [
-        "3"
-      ]
+        "9",
+        "Девять"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0294",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "В каком слове из пяти букв остаётся одна буква, если убрать две первые и две последние?",
-      "answer": "Слово",
+      "points": 5,
+      "question": "Вы смотрите на север, поворачиваете направо, затем на 180°, затем налево. Куда вы смотрите?",
+      "answer": "На юг",
       "accepted_answers": [
-        "Слово",
-        "слово «слово»"
-      ]
+        "На юг",
+        "Юг"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0283",
@@ -5078,13 +5247,15 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
-      "question": "Сколько яиц можно съесть натощак?",
-      "answer": "Одно",
+      "points": 4,
+      "question": "Четыре человека стоят в очереди. Вы перед последним, но после двух других. Какой вы по счёту?",
+      "answer": "Третий",
       "accepted_answers": [
-        "Одно",
-        "1"
-      ]
+        "Третий",
+        "3",
+        "Третьим"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "reasoning-logic-0005",
@@ -5145,37 +5316,42 @@
       "category_key": "logic",
       "subcategory": "Внимательность",
       "points": 5,
-      "question": "Сколько раз можно вычесть 10 из 100?",
+      "question": "Сколько раз можно вычесть 10 из исходного числа 100, если после первого вычитания исходного числа уже нет?",
       "answer": "Один раз",
       "accepted_answers": [
         "Один раз",
         "1"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0299",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "У стола отпилили один угол. Сколько углов стало?",
+      "points": 5,
+      "question": "У прямоугольного листа срезали один угол прямой линией через две соседние стороны, не задевая другие вершины. Сколько стало углов?",
       "answer": "5",
       "accepted_answers": [
-        "5"
-      ]
+        "5",
+        "Пять"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0288",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "Какая рука лучше размешивает чай?",
-      "answer": "Никакая, чай размешивают ложкой",
+      "points": 4,
+      "question": "Вас обогнал один бегун, и теперь вы третий. На каком месте вы были до этого, если другие позиции не изменились?",
+      "answer": "На втором",
       "accepted_answers": [
-        "Никакая, чай размешивают ложкой",
-        "ложка"
-      ]
+        "На втором",
+        "Второй",
+        "2"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "logic-0272",
@@ -5195,12 +5371,15 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "Сколько букв в слове «алфавит»?",
-      "answer": "7",
+      "points": 4,
+      "question": "Если пять машин делают пять деталей за пять минут, за сколько минут одна машина сделает одну деталь при той же скорости?",
+      "answer": "За 5 минут",
       "accepted_answers": [
-        "7"
-      ]
+        "За 5 минут",
+        "5 минут",
+        "5"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0005",
@@ -5283,13 +5462,14 @@
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
       "points": 2,
-      "question": "При какой температуре по Цельсию вода замерзает?",
+      "question": "При какой температуре по Цельсию чистая вода замерзает при нормальном атмосферном давлении?",
       "answer": "0 °C",
       "accepted_answers": [
         "0 °C",
         "0 градусов",
-        "0"
-      ]
+        "Ноль"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0011",
@@ -5459,11 +5639,12 @@
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
       "points": 3,
-      "question": "Какое значение pH считается нейтральным?",
+      "question": "Какое значение pH имеет нейтральная водная среда при 25 °C?",
       "answer": "7",
       "accepted_answers": [
         "7"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0029",
@@ -5654,13 +5835,15 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Технологии",
-      "points": 1,
-      "question": "Что кодирует квадратный чёрно-белый рисунок, считываемый камерой телефона?",
+      "points": 3,
+      "question": "Как называется квадратный двумерный код, который считывают камерой телефона?",
       "answer": "QR-код",
       "accepted_answers": [
         "QR-код",
-        "QR код"
-      ]
+        "QR code",
+        "QR"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0055",
@@ -5743,14 +5926,15 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Технологии",
-      "points": 2,
-      "question": "Как называется беспроводная технология подключения к локальной сети и интернету?",
-      "answer": "Wi‑Fi",
+      "points": 3,
+      "question": "Какая технология беспроводной локальной сети обычно используется для подключения телефона к роутеру?",
+      "answer": "Wi-Fi",
       "accepted_answers": [
-        "Wi‑Fi",
         "Wi-Fi",
-        "вайфай"
-      ]
+        "Вай-фай",
+        "Wi‑Fi"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0063",
@@ -5821,12 +6005,13 @@
       "category_key": "general",
       "subcategory": "Технологии",
       "points": 3,
-      "question": "Как называется устройство, печатающее объёмные предметы слой за слоем?",
+      "question": "Как называется устройство, которое создаёт объёмные предметы по цифровой модели, часто слой за слоем?",
       "answer": "3D-принтер",
       "accepted_answers": [
         "3D-принтер",
-        "3D принтер"
-      ]
+        "Трёхмерный принтер"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0070",
@@ -7207,13 +7392,15 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Спорт и общество",
-      "points": 2,
-      "question": "Как называется сильный атакующий удар сверху в волейболе?",
-      "answer": "Смэш",
+      "points": 3,
+      "question": "Как в волейболе называют сильный удар по мячу сверху через сетку в сторону соперника?",
+      "answer": "Нападающий удар",
       "accepted_answers": [
-        "Смэш",
-        "нападающий удар"
-      ]
+        "Нападающий удар",
+        "Атакующий удар",
+        "Смэш"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0266",
@@ -7281,11 +7468,13 @@
       "category_key": "general",
       "subcategory": "Спорт и общество",
       "points": 3,
-      "question": "Как называется окончание шахматной партии, когда королю некуда уйти от шаха?",
+      "question": "Как называется положение в шахматах, когда король под шахом и нет ни одного законного способа устранить угрозу?",
       "answer": "Мат",
       "accepted_answers": [
-        "Мат"
-      ]
+        "Мат",
+        "Шах и мат"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "general-0274",
@@ -7492,14 +7681,15 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 2,
-      "question": "Автомобиль какой марки служит машиной времени в «Назад в будущее»?",
+      "points": 3,
+      "question": "Автомобиль какой марки превращён в машину времени в «Назад в будущее»?",
       "answer": "DeLorean",
       "accepted_answers": [
         "DeLorean",
         "Делориан",
-        "DMC DeLorean"
-      ]
+        "DeLorean DMC-12"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0013",
@@ -7684,12 +7874,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 3,
-      "question": "Как настоящее имя Железного человека?",
+      "points": 2,
+      "question": "Каково настоящее имя Железного человека?",
       "answer": "Тони Старк",
       "accepted_answers": [
         "Тони Старк"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0047",
@@ -7737,51 +7928,53 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 3,
-      "question": "Как настоящее имя Халка?",
+      "points": 2,
+      "question": "Каково настоящее имя Халка?",
       "answer": "Брюс Бэннер",
       "accepted_answers": [
-        "Брюс Бэннер",
-        "Брюс Баннер"
-      ]
+        "Брюс Бэннер"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0021",
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 3,
-      "question": "Как зовут седого волшебника из «Властелина колец»?",
+      "points": 2,
+      "question": "Как зовут волшебника, который сначала известен как Серый, а затем как Белый во «Властелине колец»?",
       "answer": "Гэндальф",
       "accepted_answers": [
         "Гэндальф",
         "Гандальф"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0027",
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 3,
-      "question": "Как настоящее имя Человека-паука?",
+      "points": 2,
+      "question": "Каково настоящее имя Человека-паука в классических комиксах Marvel?",
       "answer": "Питер Паркер",
       "accepted_answers": [
         "Питер Паркер"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0028",
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 3,
-      "question": "Как настоящее имя Бэтмена?",
+      "points": 2,
+      "question": "Каково настоящее имя Бэтмена?",
       "answer": "Брюс Уэйн",
       "accepted_answers": [
-        "Брюс Уэйн",
-        "Брюс Вейн"
-      ]
+        "Брюс Уэйн"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0052",
@@ -7850,12 +8043,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 5,
-      "question": "Какое гигантское существо разрушает города в фильмах о Годзилле?",
+      "points": 3,
+      "question": "Как зовут гигантского монстра из японского фильма 1954 года, ставшего началом серии о разрушении городов?",
       "answer": "Годзилла",
       "accepted_answers": [
         "Годзилла"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0008",
@@ -7993,12 +8187,13 @@
       "category_key": "pop_culture",
       "subcategory": "Мультфильмы и анимация",
       "points": 3,
-      "question": "О какой семье супергероев рассказывает мультфильм Pixar?",
-      "answer": "Семья Парр",
+      "question": "Какова фамилия семьи супергероев в мультфильме «Суперсемейка»?",
+      "answer": "Парр",
       "accepted_answers": [
-        "Семья Парр",
-        "Суперсемейка"
-      ]
+        "Парр",
+        "Семья Парр"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0112",
@@ -8032,11 +8227,12 @@
       "category_key": "pop_culture",
       "subcategory": "Мультфильмы и анимация",
       "points": 3,
-      "question": "Какие персонажи управляют чувствами Райли в мультфильме «Головоломка»?",
+      "question": "Как называются персонажи, управляющие чувствами Райли в первой «Головоломке»: Радость, Печаль, Гнев, Страх и Брезгливость?",
       "answer": "Эмоции",
       "accepted_answers": [
         "Эмоции"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0092",
@@ -8448,12 +8644,14 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Сериалы",
-      "points": 4,
-      "question": "Сколько драконов появляется у Дейенерис в начале их взросления?",
+      "points": 3,
+      "question": "Сколько драконов вылупилось из яиц Дейенерис в финале первого сезона «Игры престолов»?",
       "answer": "3",
       "accepted_answers": [
-        "3"
-      ]
+        "3",
+        "Три"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0175",
@@ -8614,12 +8812,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Сериалы",
-      "points": 2,
-      "question": "Какова фамилия Уэнсдей?",
+      "points": 3,
+      "question": "Какова фамилия Уэнсдей в одноимённом сериале?",
       "answer": "Аддамс",
       "accepted_answers": [
         "Аддамс"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0168",
@@ -8704,25 +8903,29 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Сериалы",
-      "points": 5,
-      "question": "Кем работал Рик Граймс до зомби-апокалипсиса?",
-      "answer": "Шерифом",
+      "points": 4,
+      "question": "Кем работал Рик Граймс до апокалипсиса в сериале «Ходячие мертвецы»?",
+      "answer": "Помощником шерифа",
       "accepted_answers": [
-        "Шерифом",
-        "полицейский"
-      ]
+        "Помощником шерифа",
+        "Заместитель шерифа",
+        "Deputy sheriff"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0200",
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Сериалы",
-      "points": 5,
-      "question": "Какой гриб вызывает заражение в «Одних из нас»?",
+      "points": 4,
+      "question": "Какой род грибов вдохновил вымышленного возбудителя заражения в «Одних из нас»?",
       "answer": "Кордицепс",
       "accepted_answers": [
-        "Кордицепс"
-      ]
+        "Кордицепс",
+        "Cordyceps"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "pop-0243",
@@ -9750,13 +9953,15 @@
       "category_key": "history",
       "subcategory": "Возрождение и открытия",
       "points": 4,
-      "question": "Куда, как полагал Колумб, он прибыл, достигнув Карибских островов?",
-      "answer": "В Индию",
+      "question": "Какую часть света Колумб считал достигнутой, прибыв к Карибским островам в 1492 году?",
+      "answer": "Азию",
       "accepted_answers": [
-        "В Индию",
-        "Индия",
-        "Азию"
-      ]
+        "Азию",
+        "Азия",
+        "Ост-Индия",
+        "Индия"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "history-0115",
@@ -10552,14 +10757,14 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 6,
-      "question": "Как называлась высадка союзников в Нормандии в июне 1944 года?",
+      "points": 4,
+      "question": "Как принято называть 6 июня 1944 года — день начала высадки союзников в Нормандии?",
       "answer": "День Д",
       "accepted_answers": [
         "День Д",
-        "D-Day",
-        "операция Оверлорд"
-      ]
+        "D-Day"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "history-0251",
@@ -10663,12 +10868,13 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Исторические понятия",
-      "points": 2,
-      "question": "Как называется государство, где глава власти не получает должность по наследству?",
+      "points": 3,
+      "question": "Как называется форма правления, при которой высшие органы власти формируются выборами или представительными институтами, а должность главы государства не наследуется?",
       "answer": "Республика",
       "accepted_answers": [
         "Республика"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "history-0264",
@@ -10724,12 +10930,13 @@
       "category_key": "history",
       "subcategory": "Исторические понятия",
       "points": 3,
-      "question": "Как называется договор, заключённый после войны?",
+      "question": "Как называется соглашение, которым воюющие стороны официально прекращают войну?",
       "answer": "Мирный договор",
       "accepted_answers": [
         "Мирный договор",
-        "мир"
-      ]
+        "Договор о мире"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "history-0255",
@@ -11143,13 +11350,14 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Животные",
-      "points": 1,
-      "question": "Какие позвоночные часть жизни проводят в воде, а часть на суше?",
+      "points": 3,
+      "question": "К какому классу относятся лягушки и саламандры?",
       "answer": "Земноводные",
       "accepted_answers": [
         "Земноводные",
-        "амфибии"
-      ]
+        "Амфибии"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0074",
@@ -11383,11 +11591,12 @@
       "category_key": "biology",
       "subcategory": "Животные",
       "points": 3,
-      "question": "Какое морское животное имеет пять лучей и способно восстанавливать их?",
+      "question": "Какое морское беспозвоночное обычно имеет пять лучей, расходящихся от центрального диска?",
       "answer": "Морская звезда",
       "accepted_answers": [
         "Морская звезда"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0094",
@@ -11395,11 +11604,13 @@
       "category_key": "biology",
       "subcategory": "Животные",
       "points": 3,
-      "question": "Какая крупная птица не летает и быстро бегает?",
+      "question": "Какая крупнейшая современная птица не летает, но быстро бегает?",
       "answer": "Страус",
       "accepted_answers": [
-        "Страус"
-      ]
+        "Страус",
+        "Африканский страус"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0077",
@@ -11431,11 +11642,12 @@
       "category_key": "biology",
       "subcategory": "Животные",
       "points": 3,
-      "question": "Какая ночная птица поворачивает голову на большой угол?",
+      "question": "Какая ночная хищная птица ассоциируется с круглым лицевым диском и «уханьем»?",
       "answer": "Сова",
       "accepted_answers": [
         "Сова"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0098",
@@ -11656,12 +11868,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Растения и грибы",
-      "points": 2,
-      "question": "Как называется перенос пыльцы с тычинки на пестик?",
+      "points": 3,
+      "question": "Как называется перенос пыльцы с пыльника на рыльце пестика?",
       "answer": "Опыление",
       "accepted_answers": [
         "Опыление"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0135",
@@ -11745,11 +11958,12 @@
       "category_key": "biology",
       "subcategory": "Растения и грибы",
       "points": 3,
-      "question": "Как называются деревья, сбрасывающие листья на зиму?",
+      "question": "Как называются деревья, которые ежегодно сбрасывают листву на неблагоприятный сезон?",
       "answer": "Листопадные",
       "accepted_answers": [
         "Листопадные"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0129",
@@ -11780,13 +11994,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Растения и грибы",
-      "points": 2,
-      "question": "Какая часть цветка производит пыльцу?",
-      "answer": "Тычинка",
+      "points": 3,
+      "question": "Как называется часть тычинки, в которой образуется пыльца?",
+      "answer": "Пыльник",
       "accepted_answers": [
-        "Тычинка",
-        "тычинки"
-      ]
+        "Пыльник"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0162",
@@ -11842,12 +12056,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 1,
-      "question": "Какие органеллы производят основную часть энергии в клетке?",
+      "points": 4,
+      "question": "Какие органеллы синтезируют основную часть АТФ в типичной животной клетке?",
       "answer": "Митохондрии",
       "accepted_answers": [
         "Митохондрии"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0176",
@@ -11890,13 +12105,14 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 1,
-      "question": "Как называется организм, клетка которого не имеет оформленного ядра?",
-      "answer": "Прокариот",
+      "points": 4,
+      "question": "Как общим словом называют бактерии и археи — организмы без оформленного клеточного ядра?",
+      "answer": "Прокариоты",
       "accepted_answers": [
-        "Прокариот",
-        "прокариотический организм"
-      ]
+        "Прокариоты",
+        "Прокариот"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0180",
@@ -11928,24 +12144,26 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 2,
-      "question": "Как называется деление клетки, при котором образуются две генетически похожие клетки?",
+      "points": 4,
+      "question": "Как называется деление ядра, при котором сохраняется число хромосом и обычно образуются две генетически одинаковые дочерние клетки?",
       "answer": "Митоз",
       "accepted_answers": [
         "Митоз"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0183",
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 2,
-      "question": "Как называется деление, при котором образуются половые клетки с половинным набором хромосом?",
+      "points": 4,
+      "question": "Как называется деление, которое уменьшает число хромосом вдвое при образовании половых клеток у животных?",
       "answer": "Мейоз",
       "accepted_answers": [
         "Мейоз"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0184",
@@ -11964,12 +12182,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 3,
-      "question": "Как называется участок ДНК, содержащий информацию о признаке или продукте?",
+      "points": 4,
+      "question": "Как называется участок ДНК, содержащий информацию о функциональном продукте — РНК или белке?",
       "answer": "Ген",
       "accepted_answers": [
         "Ген"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0187",
@@ -12013,38 +12232,41 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 3,
-      "question": "Как называется признак, проявляющийся при наличии одного соответствующего аллеля?",
-      "answer": "Доминантный признак",
+      "points": 4,
+      "question": "Как называется аллель, проявляющийся у гетерозиготы при полном доминировании?",
+      "answer": "Доминантный",
       "accepted_answers": [
-        "Доминантный признак",
-        "доминантный"
-      ]
+        "Доминантный",
+        "Доминантный аллель"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0191",
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 3,
-      "question": "Как называется признак, скрытый доминантным аллелем?",
-      "answer": "Рецессивный признак",
+      "points": 4,
+      "question": "Как называется аллель, действие которого скрывается доминантным у гетерозиготы при полном доминировании?",
+      "answer": "Рецессивный",
       "accepted_answers": [
-        "Рецессивный признак",
-        "рецессивный"
-      ]
+        "Рецессивный",
+        "Рецессивный аллель"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0192",
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Клетка и генетика",
-      "points": 3,
-      "question": "Как называется внешний набор наблюдаемых признаков организма?",
+      "points": 4,
+      "question": "Как называется совокупность наблюдаемых признаков организма, формирующихся под влиянием генов и среды?",
       "answer": "Фенотип",
       "accepted_answers": [
         "Фенотип"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0228",
@@ -12317,12 +12539,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Микроорганизмы и иммунитет",
-      "points": 1,
-      "question": "Как называются одноклеточные организмы без оформленного ядра?",
+      "points": 3,
+      "question": "Какие одноклеточные организмы без оформленного ядра изучает бактериология?",
       "answer": "Бактерии",
       "accepted_answers": [
         "Бактерии"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0264",
@@ -12367,12 +12590,13 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Микроорганизмы и иммунитет",
-      "points": 2,
-      "question": "Как называется нагрев продукта для уничтожения опасных микробов без кипячения?",
+      "points": 4,
+      "question": "Как называется контролируемое нагревание пищевого продукта, снижающее число опасных микроорганизмов?",
       "answer": "Пастеризация",
       "accepted_answers": [
         "Пастеризация"
-      ]
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0271",
@@ -12404,13 +12628,15 @@
       "category": "Биология",
       "category_key": "biology",
       "subcategory": "Микроорганизмы и иммунитет",
-      "points": 3,
-      "question": "Как называется способность бактерий перестать реагировать на антибиотик?",
+      "points": 4,
+      "question": "Как называется способность бактерий сохранять жизнеспособность при воздействии антибиотика, который раньше их подавлял?",
       "answer": "Устойчивость к антибиотикам",
       "accepted_answers": [
         "Устойчивость к антибиотикам",
-        "антибиотикорезистентность"
-      ]
+        "Антибиотикорезистентность",
+        "Резистентность"
+      ],
+      "editorial_revision": 5
     },
     {
       "id": "biology-0263",
@@ -12486,5 +12712,6 @@
         "неспецифический иммунитет"
       ]
     }
-  ]
+  ],
+  "language": "ru"
 }

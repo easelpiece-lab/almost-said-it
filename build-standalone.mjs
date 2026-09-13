@@ -3,9 +3,11 @@ import { readFile, writeFile } from "node:fs/promises";
 const source = await readFile(new URL("./index-source.html", import.meta.url), "utf8");
 const boldQuizCss = await readFile(new URL("./bold-quiz.css", import.meta.url), "utf8");
 const questions = await readFile(new URL("./questions-ru.js", import.meta.url), "utf8");
+const i18n = await readFile(new URL("./i18n.js", import.meta.url), "utf8");
 const app = await readFile(new URL("./app-v7.js", import.meta.url), "utf8");
 const cssMarker = '  <link rel="stylesheet" href="bold-quiz.css">';
 const questionMarker = '  <script src="questions-ru.js"></script>';
+const i18nMarker = '  <script src="i18n.js"></script>';
 const appMarker = '  <script src="app-v7.js"></script>';
 
 if (!source.includes(cssMarker) || !source.includes(questionMarker) || !source.includes(appMarker)) {
@@ -15,6 +17,7 @@ if (!source.includes(cssMarker) || !source.includes(questionMarker) || !source.i
 let output = source
   .replace(cssMarker, `  <style>\n${boldQuizCss}\n  </style>`)
   .replace(questionMarker, `  <script>\n${questions}\n  </script>`)
+  .replace(i18nMarker, `  <script>\n${i18n}\n  </script>`)
   .replace(appMarker, `  <script>\n${app}\n  </script>`);
 
 for (const name of ["brain","search","teams","trophy"]) {
@@ -35,5 +38,5 @@ for (const name of ["home","handoff","results"]) {
   output = output.replace(`assets/bold-${name}-bg.webp`, dataUrl);
 }
 
-await writeFile(new URL("./index.html", import.meta.url), output);
-console.log("Создан автономный index.html");
+await writeFile(new URL("./standalone.html", import.meta.url), output);
+console.log("Создан автономный standalone.html");

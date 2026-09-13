@@ -1,0 +1,4516 @@
+{
+  "version": 5,
+  "updated_at": "2026-09-12",
+  "language": "en",
+  "title": "Almost Said It — English edition",
+  "questions": [
+    {
+      "id": "en-geography-0001",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which country is shaped like a boot?",
+      "answer": "Italy",
+      "accepted_answers": [
+        "Italy"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0002",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which country has a maple leaf on its flag?",
+      "answer": "Canada",
+      "accepted_answers": [
+        "Canada"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0003",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which city is home to the Eiffel Tower?",
+      "answer": "Paris",
+      "accepted_answers": [
+        "Paris"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0004",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which ocean is the largest?",
+      "answer": "Pacific Ocean",
+      "accepted_answers": [
+        "Pacific Ocean",
+        "The Pacific"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0005",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which river flows through London?",
+      "answer": "River Thames",
+      "accepted_answers": [
+        "River Thames",
+        "Thames"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0006",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is home to the ancient city of Petra?",
+      "answer": "Jordan",
+      "accepted_answers": [
+        "Jordan"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0007",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is home to the Taj Mahal?",
+      "answer": "India",
+      "accepted_answers": [
+        "India"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0008",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which country is famous for kangaroos and the Great Barrier Reef?",
+      "answer": "Australia",
+      "accepted_answers": [
+        "Australia"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0009",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which city is divided by the Bosphorus strait?",
+      "answer": "Istanbul",
+      "accepted_answers": [
+        "Istanbul"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0010",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which city is famous for canals and gondolas?",
+      "answer": "Venice",
+      "accepted_answers": [
+        "Venice"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0011",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is home to Machu Picchu?",
+      "answer": "Peru",
+      "accepted_answers": [
+        "Peru"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0012",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is home to the pyramids of Giza?",
+      "answer": "Egypt",
+      "accepted_answers": [
+        "Egypt"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0013",
+      "category": "География",
+      "category_key": "geography",
+      "points": 1,
+      "question": "Which mountain has the highest summit above sea level?",
+      "answer": "Mount Everest",
+      "accepted_answers": [
+        "Mount Everest",
+        "Everest"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0014",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "What is the largest hot desert on Earth?",
+      "answer": "Sahara",
+      "accepted_answers": [
+        "Sahara",
+        "Sahara Desert"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0015",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which mountain range runs along western South America?",
+      "answer": "Andes",
+      "accepted_answers": [
+        "Andes",
+        "The Andes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0016",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which European country has Lisbon as its capital?",
+      "answer": "Portugal",
+      "accepted_answers": [
+        "Portugal"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0017",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which language is spoken by most people in Brazil?",
+      "answer": "Portuguese",
+      "accepted_answers": [
+        "Portuguese"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0018",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which European city is home to the Colosseum?",
+      "answer": "Rome",
+      "accepted_answers": [
+        "Rome"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0019",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which river flows through Paris?",
+      "answer": "Seine",
+      "accepted_answers": [
+        "Seine",
+        "River Seine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0020",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan",
+      "accepted_answers": [
+        "Japan"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0021",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Reykjavík as its capital?",
+      "answer": "Iceland",
+      "accepted_answers": [
+        "Iceland"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0022",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country has Copenhagen as its capital?",
+      "answer": "Denmark",
+      "accepted_answers": [
+        "Denmark"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0023",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which city is home to the Golden Gate Bridge?",
+      "answer": "San Francisco",
+      "accepted_answers": [
+        "San Francisco"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0024",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country is home to the Galápagos Islands?",
+      "answer": "Ecuador",
+      "accepted_answers": [
+        "Ecuador"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0025",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country is home to the city of Barcelona?",
+      "answer": "Spain",
+      "accepted_answers": [
+        "Spain"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0026",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which sea lies between Europe and northern Africa?",
+      "answer": "Mediterranean Sea",
+      "accepted_answers": [
+        "Mediterranean Sea",
+        "Mediterranean"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0027",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which sea is Earth's largest lake by surface area?",
+      "answer": "Caspian Sea",
+      "accepted_answers": [
+        "Caspian Sea",
+        "The Caspian"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0028",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "What is the deepest lake on Earth?",
+      "answer": "Lake Baikal",
+      "accepted_answers": [
+        "Lake Baikal",
+        "Baikal"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0029",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "What is the world's highest uninterrupted waterfall?",
+      "answer": "Angel Falls",
+      "accepted_answers": [
+        "Angel Falls"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0030",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which waterfall lies on the border of the US and Canada?",
+      "answer": "Niagara Falls",
+      "accepted_answers": [
+        "Niagara Falls"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0031",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which river carries the most water into the ocean?",
+      "answer": "Amazon River",
+      "accepted_answers": [
+        "Amazon River",
+        "Amazon"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0032",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which country has the largest land area?",
+      "answer": "Russia",
+      "accepted_answers": [
+        "Russia"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0033",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has the longest coastline?",
+      "answer": "Canada",
+      "accepted_answers": [
+        "Canada"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0034",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Wellington as its capital?",
+      "answer": "New Zealand",
+      "accepted_answers": [
+        "New Zealand"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0035",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Seoul as its capital?",
+      "answer": "South Korea",
+      "accepted_answers": [
+        "South Korea",
+        "Republic of Korea"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0036",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Bangkok as its capital?",
+      "answer": "Thailand",
+      "accepted_answers": [
+        "Thailand"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0037",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Hanoi as its capital?",
+      "answer": "Vietnam",
+      "accepted_answers": [
+        "Vietnam",
+        "Viet Nam"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0038",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country has Buenos Aires as its capital?",
+      "answer": "Argentina",
+      "accepted_answers": [
+        "Argentina"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0039",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which country completely surrounds Lesotho?",
+      "answer": "South Africa",
+      "accepted_answers": [
+        "South Africa"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0040",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which country contains the ancient city of Timbuktu?",
+      "answer": "Mali",
+      "accepted_answers": [
+        "Mali"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0041",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which continent is home to Brazil?",
+      "answer": "South America",
+      "accepted_answers": [
+        "South America"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0042",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which continent is home to Kenya?",
+      "answer": "Africa",
+      "accepted_answers": [
+        "Africa"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0043",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which continent is crossed by both the equator and the prime meridian?",
+      "answer": "Africa",
+      "accepted_answers": [
+        "Africa"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0044",
+      "category": "География",
+      "category_key": "geography",
+      "points": 2,
+      "question": "Which continent has no permanent native human population?",
+      "answer": "Antarctica",
+      "accepted_answers": [
+        "Antarctica"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0045",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which ocean lies between eastern Africa and Australia?",
+      "answer": "Indian Ocean",
+      "accepted_answers": [
+        "Indian Ocean",
+        "The Indian Ocean"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0046",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which canal connects the Atlantic and Pacific oceans?",
+      "answer": "Panama Canal",
+      "accepted_answers": [
+        "Panama Canal"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0047",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which canal connects the Mediterranean Sea to the Red Sea?",
+      "answer": "Suez Canal",
+      "accepted_answers": [
+        "Suez Canal"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0048",
+      "category": "География",
+      "category_key": "geography",
+      "points": 3,
+      "question": "Which country's capital is Budapest?",
+      "answer": "Hungary",
+      "accepted_answers": [
+        "Hungary"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0049",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which mountain range separates Spain and France?",
+      "answer": "Pyrenees",
+      "accepted_answers": [
+        "Pyrenees",
+        "The Pyrenees"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-geography-0050",
+      "category": "География",
+      "category_key": "geography",
+      "points": 4,
+      "question": "Which strait separates Spain from Morocco?",
+      "answer": "Strait of Gibraltar",
+      "accepted_answers": [
+        "Strait of Gibraltar",
+        "Gibraltar"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0001",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 1,
+      "question": "What is 25% of 200?",
+      "answer": "50",
+      "accepted_answers": [
+        "50"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0002",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What fraction is equal to 0.75?",
+      "answer": "Three quarters",
+      "accepted_answers": [
+        "Three quarters",
+        "3/4",
+        "¾"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0003",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "How many degrees are in a right angle?",
+      "answer": "90",
+      "accepted_answers": [
+        "90",
+        "90 degrees"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0004",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "How many sides does a hexagon have?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0005",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is the square root of 144?",
+      "answer": "12",
+      "accepted_answers": [
+        "12",
+        "Twelve"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0006",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is 7 squared?",
+      "answer": "49",
+      "accepted_answers": [
+        "49",
+        "Forty-nine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0007",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is the sum of the interior angles of a triangle?",
+      "answer": "180 degrees",
+      "accepted_answers": [
+        "180 degrees",
+        "180"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0008",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What is the perimeter of a square with 9 cm sides?",
+      "answer": "36 cm",
+      "accepted_answers": [
+        "36 cm",
+        "36 centimetres",
+        "36 centimeters"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0009",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What is the area of a rectangle measuring 6 cm by 4 cm?",
+      "answer": "24 cm²",
+      "accepted_answers": [
+        "24 cm²",
+        "24 square centimetres",
+        "24 square centimeters"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0010",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What is 2 to the power of 5?",
+      "answer": "32",
+      "accepted_answers": [
+        "32",
+        "Thirty-two"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0011",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is the only even prime number?",
+      "answer": "2",
+      "accepted_answers": [
+        "2",
+        "Two"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0012",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "Is 25 a prime number or a composite number?",
+      "answer": "Composite number",
+      "accepted_answers": [
+        "Composite number",
+        "Composite"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0013",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many faces does a cube have?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0014",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many edges does a cube have?",
+      "answer": "12",
+      "accepted_answers": [
+        "12",
+        "Twelve"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0015",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many vertices does a cube have?",
+      "answer": "8",
+      "accepted_answers": [
+        "8",
+        "Eight"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0016",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is the name for the longest side of a right triangle?",
+      "answer": "Hypotenuse",
+      "accepted_answers": [
+        "Hypotenuse",
+        "The hypotenuse"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0017",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 2,
+      "question": "What is the name for the distance around a circle?",
+      "answer": "Circumference",
+      "accepted_answers": [
+        "Circumference"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0018",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What is a triangle with three equal sides called?",
+      "answer": "Equilateral triangle",
+      "accepted_answers": [
+        "Equilateral triangle",
+        "Equilateral"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0019",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What is a triangle with two equal sides called?",
+      "answer": "Isosceles triangle",
+      "accepted_answers": [
+        "Isosceles triangle",
+        "Isosceles"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0020",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "What do we call an angle greater than 90° but less than 180°?",
+      "answer": "Obtuse angle",
+      "accepted_answers": [
+        "Obtuse angle",
+        "Obtuse"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0021",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "If a circle's radius doubles, what happens to its area?",
+      "answer": "It becomes four times as large",
+      "accepted_answers": [
+        "It becomes four times as large",
+        "Quadruples",
+        "Multiplied by four"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0022",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "If a square's side doubles, what happens to its perimeter?",
+      "answer": "It doubles",
+      "accepted_answers": [
+        "It doubles",
+        "Twice as large"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0023",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "Solve for x: 3x + 5 = 20.",
+      "answer": "5",
+      "accepted_answers": [
+        "5",
+        "Five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0024",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "Solve for x: 2x − 7 = 11.",
+      "answer": "9",
+      "accepted_answers": [
+        "9",
+        "Nine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0025",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the average of 4, 6 and 14?",
+      "answer": "8",
+      "accepted_answers": [
+        "8",
+        "Eight"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0026",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the median of 2, 3, 9, 10 and 100?",
+      "answer": "9",
+      "accepted_answers": [
+        "9",
+        "Nine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0027",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the mode of 1, 2, 2, 3 and 4?",
+      "answer": "2",
+      "accepted_answers": [
+        "2",
+        "Two"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0028",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many millimetres are in 3.5 centimetres?",
+      "answer": "35",
+      "accepted_answers": [
+        "35",
+        "35 millimetres",
+        "35 millimeters"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0029",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many seconds are in 15 minutes?",
+      "answer": "900",
+      "accepted_answers": [
+        "900",
+        "900 seconds"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0030",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many cubic centimetres are in one litre?",
+      "answer": "1000",
+      "accepted_answers": [
+        "1000",
+        "1,000",
+        "1000 cm³"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0031",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "A price rises by 10%, then falls by 10%. Is it back to the original price?",
+      "answer": "No, it is 1% lower",
+      "accepted_answers": [
+        "No, it is 1% lower",
+        "1% lower",
+        "99% of the original"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0032",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "An item costs 80 before a 25% discount. What does it cost after the discount?",
+      "answer": "60",
+      "accepted_answers": [
+        "60",
+        "Sixty"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0033",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "An item costs 60 after a 25% discount. What was the original price?",
+      "answer": "80",
+      "accepted_answers": [
+        "80",
+        "Eighty"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0034",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the probability of rolling a six on a fair six-sided die?",
+      "answer": "One in six",
+      "accepted_answers": [
+        "One in six",
+        "1/6"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0035",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the probability of getting two heads in two fair coin tosses?",
+      "answer": "One in four",
+      "accepted_answers": [
+        "One in four",
+        "1/4",
+        "25%"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0036",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 3,
+      "question": "How many different two-digit numbers can be made from 1, 2 and 3 without repeating a digit?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0037",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 5,
+      "question": "What is the sum of the integers from 1 to 10?",
+      "answer": "55",
+      "accepted_answers": [
+        "55",
+        "Fifty-five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0038",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "How many diagonals does a square have?",
+      "answer": "2",
+      "accepted_answers": [
+        "2",
+        "Two"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0039",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 5,
+      "question": "How many diagonals does a pentagon have?",
+      "answer": "5",
+      "accepted_answers": [
+        "5",
+        "Five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0040",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "A car travels 150 km in 2.5 hours at a constant speed. What is its speed?",
+      "answer": "60 km/h",
+      "accepted_answers": [
+        "60 km/h",
+        "60 kilometres per hour",
+        "60 kilometers per hour"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0041",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "At 90 km/h, how far does a car travel in 20 minutes?",
+      "answer": "30 km",
+      "accepted_answers": [
+        "30 km",
+        "30 kilometres",
+        "30 kilometers"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0042",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "A recipe uses 3 eggs for 6 servings. How many eggs are needed for 10 servings?",
+      "answer": "5",
+      "accepted_answers": [
+        "5",
+        "Five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0043",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 5,
+      "question": "A square has an area of 81 cm². What is its perimeter?",
+      "answer": "36 cm",
+      "accepted_answers": [
+        "36 cm",
+        "36 centimetres",
+        "36 centimeters"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0044",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the volume of a cube with 3 cm edges?",
+      "answer": "27 cm³",
+      "accepted_answers": [
+        "27 cm³",
+        "27 cubic centimetres",
+        "27 cubic centimeters"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0045",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 5,
+      "question": "A right triangle has shorter sides of 3 and 4. How long is the hypotenuse?",
+      "answer": "5",
+      "accepted_answers": [
+        "5",
+        "Five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0046",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the least common multiple of 4 and 6?",
+      "answer": "12",
+      "accepted_answers": [
+        "12",
+        "Twelve"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0047",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is the greatest common divisor of 18 and 24?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0048",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 4,
+      "question": "What is 0.2 multiplied by 0.3?",
+      "answer": "0.06",
+      "accepted_answers": [
+        "0.06",
+        "0,06"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0049",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 6,
+      "question": "A bat and a ball cost 1.10 in total. The bat costs 1.00 more than the ball. How much does the ball cost?",
+      "answer": "0.05",
+      "accepted_answers": [
+        "0.05",
+        "Five cents",
+        "5 cents"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-mathematics-0050",
+      "category": "Математика",
+      "category_key": "mathematics",
+      "points": 6,
+      "question": "What is the smaller angle between a clock's hands at 3:30?",
+      "answer": "75 degrees",
+      "accepted_answers": [
+        "75 degrees",
+        "75°",
+        "75"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0001",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What gets wetter as it dries something else?",
+      "answer": "A towel",
+      "accepted_answers": [
+        "A towel",
+        "Towel"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0002",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What belongs to you, but other people use it more than you do?",
+      "answer": "Your name",
+      "accepted_answers": [
+        "Your name",
+        "Name"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0003",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What has keys but cannot open a lock?",
+      "answer": "A piano",
+      "accepted_answers": [
+        "A piano",
+        "Piano",
+        "Keyboard"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0004",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What has teeth but cannot bite and is used on hair?",
+      "answer": "A comb",
+      "accepted_answers": [
+        "A comb",
+        "Comb"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0005",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What has a neck but no head and holds a drink?",
+      "answer": "A bottle",
+      "accepted_answers": [
+        "A bottle",
+        "Bottle"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0006",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What can you catch but cannot throw?",
+      "answer": "A cold",
+      "accepted_answers": [
+        "A cold",
+        "Cold"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0007",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 2,
+      "question": "What goes up every birthday and never goes down?",
+      "answer": "Your age",
+      "accepted_answers": [
+        "Your age",
+        "Age"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0008",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What gets bigger the more earth you remove from it?",
+      "answer": "A hole",
+      "accepted_answers": [
+        "A hole",
+        "Hole"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0009",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What can travel around the world while staying in a corner of an envelope?",
+      "answer": "A stamp",
+      "accepted_answers": [
+        "A stamp",
+        "Postage stamp",
+        "Stamp"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0010",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What has cities and rivers but no houses or water?",
+      "answer": "A map",
+      "accepted_answers": [
+        "A map",
+        "Map"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0011",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What can you break without touching it?",
+      "answer": "A promise",
+      "accepted_answers": [
+        "A promise",
+        "Promise"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0012",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What becomes shorter while it burns?",
+      "answer": "A candle",
+      "accepted_answers": [
+        "A candle",
+        "Candle"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0013",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "Which month has 28 days?",
+      "answer": "All of them",
+      "accepted_answers": [
+        "All of them",
+        "All twelve",
+        "Every month",
+        "12"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0014",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "You overtake the runner in second place. What place are you in now?",
+      "answer": "Second",
+      "accepted_answers": [
+        "Second",
+        "Second place",
+        "2nd"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0015",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "A farmer has 17 sheep. All but nine run away. How many remain?",
+      "answer": "9",
+      "accepted_answers": [
+        "9",
+        "Nine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0016",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "Two fathers and two sons share three apples, one each. What is the fewest number of people?",
+      "answer": "3",
+      "accepted_answers": [
+        "3",
+        "Three",
+        "Grandfather, father and son"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0017",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "Seven sisters have one brother in common. How many children are there?",
+      "answer": "8",
+      "accepted_answers": [
+        "8",
+        "Eight"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0018",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "An electric train is moving north. Which way does its smoke blow?",
+      "answer": "It does not produce smoke",
+      "accepted_answers": [
+        "It does not produce smoke",
+        "No smoke",
+        "Electric trains have no smoke"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0019",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "A rooster lays an egg on a roof. Which way does it roll?",
+      "answer": "Roosters do not lay eggs",
+      "accepted_answers": [
+        "Roosters do not lay eggs",
+        "It cannot lay an egg"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0020",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "Three apples are on a table. You take two. How many apples are you holding?",
+      "answer": "2",
+      "accepted_answers": [
+        "2",
+        "Two"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0021",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "You take the first of three pills now, then one every 30 minutes. When do you take the last pill?",
+      "answer": "In one hour",
+      "accepted_answers": [
+        "In one hour",
+        "60 minutes",
+        "One hour"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0022",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "A clock strikes six times in five seconds, with equal gaps. How long do twelve strikes take?",
+      "answer": "11 seconds",
+      "accepted_answers": [
+        "11 seconds",
+        "Eleven seconds"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0023",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Five machines make five items in five minutes. At the same rate, how many items do 100 machines make in five minutes?",
+      "answer": "100",
+      "accepted_answers": [
+        "100",
+        "One hundred"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0024",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "A brick weighs 1 kg plus half its own weight. How much does it weigh?",
+      "answer": "2 kg",
+      "accepted_answers": [
+        "2 kg",
+        "Two kilograms"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0025",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 3,
+      "question": "What weighs more: 1 kg of iron or 1 kg of cotton?",
+      "answer": "They weigh the same",
+      "accepted_answers": [
+        "They weigh the same",
+        "Equal",
+        "Neither"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0026",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Alex is left of Sam, and Sam is left of Jo. Who is in the middle?",
+      "answer": "Sam",
+      "accepted_answers": [
+        "Sam"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0027",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "The red box is above the blue box, and the blue box is above the green box. Which box is lowest?",
+      "answer": "The green box",
+      "accepted_answers": [
+        "The green box",
+        "Green"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0028",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Every rose is a flower. The vase contains only roses. Does it contain only flowers?",
+      "answer": "Yes",
+      "accepted_answers": [
+        "Yes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0029",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "All tickets marked A win a prize. Your ticket is marked A. Does it win a prize?",
+      "answer": "Yes",
+      "accepted_answers": [
+        "Yes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0030",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Every square is a rectangle. Does that mean every rectangle is a square?",
+      "answer": "No",
+      "accepted_answers": [
+        "No"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0031",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "All cats in a room are black. Luna is a cat in that room. What colour is Luna?",
+      "answer": "Black",
+      "accepted_answers": [
+        "Black"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0032",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "If it rains, the path gets wet. The path is wet. Does that prove it rained?",
+      "answer": "No",
+      "accepted_answers": [
+        "No",
+        "It could be wet for another reason"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0033",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "No birds in a cage are blue. Pip is blue. Can Pip be one of the birds in that cage?",
+      "answer": "No",
+      "accepted_answers": [
+        "No"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0034",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Anna's mother is Ben's father's sister. How are Anna and Ben related?",
+      "answer": "They are cousins",
+      "accepted_answers": [
+        "They are cousins",
+        "Cousins",
+        "First cousins"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0035",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Two brothers have one sister in common. How many children are in the family?",
+      "answer": "3",
+      "accepted_answers": [
+        "3",
+        "Three"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0036",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 4,
+      "question": "Sam is older than Jo, and Jo is older than Lee. Who is the youngest?",
+      "answer": "Lee",
+      "accepted_answers": [
+        "Lee"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0037",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "In a race, you pass the runner who was third. Nobody else changes position. What place are you in?",
+      "answer": "Third",
+      "accepted_answers": [
+        "Third",
+        "Third place",
+        "3rd"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0038",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "A drawer holds only black and white socks. What is the fewest socks you must take without looking to guarantee a matching pair?",
+      "answer": "3",
+      "accepted_answers": [
+        "3",
+        "Three"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0039",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "A drawer holds red, blue and green socks. How many must you take without looking to guarantee two of one colour?",
+      "answer": "4",
+      "accepted_answers": [
+        "4",
+        "Four"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0040",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "There are three boxes. Each contains two smaller boxes. How many boxes are there altogether?",
+      "answer": "9",
+      "accepted_answers": [
+        "9",
+        "Nine"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0041",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "A lily patch doubles in size daily and covers a pond on day 20. On which day was it half covered?",
+      "answer": "Day 19",
+      "accepted_answers": [
+        "Day 19",
+        "19",
+        "The nineteenth day"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0042",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "Ten people each shake hands with every other person once. How many handshakes happen?",
+      "answer": "45",
+      "accepted_answers": [
+        "45",
+        "Forty-five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0043",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 6,
+      "question": "You have a 3-litre jug and a 5-litre jug. How can you measure exactly 4 litres?",
+      "answer": "Fill the 5-litre jug, pour 3 into the small jug, empty the small jug and pour the remaining 2 into it. Refill the big jug and top up the small one with 1 litre, leaving 4.",
+      "accepted_answers": [
+        "Fill the 5-litre jug, pour 3 into the small jug, empty the small jug and pour the remaining 2 into it. Refill the big jug and top up the small one with 1 litre, leaving 4."
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0044",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 6,
+      "question": "Two children share a mother and the same birth date and time, but are not twins. How is that possible?",
+      "answer": "They are part of triplets or a larger multiple birth",
+      "accepted_answers": [
+        "They are part of triplets or a larger multiple birth",
+        "Triplets",
+        "A multiple birth"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0045",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 6,
+      "question": "Two people play five chess games and each wins five. There are no draws. How is this possible?",
+      "answer": "They are not playing each other",
+      "accepted_answers": [
+        "They are not playing each other",
+        "Against different opponents"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0046",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 6,
+      "question": "One of eight identical-looking balls is heavier. What should your first weighing on balance scales be to find it in two weighings?",
+      "answer": "Weigh three balls against three balls",
+      "accepted_answers": [
+        "Weigh three balls against three balls",
+        "Three against three",
+        "3 vs 3"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0047",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 7,
+      "question": "Two ropes each burn for an hour at an uneven rate. How do you measure 45 minutes?",
+      "answer": "Light both ends of one rope and one end of the other. When the first burns out after 30 minutes, light the other end of the second; it burns out 15 minutes later.",
+      "accepted_answers": [
+        "Light both ends of one rope and one end of the other. When the first burns out after 30 minutes, light the other end of the second; it burns out 15 minutes later."
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0048",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 7,
+      "question": "Three switches control one incandescent bulb in a closed room. You may enter once. How can you find the right switch?",
+      "answer": "Leave one switch on long enough to warm the bulb, then turn it off. Turn a second on and enter. A lit bulb identifies the second, a warm unlit bulb the first, and a cold bulb the third.",
+      "accepted_answers": [
+        "Leave one switch on long enough to warm the bulb, then turn it off. Turn a second on and enter. A lit bulb identifies the second, a warm unlit bulb the first, and a cold bulb the third."
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0049",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 5,
+      "question": "A bag has five red balls and five blue balls. How many must you draw without looking to guarantee a red ball?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-logic-0050",
+      "category": "Логика",
+      "category_key": "logic",
+      "points": 6,
+      "question": "You face north, turn right, then turn 180°, then turn left. Which direction do you face?",
+      "answer": "South",
+      "accepted_answers": [
+        "South"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0001",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 1,
+      "question": "Which organ pumps blood around the human body?",
+      "answer": "Heart",
+      "accepted_answers": [
+        "Heart",
+        "The heart"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0002",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "What is the largest organ of the human body?",
+      "answer": "Skin",
+      "accepted_answers": [
+        "Skin",
+        "The skin"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0003",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which organs filter blood and produce urine?",
+      "answer": "Kidneys",
+      "accepted_answers": [
+        "Kidneys",
+        "The kidneys"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0004",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which blood cells carry oxygen?",
+      "answer": "Red blood cells",
+      "accepted_answers": [
+        "Red blood cells",
+        "Erythrocytes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0005",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which protein in red blood cells carries oxygen?",
+      "answer": "Haemoglobin",
+      "accepted_answers": [
+        "Haemoglobin",
+        "Hemoglobin"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0006",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which blood cells help defend the body against infection?",
+      "answer": "White blood cells",
+      "accepted_answers": [
+        "White blood cells",
+        "Leukocytes",
+        "Leucocytes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0007",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which blood components help form clots?",
+      "answer": "Platelets",
+      "accepted_answers": [
+        "Platelets",
+        "Thrombocytes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0008",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "How many chambers does the human heart have?",
+      "answer": "4",
+      "accepted_answers": [
+        "4",
+        "Four"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0009",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the longest bone in the human body?",
+      "answer": "Femur",
+      "accepted_answers": [
+        "Femur",
+        "Thigh bone"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0010",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the smallest bone in the human body?",
+      "answer": "Stapes",
+      "accepted_answers": [
+        "Stapes",
+        "Stirrup"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0011",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What muscle beneath the lungs helps you breathe?",
+      "answer": "Diaphragm",
+      "accepted_answers": [
+        "Diaphragm",
+        "The diaphragm"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0012",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "What is the largest living animal?",
+      "answer": "Blue whale",
+      "accepted_answers": [
+        "Blue whale",
+        "A blue whale"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0013",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which land animal is tallest?",
+      "answer": "Giraffe",
+      "accepted_answers": [
+        "Giraffe",
+        "A giraffe"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0014",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which land animal runs fastest over short distances?",
+      "answer": "Cheetah",
+      "accepted_answers": [
+        "Cheetah",
+        "A cheetah"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0015",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "What is a group of lions called?",
+      "answer": "A pride",
+      "accepted_answers": [
+        "A pride",
+        "Pride"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0016",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which egg-laying mammal has a duck-like bill?",
+      "answer": "Platypus",
+      "accepted_answers": [
+        "Platypus",
+        "Duck-billed platypus"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0017",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which mammal is capable of sustained powered flight?",
+      "answer": "A bat",
+      "accepted_answers": [
+        "A bat",
+        "Bat",
+        "Bats"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0018",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which animal mainly eats eucalyptus leaves?",
+      "answer": "Koala",
+      "accepted_answers": [
+        "Koala",
+        "A koala"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0019",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which bird can hover and fly backwards?",
+      "answer": "Hummingbird",
+      "accepted_answers": [
+        "Hummingbird",
+        "A hummingbird"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0020",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is a baby horse called?",
+      "answer": "Foal",
+      "accepted_answers": [
+        "Foal",
+        "A foal"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0021",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "What is a baby sheep called?",
+      "answer": "Lamb",
+      "accepted_answers": [
+        "Lamb",
+        "A lamb"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0022",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the process of a caterpillar changing into a butterfly called?",
+      "answer": "Metamorphosis",
+      "accepted_answers": [
+        "Metamorphosis"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0023",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the seasonal movement of animals between regions called?",
+      "answer": "Migration",
+      "accepted_answers": [
+        "Migration"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0024",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "How many legs does an adult insect have?",
+      "answer": "6",
+      "accepted_answers": [
+        "6",
+        "Six"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0025",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "How many legs does a spider have?",
+      "answer": "8",
+      "accepted_answers": [
+        "8",
+        "Eight"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0026",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which class of animals do frogs belong to?",
+      "answer": "Amphibians",
+      "accepted_answers": [
+        "Amphibians",
+        "Amphibia"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0027",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which class of animals do crocodiles belong to?",
+      "answer": "Reptiles",
+      "accepted_answers": [
+        "Reptiles",
+        "Reptilia"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0028",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which class of animals do dolphins belong to?",
+      "answer": "Mammals",
+      "accepted_answers": [
+        "Mammals",
+        "Mammalia"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0029",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which process lets plants use sunlight to make sugars?",
+      "answer": "Photosynthesis",
+      "accepted_answers": [
+        "Photosynthesis"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0030",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which green pigment absorbs light for photosynthesis?",
+      "answer": "Chlorophyll",
+      "accepted_answers": [
+        "Chlorophyll"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0031",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which gas do plants take in during photosynthesis?",
+      "answer": "Carbon dioxide",
+      "accepted_answers": [
+        "Carbon dioxide",
+        "CO₂",
+        "CO2"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0032",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 2,
+      "question": "Which gas do plants release during photosynthesis?",
+      "answer": "Oxygen",
+      "accepted_answers": [
+        "Oxygen",
+        "O₂",
+        "O2"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0033",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which part of a plant usually absorbs water from the soil?",
+      "answer": "Roots",
+      "accepted_answers": [
+        "Roots",
+        "Root",
+        "The roots"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0034",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the transfer of pollen from an anther to a stigma called?",
+      "answer": "Pollination",
+      "accepted_answers": [
+        "Pollination"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0035",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is the start of a seed's growth called?",
+      "answer": "Germination",
+      "accepted_answers": [
+        "Germination"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0036",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "Which organelles carry out photosynthesis in plant cells?",
+      "answer": "Chloroplasts",
+      "accepted_answers": [
+        "Chloroplasts"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0037",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "Which organelles make most of a typical animal cell's ATP?",
+      "answer": "Mitochondria",
+      "accepted_answers": [
+        "Mitochondria"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0038",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "Which organelles make proteins?",
+      "answer": "Ribosomes",
+      "accepted_answers": [
+        "Ribosomes"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0039",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which molecule carries most organisms' hereditary information?",
+      "answer": "DNA",
+      "accepted_answers": [
+        "DNA",
+        "Deoxyribonucleic acid"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0040",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "What is a section of DNA that helps determine a trait or functional product called?",
+      "answer": "A gene",
+      "accepted_answers": [
+        "A gene",
+        "Gene"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0041",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "Which scientist studied inheritance using pea plants?",
+      "answer": "Gregor Mendel",
+      "accepted_answers": [
+        "Gregor Mendel",
+        "Mendel"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0042",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is a system of organisms and their physical environment called?",
+      "answer": "An ecosystem",
+      "accepted_answers": [
+        "An ecosystem",
+        "Ecosystem"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0043",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What is a group of the same species living in one area called?",
+      "answer": "A population",
+      "accepted_answers": [
+        "A population",
+        "Population"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0044",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What do we call animals that eat only plants?",
+      "answer": "Herbivores",
+      "accepted_answers": [
+        "Herbivores",
+        "Herbivore"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0045",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "What do we call animals that eat plants and animals?",
+      "answer": "Omnivores",
+      "accepted_answers": [
+        "Omnivores",
+        "Omnivore"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0046",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "What is a sequence in which each organism is food for the next called?",
+      "answer": "A food chain",
+      "accepted_answers": [
+        "A food chain",
+        "Food chain"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0047",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "What do we call an animal that hunts other animals for food?",
+      "answer": "A predator",
+      "accepted_answers": [
+        "A predator",
+        "Predator"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0048",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 3,
+      "question": "Which microscopic fungi make bread dough rise?",
+      "answer": "Yeast",
+      "accepted_answers": [
+        "Yeast",
+        "Yeasts"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0049",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "What process lets yeast turn sugar into alcohol and carbon dioxide?",
+      "answer": "Fermentation",
+      "accepted_answers": [
+        "Fermentation"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-biology-0050",
+      "category": "Биология",
+      "category_key": "biology",
+      "points": 4,
+      "question": "What is the scientific study of fungi called?",
+      "answer": "Mycology",
+      "accepted_answers": [
+        "Mycology"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0001",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 1,
+      "question": "What is the chemical formula for water?",
+      "answer": "H₂O",
+      "accepted_answers": [
+        "H₂O",
+        "H2O"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0002",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which metal is liquid at ordinary room temperature?",
+      "answer": "Mercury",
+      "accepted_answers": [
+        "Mercury",
+        "Hg"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0003",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which gas is commonly used to fill floating party balloons?",
+      "answer": "Helium",
+      "accepted_answers": [
+        "Helium",
+        "He"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0004",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which particle in an atom has a negative electric charge?",
+      "answer": "Electron",
+      "accepted_answers": [
+        "Electron",
+        "An electron"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0005",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which element are diamonds made of?",
+      "answer": "Carbon",
+      "accepted_answers": [
+        "Carbon",
+        "C"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0006",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "What force pulls objects towards Earth?",
+      "answer": "Gravity",
+      "accepted_answers": [
+        "Gravity",
+        "Gravitation"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0007",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Can sound travel through a perfect vacuum?",
+      "answer": "No",
+      "accepted_answers": [
+        "No"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0008",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which instrument measures air pressure?",
+      "answer": "Barometer",
+      "accepted_answers": [
+        "Barometer",
+        "A barometer"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0009",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the SI unit of electric current?",
+      "answer": "Ampere",
+      "accepted_answers": [
+        "Ampere",
+        "Amp",
+        "Amps",
+        "A"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0010",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the SI unit of power?",
+      "answer": "Watt",
+      "accepted_answers": [
+        "Watt",
+        "Watts",
+        "W"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0011",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "At standard atmospheric pressure, at what Celsius temperature does pure water boil?",
+      "answer": "100 °C",
+      "accepted_answers": [
+        "100 °C",
+        "100 degrees Celsius",
+        "100"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0012",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which element is most abundant in the universe?",
+      "answer": "Hydrogen",
+      "accepted_answers": [
+        "Hydrogen",
+        "H"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0013",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which optical object can split white light into a spectrum?",
+      "answer": "A prism",
+      "accepted_answers": [
+        "A prism",
+        "Prism"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0014",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the name for light bouncing off a surface?",
+      "answer": "Reflection",
+      "accepted_answers": [
+        "Reflection"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0015",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the name for light changing direction as it enters a different medium?",
+      "answer": "Refraction",
+      "accepted_answers": [
+        "Refraction"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0016",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "answer": "Mars",
+      "accepted_answers": [
+        "Mars"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0017",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which planet is closest to the Sun?",
+      "answer": "Mercury",
+      "accepted_answers": [
+        "Mercury"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0018",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "Which planet is the largest in our solar system?",
+      "answer": "Jupiter",
+      "accepted_answers": [
+        "Jupiter"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0019",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which planet is famous for its prominent rings?",
+      "answer": "Saturn",
+      "accepted_answers": [
+        "Saturn"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0020",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is Earth's natural satellite called?",
+      "answer": "The Moon",
+      "accepted_answers": [
+        "The Moon",
+        "Moon"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0021",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the name of our galaxy?",
+      "answer": "Milky Way",
+      "accepted_answers": [
+        "Milky Way",
+        "The Milky Way"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0022",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the closest star to Earth?",
+      "answer": "The Sun",
+      "accepted_answers": [
+        "The Sun",
+        "Sun"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0023",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 4,
+      "question": "What astronomical event occurs when the Moon blocks the Sun from view?",
+      "answer": "A solar eclipse",
+      "accepted_answers": [
+        "A solar eclipse",
+        "Solar eclipse"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0024",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which instrument is used to observe distant stars?",
+      "answer": "A telescope",
+      "accepted_answers": [
+        "A telescope",
+        "Telescope"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0025",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "What does a browser let you view?",
+      "answer": "Websites",
+      "accepted_answers": [
+        "Websites",
+        "Web pages"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0026",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "What do we call unwanted bulk email?",
+      "answer": "Spam",
+      "accepted_answers": [
+        "Spam"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0027",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "How many different digits are used in binary notation?",
+      "answer": "2",
+      "accepted_answers": [
+        "2",
+        "Two",
+        "0 and 1"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0028",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What are the smallest individual picture elements in a digital image called?",
+      "answer": "Pixels",
+      "accepted_answers": [
+        "Pixels",
+        "Pixel"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0029",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which wireless technology commonly connects headphones to a phone over short distances?",
+      "answer": "Bluetooth",
+      "accepted_answers": [
+        "Bluetooth"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0030",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What does the abbreviation PDF stand for?",
+      "answer": "Portable Document Format",
+      "accepted_answers": [
+        "Portable Document Format"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0031",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 4,
+      "question": "What do we call a spare copy of data kept in case the original is lost?",
+      "answer": "A backup",
+      "accepted_answers": [
+        "A backup",
+        "Backup",
+        "Back-up"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0032",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What symbol separates the local name from the domain in an email address?",
+      "answer": "@",
+      "accepted_answers": [
+        "@",
+        "At sign",
+        "At"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0033",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci",
+      "accepted_answers": [
+        "Leonardo da Vinci",
+        "Da Vinci",
+        "Leonardo"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0034",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Who painted The Starry Night?",
+      "answer": "Vincent van Gogh",
+      "accepted_answers": [
+        "Vincent van Gogh",
+        "Van Gogh"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0035",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Who wrote Romeo and Juliet?",
+      "answer": "William Shakespeare",
+      "accepted_answers": [
+        "William Shakespeare",
+        "Shakespeare"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0036",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Who created Sherlock Holmes?",
+      "answer": "Arthur Conan Doyle",
+      "accepted_answers": [
+        "Arthur Conan Doyle",
+        "Conan Doyle",
+        "Sir Arthur Conan Doyle"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0037",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Who wrote Pride and Prejudice?",
+      "answer": "Jane Austen",
+      "accepted_answers": [
+        "Jane Austen",
+        "Austen"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0038",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 4,
+      "question": "Who wrote the novel 1984?",
+      "answer": "George Orwell",
+      "accepted_answers": [
+        "George Orwell",
+        "Orwell"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0039",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 4,
+      "question": "Who wrote The Little Prince?",
+      "answer": "Antoine de Saint-Exupéry",
+      "accepted_answers": [
+        "Antoine de Saint-Exupéry",
+        "Saint-Exupéry"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0040",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is a painting of the artist themselves called?",
+      "answer": "A self-portrait",
+      "accepted_answers": [
+        "A self-portrait",
+        "Self-portrait"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0041",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is a painting of arranged objects such as fruit and flowers called?",
+      "answer": "A still life",
+      "accepted_answers": [
+        "A still life",
+        "Still life"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0042",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 2,
+      "question": "How many squares are on a standard chessboard?",
+      "answer": "64",
+      "accepted_answers": [
+        "64",
+        "Sixty-four"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0043",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which chess piece moves in an L shape?",
+      "answer": "Knight",
+      "accepted_answers": [
+        "Knight",
+        "The knight"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0044",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which chess piece can move any distance along a rank, file or diagonal?",
+      "answer": "Queen",
+      "accepted_answers": [
+        "Queen",
+        "The queen"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0045",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "What is the official distance of a marathon in kilometres?",
+      "answer": "42.195 km",
+      "accepted_answers": [
+        "42.195 km",
+        "42.195",
+        "42,195 km"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0046",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "In which sport would you score a touchdown?",
+      "answer": "American football",
+      "accepted_answers": [
+        "American football",
+        "Gridiron football"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0047",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "In which sport is a score of zero called love?",
+      "answer": "Tennis",
+      "accepted_answers": [
+        "Tennis"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0048",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "How many players from one basketball team are on court during normal play?",
+      "answer": "5",
+      "accepted_answers": [
+        "5",
+        "Five"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0049",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which sport uses a puck and sticks on ice?",
+      "answer": "Ice hockey",
+      "accepted_answers": [
+        "Ice hockey",
+        "Hockey"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-general-0050",
+      "category": "Общие знания",
+      "category_key": "general",
+      "points": 3,
+      "question": "Which instrument has black and white keys and strings struck by hammers?",
+      "answer": "Piano",
+      "accepted_answers": [
+        "Piano",
+        "A piano"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0001",
+      "category": "История",
+      "category_key": "history",
+      "points": 2,
+      "question": "Which ancient civilisation built the pyramids at Giza?",
+      "answer": "Ancient Egyptians",
+      "accepted_answers": [
+        "Ancient Egyptians",
+        "Egyptians",
+        "Ancient Egypt"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0002",
+      "category": "История",
+      "category_key": "history",
+      "points": 2,
+      "question": "What were the rulers of ancient Egypt called?",
+      "answer": "Pharaohs",
+      "accepted_answers": [
+        "Pharaohs",
+        "Pharaoh"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0003",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "What writing system used picture-like signs in ancient Egypt?",
+      "answer": "Hieroglyphs",
+      "accepted_answers": [
+        "Hieroglyphs",
+        "Hieroglyphics"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0004",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which ancient civilisation developed cuneiform writing?",
+      "answer": "Sumerians",
+      "accepted_answers": [
+        "Sumerians",
+        "Sumer",
+        "The Sumerians"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0005",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which two rivers gave Mesopotamia its name?",
+      "answer": "Tigris and Euphrates",
+      "accepted_answers": [
+        "Tigris and Euphrates",
+        "Euphrates and Tigris"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0006",
+      "category": "История",
+      "category_key": "history",
+      "points": 2,
+      "question": "Which country hosted the ancient Olympic Games?",
+      "answer": "Greece",
+      "accepted_answers": [
+        "Greece",
+        "Ancient Greece"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0007",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "What city was the centre of the Roman Empire at its height?",
+      "answer": "Rome",
+      "accepted_answers": [
+        "Rome"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0008",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which Roman leader was assassinated on the Ides of March in 44 BCE?",
+      "answer": "Julius Caesar",
+      "accepted_answers": [
+        "Julius Caesar",
+        "Caesar"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0009",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which Egyptian queen was associated with Julius Caesar and Mark Antony?",
+      "answer": "Cleopatra",
+      "accepted_answers": [
+        "Cleopatra",
+        "Cleopatra VII"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0010",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which city was buried by Mount Vesuvius in 79 CE?",
+      "answer": "Pompeii",
+      "accepted_answers": [
+        "Pompeii"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0011",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "What were the arena fighters of ancient Rome called?",
+      "answer": "Gladiators",
+      "accepted_answers": [
+        "Gladiators",
+        "Gladiator"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0012",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which ancient Greek city-state is famous for its military society?",
+      "answer": "Sparta",
+      "accepted_answers": [
+        "Sparta"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0013",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who tutored Alexander the Great?",
+      "answer": "Aristotle",
+      "accepted_answers": [
+        "Aristotle"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0014",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which empire had Constantinople as its capital?",
+      "answer": "Byzantine Empire",
+      "accepted_answers": [
+        "Byzantine Empire",
+        "Eastern Roman Empire",
+        "Byzantium"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0015",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "What was Constantinople called before it received that name?",
+      "answer": "Byzantium",
+      "accepted_answers": [
+        "Byzantium",
+        "Byzantion"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0016",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "What were Scandinavian seafarers and raiders of the early Middle Ages called?",
+      "answer": "Vikings",
+      "accepted_answers": [
+        "Vikings",
+        "The Vikings"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0017",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which medieval pandemic is commonly called the Black Death?",
+      "answer": "Plague",
+      "accepted_answers": [
+        "Plague",
+        "Bubonic plague"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0018",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which English king was forced to agree to Magna Carta in 1215?",
+      "answer": "King John",
+      "accepted_answers": [
+        "King John",
+        "John"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0019",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which French heroine was nicknamed the Maid of Orléans?",
+      "answer": "Joan of Arc",
+      "accepted_answers": [
+        "Joan of Arc",
+        "Jeanne d'Arc"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0020",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "In which country did the European Renaissance begin?",
+      "answer": "Italy",
+      "accepted_answers": [
+        "Italy"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0021",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "answer": "Michelangelo",
+      "accepted_answers": [
+        "Michelangelo",
+        "Michelangelo Buonarroti"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0022",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who developed movable-type printing in Europe in the 15th century?",
+      "answer": "Johannes Gutenberg",
+      "accepted_answers": [
+        "Johannes Gutenberg",
+        "Gutenberg"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0023",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which navigator led the 1492 expedition that reached the Caribbean for Spain?",
+      "answer": "Christopher Columbus",
+      "accepted_answers": [
+        "Christopher Columbus",
+        "Columbus"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0024",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which navigator led the expedition that first circumnavigated Earth?",
+      "answer": "Ferdinand Magellan",
+      "accepted_answers": [
+        "Ferdinand Magellan",
+        "Magellan"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0025",
+      "category": "История",
+      "category_key": "history",
+      "points": 5,
+      "question": "Who completed the first circumnavigation after Magellan's death?",
+      "answer": "Juan Sebastián Elcano",
+      "accepted_answers": [
+        "Juan Sebastián Elcano",
+        "Elcano",
+        "Juan Sebastian Elcano"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0026",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which Portuguese navigator reached India by sea around Africa in 1498?",
+      "answer": "Vasco da Gama",
+      "accepted_answers": [
+        "Vasco da Gama",
+        "Da Gama"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0027",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who published the Ninety-five Theses in 1517?",
+      "answer": "Martin Luther",
+      "accepted_answers": [
+        "Martin Luther",
+        "Luther"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0028",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who was the first president of the United States?",
+      "answer": "George Washington",
+      "accepted_answers": [
+        "George Washington",
+        "Washington"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0029",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "In what year was the US Declaration of Independence adopted?",
+      "answer": "1776",
+      "accepted_answers": [
+        "1776"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0030",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who was the principal author of the US Declaration of Independence?",
+      "answer": "Thomas Jefferson",
+      "accepted_answers": [
+        "Thomas Jefferson",
+        "Jefferson"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0031",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which fortress was stormed on 14 July 1789 during the French Revolution?",
+      "answer": "Bastille",
+      "accepted_answers": [
+        "Bastille",
+        "The Bastille"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0032",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which French ruler was finally defeated at Waterloo?",
+      "answer": "Napoleon Bonaparte",
+      "accepted_answers": [
+        "Napoleon Bonaparte",
+        "Napoleon"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0033",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "In which country did the Industrial Revolution begin?",
+      "answer": "Britain",
+      "accepted_answers": [
+        "Britain",
+        "Great Britain",
+        "United Kingdom",
+        "England"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0034",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who greatly improved the steam engine in the 18th century?",
+      "answer": "James Watt",
+      "accepted_answers": [
+        "James Watt",
+        "Watt"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0035",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who was US president during most of the American Civil War?",
+      "answer": "Abraham Lincoln",
+      "accepted_answers": [
+        "Abraham Lincoln",
+        "Lincoln"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0036",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "What was the 1929 economic crisis and its aftermath called?",
+      "answer": "The Great Depression",
+      "accepted_answers": [
+        "The Great Depression",
+        "Great Depression"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0037",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Whose assassination in Sarajevo in 1914 triggered the July Crisis?",
+      "answer": "Archduke Franz Ferdinand",
+      "accepted_answers": [
+        "Archduke Franz Ferdinand",
+        "Franz Ferdinand"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0038",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which treaty formally ended World War I between Germany and the Allied powers?",
+      "answer": "Treaty of Versailles",
+      "accepted_answers": [
+        "Treaty of Versailles",
+        "Versailles Treaty"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0039",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which country did Germany invade in September 1939, beginning World War II in Europe?",
+      "answer": "Poland",
+      "accepted_answers": [
+        "Poland"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0040",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which British prime minister led the country through most of World War II?",
+      "answer": "Winston Churchill",
+      "accepted_answers": [
+        "Winston Churchill",
+        "Churchill"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0041",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "What was the 1944 Allied landing in Normandy commonly called?",
+      "answer": "D-Day",
+      "accepted_answers": [
+        "D-Day",
+        "D Day"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0042",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "What was the rivalry between the US and the Soviet Union after World War II called?",
+      "answer": "The Cold War",
+      "accepted_answers": [
+        "The Cold War",
+        "Cold War"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0043",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Which city was divided by a wall from 1961 to 1989?",
+      "answer": "Berlin",
+      "accepted_answers": [
+        "Berlin"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0044",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who was the first human to travel into space?",
+      "answer": "Yuri Gagarin",
+      "accepted_answers": [
+        "Yuri Gagarin",
+        "Gagarin"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0045",
+      "category": "История",
+      "category_key": "history",
+      "points": 3,
+      "question": "Who was the first person to walk on the Moon?",
+      "answer": "Neil Armstrong",
+      "accepted_answers": [
+        "Neil Armstrong",
+        "Armstrong"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0046",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Which Apollo mission first landed humans on the Moon?",
+      "answer": "Apollo 11",
+      "accepted_answers": [
+        "Apollo 11",
+        "Apollo Eleven"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0047",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who led the nonviolent independence movement in India?",
+      "answer": "Mahatma Gandhi",
+      "accepted_answers": [
+        "Mahatma Gandhi",
+        "Gandhi",
+        "Mohandas Gandhi"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0048",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who became South Africa's first Black president in 1994?",
+      "answer": "Nelson Mandela",
+      "accepted_answers": [
+        "Nelson Mandela",
+        "Mandela"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0049",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "What was South Africa's former system of racial segregation called?",
+      "answer": "Apartheid",
+      "accepted_answers": [
+        "Apartheid"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-history-0050",
+      "category": "История",
+      "category_key": "history",
+      "points": 4,
+      "question": "Who delivered the I Have a Dream speech in 1963?",
+      "answer": "Martin Luther King Jr.",
+      "accepted_answers": [
+        "Martin Luther King Jr.",
+        "Martin Luther King",
+        "MLK"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0001",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 1,
+      "question": "What is the name of Harry Potter's school?",
+      "answer": "Hogwarts",
+      "accepted_answers": [
+        "Hogwarts",
+        "Hogwarts School of Witchcraft and Wizardry"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0002",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is Iron Man's civilian name?",
+      "answer": "Tony Stark",
+      "accepted_answers": [
+        "Tony Stark"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0003",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is Batman's civilian name?",
+      "answer": "Bruce Wayne",
+      "accepted_answers": [
+        "Bruce Wayne"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0004",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is Spider-Man's civilian name in the original Marvel comics?",
+      "answer": "Peter Parker",
+      "accepted_answers": [
+        "Peter Parker"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0005",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "Which superhero carries a shield with a star?",
+      "answer": "Captain America",
+      "accepted_answers": [
+        "Captain America",
+        "Steve Rogers"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0006",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "Which fictional African country is Black Panther from?",
+      "answer": "Wakanda",
+      "accepted_answers": [
+        "Wakanda"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0007",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is Superman's Earth name?",
+      "answer": "Clark Kent",
+      "accepted_answers": [
+        "Clark Kent"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0008",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "Which actor played Neo in The Matrix?",
+      "answer": "Keanu Reeves",
+      "accepted_answers": [
+        "Keanu Reeves",
+        "Reeves"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0009",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "Which actor played the title character in the 1984 film The Terminator?",
+      "answer": "Arnold Schwarzenegger",
+      "accepted_answers": [
+        "Arnold Schwarzenegger",
+        "Schwarzenegger"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0010",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is the name of the boy left behind in Home Alone?",
+      "answer": "Kevin McCallister",
+      "accepted_answers": [
+        "Kevin McCallister",
+        "Kevin"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0011",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What car brand is used for the time machine in Back to the Future?",
+      "answer": "DeLorean",
+      "accepted_answers": [
+        "DeLorean",
+        "DMC",
+        "DeLorean DMC-12"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0012",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is Indiana Jones's profession?",
+      "answer": "Archaeologist",
+      "accepted_answers": [
+        "Archaeologist",
+        "Archeologist"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0013",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the name of the volleyball in Cast Away?",
+      "answer": "Wilson",
+      "accepted_answers": [
+        "Wilson"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0014",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What ship sinks in James Cameron's 1997 film?",
+      "answer": "Titanic",
+      "accepted_answers": [
+        "Titanic",
+        "RMS Titanic"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0015",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Who directed the 1975 film Jaws?",
+      "answer": "Steven Spielberg",
+      "accepted_answers": [
+        "Steven Spielberg",
+        "Spielberg"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0016",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "Who carries the One Ring towards Mordor in The Lord of the Rings?",
+      "answer": "Frodo Baggins",
+      "accepted_answers": [
+        "Frodo Baggins",
+        "Frodo"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0017",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What does Gollum call the One Ring?",
+      "answer": "My precious",
+      "accepted_answers": [
+        "My precious",
+        "Precious"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0018",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Which house does Harry Potter join at Hogwarts?",
+      "answer": "Gryffindor",
+      "accepted_answers": [
+        "Gryffindor"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0019",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Who is Harry Potter's main dark-wizard enemy?",
+      "answer": "Lord Voldemort",
+      "accepted_answers": [
+        "Lord Voldemort",
+        "Voldemort",
+        "Tom Riddle"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0020",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What magical sport does Harry Potter play?",
+      "answer": "Quidditch",
+      "accepted_answers": [
+        "Quidditch"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0021",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What is the young lion's name in The Lion King?",
+      "answer": "Simba",
+      "accepted_answers": [
+        "Simba"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0022",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is Simba's father's name?",
+      "answer": "Mufasa",
+      "accepted_answers": [
+        "Mufasa"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0023",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What does Cinderella leave behind at the ball?",
+      "answer": "A glass slipper",
+      "accepted_answers": [
+        "A glass slipper",
+        "Glass slipper",
+        "Slipper"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0024",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "How many dwarfs live with Snow White?",
+      "answer": "7",
+      "accepted_answers": [
+        "7",
+        "Seven"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0025",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What kind of creature is Olaf in Frozen?",
+      "answer": "A snowman",
+      "accepted_answers": [
+        "A snowman",
+        "Snowman"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0026",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 2,
+      "question": "What are the sisters' names in Frozen?",
+      "answer": "Elsa and Anna",
+      "accepted_answers": [
+        "Elsa and Anna",
+        "Anna and Elsa"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0027",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the space ranger's name in Toy Story?",
+      "answer": "Buzz Lightyear",
+      "accepted_answers": [
+        "Buzz Lightyear",
+        "Buzz"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0028",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What kind of fish is Nemo?",
+      "answer": "Clownfish",
+      "accepted_answers": [
+        "Clownfish",
+        "A clownfish"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0029",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the forgetful blue fish's name in Finding Nemo?",
+      "answer": "Dory",
+      "accepted_answers": [
+        "Dory"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0030",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the rat chef's name in Ratatouille?",
+      "answer": "Remy",
+      "accepted_answers": [
+        "Remy",
+        "Rémy"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0031",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What lifts the house into the sky in Up?",
+      "answer": "Balloons",
+      "accepted_answers": [
+        "Balloons",
+        "Helium balloons"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0032",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the red racing car's name in Cars?",
+      "answer": "Lightning McQueen",
+      "accepted_answers": [
+        "Lightning McQueen",
+        "McQueen"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0033",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What animal is Judy Hopps in Zootopia?",
+      "answer": "A rabbit",
+      "accepted_answers": [
+        "A rabbit",
+        "Rabbit",
+        "Bunny"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0034",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Which 2015 Pixar film takes place partly inside Riley's mind?",
+      "answer": "Inside Out",
+      "accepted_answers": [
+        "Inside Out"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0035",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What holiday is central to the story of Coco?",
+      "answer": "Day of the Dead",
+      "accepted_answers": [
+        "Day of the Dead",
+        "Día de los Muertos",
+        "Dia de los Muertos"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0036",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "In which city do the main characters of Friends live?",
+      "answer": "New York City",
+      "accepted_answers": [
+        "New York City",
+        "New York",
+        "NYC"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0037",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is Ross Geller's profession in Friends?",
+      "answer": "Palaeontologist",
+      "accepted_answers": [
+        "Palaeontologist",
+        "Paleontologist"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0038",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What subject does Walter White teach at the start of Breaking Bad?",
+      "answer": "Chemistry",
+      "accepted_answers": [
+        "Chemistry"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0039",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 4,
+      "question": "What alias does Walter White use in Breaking Bad?",
+      "answer": "Heisenberg",
+      "accepted_answers": [
+        "Heisenberg"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0040",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is Wednesday's surname in the Netflix series?",
+      "answer": "Addams",
+      "accepted_answers": [
+        "Addams"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0041",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What is the name of the town in Stranger Things?",
+      "answer": "Hawkins",
+      "accepted_answers": [
+        "Hawkins"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0042",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "What number gives the girl Eleven her name in Stranger Things?",
+      "answer": "11",
+      "accepted_answers": [
+        "11",
+        "Eleven"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0043",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 4,
+      "question": "Which English city did The Beatles come from?",
+      "answer": "Liverpool",
+      "accepted_answers": [
+        "Liverpool"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0044",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Who was the lead singer of Queen?",
+      "answer": "Freddie Mercury",
+      "accepted_answers": [
+        "Freddie Mercury",
+        "Mercury"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0045",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Which band released Bohemian Rhapsody?",
+      "answer": "Queen",
+      "accepted_answers": [
+        "Queen"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0046",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Which Swedish group recorded Dancing Queen?",
+      "answer": "ABBA",
+      "accepted_answers": [
+        "ABBA"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0047",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Who is widely known as the King of Pop?",
+      "answer": "Michael Jackson",
+      "accepted_answers": [
+        "Michael Jackson",
+        "Jackson"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0048",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 3,
+      "question": "Which country is the group BTS from?",
+      "answer": "South Korea",
+      "accepted_answers": [
+        "South Korea",
+        "Republic of Korea"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0049",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 4,
+      "question": "Which French electronic duo performed in robot helmets?",
+      "answer": "Daft Punk",
+      "accepted_answers": [
+        "Daft Punk"
+      ],
+      "editorial_revision": 5
+    },
+    {
+      "id": "en-pop_culture-0050",
+      "category": "Поп-культура",
+      "category_key": "pop_culture",
+      "points": 4,
+      "question": "Which artist released the album 1989 in 2014?",
+      "answer": "Taylor Swift",
+      "accepted_answers": [
+        "Taylor Swift",
+        "Swift"
+      ],
+      "editorial_revision": 5
+    }
+  ]
+}
