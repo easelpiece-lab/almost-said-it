@@ -1,45 +1,41 @@
-# Design QA — Almost Said It / Bold Quiz Club v8
+# Design QA — Almost Said It / Party Game, 2 November 2026
 
-- Source visual truth: `/workspace/scratch/33d1f6559ffa/upload/image(319).png`
-- Source pixels: 1536 × 1024, six-screen design board
-- Implementation: `/workspace/scratch/33d1f6559ffa/almost-said-it-bold-v8/index.html`
+- Source visual reference: user's `image(20261102-100328).png`, with layered cream cards, yellow timer and coral primary button.
+- Implementation: `index.html`, `party-game.css`, `app-v7.js`.
 - Intended mobile viewport: 390 × 844 CSS px
 - Intended desktop viewport: 1440 × 1024 CSS px
-- Implementation screenshot: unavailable
-- Density normalization: not applicable because no browser-rendered capture was permitted
-- States intended for comparison: home, setup, team handoff, question front, answer back, results
-- Full-view comparison evidence: blocked
-- Focused-region comparison evidence: blocked
+- Desktop screenshot capture: home, setup, team handoff, questions, answers.
+- Mobile screenshot capture: not available; browser controls did not expose viewport resizing.
 
 ## Checks completed
 
-- JavaScript syntax: passed with `node --check app-v7.js`
+- Gameplay transition: passed: all four answer decisions, 12-point score confirmation, next-team handoff.
 - Autonomous build: passed with `node build-standalone.mjs`
-- Question database: 150 valid items; points span 1–8 and all four difficulty bands are populated
+- Question database: 1000 RU / 350 EN questions.
 - Local source references: passed; no missing CSS, script, or image assets
-- Autonomous HTML references: passed; no external `src` or `href` dependencies remain
+- Autonomous HTML references: `party-game.css` and branded backdrops now embedded via build script.
 - Local preview service: started successfully
-- Primary interactions tested in a browser: not checked
-- Browser console errors: not checked
+- Primary interactions tested in a browser: passed on desktop preview.
+- Browser console: no game-script errors observed; errors came from browser extension metadata.
 
 ## Findings
 
-- [Blocked] Browser-rendered visual comparison is unavailable.
-  Location: all six screens.
-  Evidence: the cloud browser rejected access to `terminal.local` because a saved user permission blocks that local address.
-  Impact: typography, exact crop, responsive spacing, interactive animation, and console behavior cannot be certified from browser evidence.
-  Fix: permit local preview access in the cloud browser, then capture mobile and desktop states and compare them directly with the selected design board.
+- [Resolved] Answer face was dark due to conflicting existing CSS specificity; changed to readable cream in Party Game override and checked it in browser.
+- [Resolved] Number badges previously showed awarded points instead of question order. The UI now shows ordinal 1–4 and separate real point labels.
+- [Pending] Mobile 390 × 844 screenshot and exact pixel-level comparison could not be captured because viewport resizing was unavailable.
+- [Pending] The final victory view has been styled but was not reached during the browser run.
 
 ## Required fidelity surfaces
 
-- Fonts and typography: implemented with a condensed poster-style system stack, but browser rendering could not be compared.
-- Spacing and layout rhythm: implemented for 390 px mobile and expanded desktop breakpoints, but not visually certified.
-- Colors and visual tokens: implemented from the selected navy, violet, coral, yellow, cream, and mint palette.
-- Image quality and asset fidelity: three dedicated raster assets were created and embedded; browser crop and sharpness remain unverified.
-- Copy and content: Russian flow and the 1–8 point rules are present in source and standalone output.
+- Fonts and typography: existing display and Manrope-based system with updated hierarchy.
+- Spacing: visually confirmed on desktop; mobile breakpoints implemented but need a phone capture.
+- Colors: purple, coral, yellow, cream and mint from selected Party Game mock.
+- Image assets: original branded raster assets retained for home, handoff and results.
+- Copy: original Russian/English question bank and 1–8 point model preserved.
 
 ## Comparison history
 
-- No visual comparison iteration was possible because browser access was blocked before the first implementation capture.
+- Browser render: first pass captured; changed answer-face contrast and point labels after observing actual game state; second pass captured and checked.
+- Desktop flows and tests passed; mobile visual QA remains incomplete.
 
 final result: blocked
