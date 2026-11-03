@@ -366,8 +366,8 @@
       <div class="question-list">${questions.map((question,index)=>`
         <section class="question-row">
           <div class="question-row-head" aria-label="${scoreLabel(question.points)}">
-            <span class="question-number">${question.points}</span>
-            <span class="question-points">${scoreWord(question.points)}</span>
+            <span class="question-number" aria-label="${language==="en"?"Question":"Вопрос"} ${index+1}">${index+1}</span>
+            <span class="question-points">${scoreLabel(question.points)}</span>
           </div>
           <h2>${safeText(question.question)}</h2>
         </section>`).join("")}
@@ -377,12 +377,12 @@
 
   function answerFaceMarkup(questions) {
     return `<article class="game-card answer-side multi-answer-face" aria-label="Сторона с ответами">
-      <div class="answer-list full-answer-list">${questions.map(question=>{
+      <div class="answer-list full-answer-list">${questions.map((question,index)=>{
         const mark=state.answerMarks[question.id] || "";
         return `<section class="answer-row ${mark?`marked ${mark}`:""}">
           <div class="answer-row-head" aria-label="${scoreLabel(question.points)}">
-            <span class="question-number">${question.points}</span>
-            <span class="question-points">${scoreWord(question.points)}</span>
+            <span class="question-number" aria-label="${language==="en"?"Question":"Вопрос"} ${index+1}">${index+1}</span>
+            <span class="question-points">${scoreLabel(question.points)}</span>
           </div>
           <h2 class="answer-value">${safeText(question.answer)}</h2>
           ${question.acceptedAnswers.filter(value=>value.toLocaleLowerCase()!==question.answer.toLocaleLowerCase()).length ? `<p class="answer-alias">${language==="en"?"Also accepted":"Допустимо"}: ${safeText(question.acceptedAnswers.filter(value=>value.toLocaleLowerCase()!==question.answer.toLocaleLowerCase()).slice(0,2).join(" · "))}</p>` : ""}
