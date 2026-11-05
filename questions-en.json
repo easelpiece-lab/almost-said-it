@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-12",
+  "updated_at": "2026-11-05",
   "language": "en",
   "title": "Almost Said It — English edition",
   "questions": [
@@ -715,14 +715,15 @@
       "category": "Математика",
       "category_key": "mathematics",
       "points": 3,
-      "question": "What is the perimeter of a square with 9 cm sides?",
-      "answer": "36 cm",
+      "question": "A rectangle is 8 cm long and 5 cm wide. What is its perimeter?",
+      "answer": "26 cm",
       "accepted_answers": [
-        "36 cm",
-        "36 centimetres",
-        "36 centimeters"
+        "26 cm",
+        "26 centimetres",
+        "26"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-mathematics-0009",
@@ -1097,14 +1098,15 @@
       "id": "en-mathematics-0037",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 5,
+      "points": 3,
       "question": "What is the sum of the integers from 1 to 10?",
       "answer": "55",
       "accepted_answers": [
         "55",
         "Fifty-five"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-mathematics-0038",
@@ -1123,14 +1125,15 @@
       "id": "en-mathematics-0039",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 5,
+      "points": 4,
       "question": "How many diagonals does a pentagon have?",
       "answer": "5",
       "accepted_answers": [
         "5",
         "Five"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-mathematics-0040",
@@ -1177,7 +1180,7 @@
       "id": "en-mathematics-0043",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 5,
+      "points": 4,
       "question": "A square has an area of 81 cm². What is its perimeter?",
       "answer": "36 cm",
       "accepted_answers": [
@@ -1185,7 +1188,8 @@
         "36 centimetres",
         "36 centimeters"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-mathematics-0044",
@@ -1205,14 +1209,15 @@
       "id": "en-mathematics-0045",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 5,
+      "points": 4,
       "question": "A right triangle has shorter sides of 3 and 4. How long is the hypotenuse?",
       "answer": "5",
       "accepted_answers": [
         "5",
         "Five"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-mathematics-0046",
@@ -1756,7 +1761,7 @@
       "id": "en-logic-0037",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 3,
       "question": "In a race, you pass the runner who was third. Nobody else changes position. What place are you in?",
       "answer": "Third",
       "accepted_answers": [
@@ -1764,52 +1769,56 @@
         "Third place",
         "3rd"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0038",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 3,
       "question": "A drawer holds only black and white socks. What is the fewest socks you must take without looking to guarantee a matching pair?",
       "answer": "3",
       "accepted_answers": [
         "3",
         "Three"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0039",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 3,
       "question": "A drawer holds red, blue and green socks. How many must you take without looking to guarantee two of one colour?",
       "answer": "4",
       "accepted_answers": [
         "4",
         "Four"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0040",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 3,
       "question": "There are three boxes. Each contains two smaller boxes. How many boxes are there altogether?",
       "answer": "9",
       "accepted_answers": [
         "9",
         "Nine"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0041",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 3,
       "question": "A lily patch doubles in size daily and covers a pond on day 20. On which day was it half covered?",
       "answer": "Day 19",
       "accepted_answers": [
@@ -1817,7 +1826,8 @@
         "19",
         "The nineteenth day"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0042",
@@ -1848,7 +1858,7 @@
       "id": "en-logic-0044",
       "category": "Логика",
       "category_key": "logic",
-      "points": 6,
+      "points": 4,
       "question": "Two children share a mother and the same birth date and time, but are not twins. How is that possible?",
       "answer": "They are part of triplets or a larger multiple birth",
       "accepted_answers": [
@@ -1856,20 +1866,22 @@
         "Triplets",
         "A multiple birth"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0045",
       "category": "Логика",
       "category_key": "logic",
-      "points": 6,
+      "points": 4,
       "question": "Two people play five chess games and each wins five. There are no draws. How is this possible?",
       "answer": "They are not playing each other",
       "accepted_answers": [
         "They are not playing each other",
         "Against different opponents"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0046",
@@ -1889,50 +1901,54 @@
       "id": "en-logic-0047",
       "category": "Логика",
       "category_key": "logic",
-      "points": 7,
+      "points": 8,
       "question": "Two ropes each burn for an hour at an uneven rate. How do you measure 45 minutes?",
       "answer": "Light both ends of one rope and one end of the other. When the first burns out after 30 minutes, light the other end of the second; it burns out 15 minutes later.",
       "accepted_answers": [
         "Light both ends of one rope and one end of the other. When the first burns out after 30 minutes, light the other end of the second; it burns out 15 minutes later."
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0048",
       "category": "Логика",
       "category_key": "logic",
-      "points": 7,
+      "points": 8,
       "question": "Three switches control one incandescent bulb in a closed room. You may enter once. How can you find the right switch?",
       "answer": "Leave one switch on long enough to warm the bulb, then turn it off. Turn a second on and enter. A lit bulb identifies the second, a warm unlit bulb the first, and a cold bulb the third.",
       "accepted_answers": [
         "Leave one switch on long enough to warm the bulb, then turn it off. Turn a second on and enter. A lit bulb identifies the second, a warm unlit bulb the first, and a cold bulb the third."
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0049",
       "category": "Логика",
       "category_key": "logic",
-      "points": 5,
+      "points": 4,
       "question": "A bag has five red balls and five blue balls. How many must you draw without looking to guarantee a red ball?",
       "answer": "6",
       "accepted_answers": [
         "6",
         "Six"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-logic-0050",
       "category": "Логика",
       "category_key": "logic",
-      "points": 6,
+      "points": 3,
       "question": "You face north, turn right, then turn 180°, then turn left. Which direction do you face?",
       "answer": "South",
       "accepted_answers": [
         "South"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-biology-0001",
@@ -3529,13 +3545,14 @@
       "category": "История",
       "category_key": "history",
       "points": 4,
-      "question": "Which navigator led the expedition that first circumnavigated Earth?",
+      "question": "Who began and initially led the expedition that eventually completed the first circumnavigation of Earth?",
       "answer": "Ferdinand Magellan",
       "accepted_answers": [
         "Ferdinand Magellan",
         "Magellan"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "en-history-0025",
