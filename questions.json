@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-12",
+  "updated_at": "2026-11-05",
   "title": "Almost Said It — редакция RU/EN",
   "questions": [
     {
@@ -1759,14 +1759,15 @@
       "category": "География",
       "category_key": "geography",
       "subcategory": "География вокруг нас",
-      "points": 3,
-      "question": "В какой стране находится остров Мадагаскар как основная территория государства?",
+      "points": 2,
+      "question": "Как называется островное государство у юго-восточного побережья Африки, известное лемурами?",
       "answer": "Мадагаскар",
       "accepted_answers": [
         "Мадагаскар",
         "Республика Мадагаскар"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "geo-0292",
@@ -2173,13 +2174,14 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 5,
+      "points": 3,
       "question": "Чему равна сумма целых чисел от 1 до 10 включительно?",
       "answer": "55",
       "accepted_answers": [
         "55"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0113",
@@ -2200,14 +2202,15 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 5,
+      "points": 4,
       "question": "Сколько диагоналей у пятиугольника?",
       "answer": "5",
       "accepted_answers": [
         "5",
         "Пять"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0115",
@@ -2256,14 +2259,15 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 5,
+      "points": 4,
       "question": "Площадь квадрата равна 81 см². Чему равен его периметр?",
       "answer": "36 см",
       "accepted_answers": [
         "36 см",
         "36 сантиметров"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0119",
@@ -2284,13 +2288,14 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Дроби",
-      "points": 5,
+      "points": 4,
       "question": "Катеты прямоугольного треугольника равны 3 и 4. Чему равна гипотенуза?",
       "answer": "5",
       "accepted_answers": [
         "5"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0126",
@@ -2408,77 +2413,83 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 5,
+      "points": 3,
       "question": "После скидки 20% товар за 1000 рублей подешевел на сколько рублей?",
       "answer": "200 рублей",
       "accepted_answers": [
         "200 рублей",
         "200"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0136",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 5,
+      "points": 4,
       "question": "Цена 800 рублей выросла на 25%. Какой стала новая цена?",
       "answer": "1000 рублей",
       "accepted_answers": [
         "1000 рублей",
         "1000"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0137",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 6,
+      "points": 4,
       "question": "Товар стоил 1200 рублей и подешевел на 25%. Сколько он стоит теперь?",
       "answer": "900 рублей",
       "accepted_answers": [
         "900 рублей",
         "900"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0138",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 6,
+      "points": 2,
       "question": "Если 6 литров воды разлить поровну в 12 бутылок, сколько литров будет в каждой?",
       "answer": "0,5 литра",
       "accepted_answers": [
         "0,5 литра",
         "0,5",
         "половина литра"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0139",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 6,
+      "points": 4,
       "question": "В коробке 40 конфет. 30% съели. Сколько конфет осталось?",
       "answer": "28",
       "accepted_answers": [
         "28"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0140",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Пропорции и задачи",
-      "points": 6,
+      "points": 4,
       "question": "Число увеличили на 10% и получили 220. Какое число было сначала?",
       "answer": "200",
       "accepted_answers": [
         "200"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0141",
@@ -2684,12 +2695,13 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Алгебраические задачи",
-      "points": 5,
+      "points": 2,
       "question": "Одно число на 8 больше другого. Меньшее равно 17. Чему равно большее?",
       "answer": "25",
       "accepted_answers": [
         "25"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0185",
@@ -2708,37 +2720,40 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Алгебраические задачи",
-      "points": 5,
+      "points": 2,
       "question": "Сумма двух чисел равна 50. Одно из них равно 19. Чему равно второе?",
       "answer": "31",
       "accepted_answers": [
         "31"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0189",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Алгебраические задачи",
-      "points": 6,
+      "points": 2,
       "question": "Периметр квадрата равен 36 см. Чему равна его сторона?",
       "answer": "9 см",
       "accepted_answers": [
         "9 см",
         "9"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0190",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Алгебраические задачи",
-      "points": 6,
+      "points": 3,
       "question": "Удвоенное число уменьшили на 4 и получили 20. Что это за число?",
       "answer": "12",
       "accepted_answers": [
         "12"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0191",
@@ -2886,28 +2901,30 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 5,
+      "points": 4,
       "question": "У круга радиус 3 см. Чему равна его площадь в виде выражения с π?",
       "answer": "9π см²",
       "accepted_answers": [
         "9π см²",
         "9 пи квадратных сантиметров"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0211",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Площадь",
-      "points": 5,
+      "points": 4,
       "question": "В классе 20 учеников, 12 из них девочки. Какой процент класса составляют мальчики?",
       "answer": "40%",
       "accepted_answers": [
         "40%",
         "40 процентов"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "math-0212",
@@ -3239,12 +3256,13 @@
       "category_key": "mathematics",
       "subcategory": "Квадрат",
       "points": 5,
-      "question": "Чему равна площадь квадрата со стороной 5 см?",
-      "answer": "25 см²",
+      "question": "Четыре игрока выбирают капитана и его заместителя. Сколькими способами можно распределить две разные должности?",
+      "answer": "12",
       "accepted_answers": [
-        "25 см²",
-        "25"
-      ]
+        "12",
+        "Двенадцать"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0281",
@@ -3342,39 +3360,43 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Скорость и время",
-      "points": 5,
+      "points": 3,
       "question": "Бегун пробежал 12 км за 2 часа. Какова его средняя скорость?",
       "answer": "6 км/ч",
       "accepted_answers": [
         "6 км/ч",
         "6"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0289",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Скорость и время",
-      "points": 6,
-      "question": "Машина проехала 150 км за 2,5 часа. Какова её средняя скорость?",
-      "answer": "60 км/ч",
+      "points": 4,
+      "question": "Если вероятность события равна 1/4, какова вероятность, что оно не произойдёт?",
+      "answer": "3/4",
       "accepted_answers": [
-        "60 км/ч",
-        "60"
-      ]
+        "3/4",
+        "0,75",
+        "75%"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0290",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Скорость и время",
-      "points": 6,
-      "question": "Поезд движется 90 км/ч. Сколько километров он проедет за 20 минут?",
-      "answer": "30 км",
+      "points": 3,
+      "question": "Часы спешат на 5 минут за каждый час. На сколько минут они уйдут вперёд за шесть часов?",
+      "answer": "30 минут",
       "accepted_answers": [
-        "30 км",
+        "30 минут",
         "30"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0291",
@@ -3405,12 +3427,14 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Числовые закономерности",
-      "points": 2,
-      "question": "Продолжите числовой ряд: 1, 2, 4, 8, ...",
-      "answer": "16",
+      "points": 3,
+      "question": "Продолжите ряд простых чисел: 2, 3, 5, 7, 11, ...",
+      "answer": "13",
       "accepted_answers": [
-        "16"
-      ]
+        "13",
+        "Тринадцать"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0296",
@@ -3477,24 +3501,26 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Числовые закономерности",
-      "points": 5,
+      "points": 4,
       "question": "Продолжите ряд: 1, 3, 6, 10, ...",
       "answer": "15",
       "accepted_answers": [
         "15"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0300",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Числовые закономерности",
-      "points": 5,
+      "points": 4,
       "question": "Продолжите ряд: 2, 3, 5, 8, 13, ...",
       "answer": "21",
       "accepted_answers": [
         "21"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0061",
@@ -3537,12 +3563,14 @@
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Порядок действий",
-      "points": 2,
-      "question": "Вычислите: 13 + 6 × 7.",
-      "answer": "55",
+      "points": 3,
+      "question": "Какое число между 40 и 50 делится и на 3, и на 5 без остатка?",
+      "answer": "45",
       "accepted_answers": [
-        "55"
-      ]
+        "45",
+        "Сорок пять"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0065",
@@ -3550,23 +3578,27 @@
       "category_key": "mathematics",
       "subcategory": "Порядок действий",
       "points": 2,
-      "question": "Вычислите: 14 + 7 × 4.",
-      "answer": "42",
+      "question": "Среди целых чисел от 1 до 10 сколько делятся на 3 без остатка?",
+      "answer": "3",
       "accepted_answers": [
-        "42"
-      ]
+        "3",
+        "Три"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "math-0066",
       "category": "Математика",
       "category_key": "mathematics",
       "subcategory": "Порядок действий",
-      "points": 2,
-      "question": "Вычислите: 15 + 3 × 5.",
-      "answer": "30",
+      "points": 4,
+      "question": "Каждый из четырёх игроков должен сыграть с каждым другим по одной партии. Сколько всего партий будет?",
+      "answer": "6",
       "accepted_answers": [
-        "30"
-      ]
+        "6",
+        "Шесть"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0031",
@@ -3937,9 +3969,13 @@
       "answer": "Обувь",
       "accepted_answers": [
         "Обувь",
-        "ботинок",
-        "туфля"
-      ]
+        "Ботинок",
+        "Ботинки",
+        "Носок",
+        "Носки",
+        "Туфли"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0114",
@@ -4042,9 +4078,12 @@
       "answer": "Аккаунт",
       "accepted_answers": [
         "Аккаунт",
-        "учётная запись",
-        "система"
-      ]
+        "Учётная запись",
+        "Учетная запись",
+        "Система",
+        "Приложение"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0122",
@@ -4252,12 +4291,14 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 2,
-      "question": "Что можно увидеть с закрытыми глазами?",
-      "answer": "Сон",
+      "question": "Что человек может видеть во время сна, хотя его глаза закрыты?",
+      "answer": "Сновидение",
       "accepted_answers": [
+        "Сновидение",
         "Сон",
-        "сны"
-      ]
+        "Сны"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0194",
@@ -4304,13 +4345,14 @@
       "category_key": "logic",
       "subcategory": "Загадки",
       "points": 3,
-      "question": "Чем можно осветить всю комнату, не поставив в неё новый предмет?",
-      "answer": "Светом",
+      "question": "В комнате горели пять свечей. Две погасли, а остальные догорели полностью. Сколько свечей осталось?",
+      "answer": "Две",
       "accepted_answers": [
-        "Светом",
-        "Свет"
+        "Две",
+        "2"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "logic-0167",
@@ -4434,14 +4476,15 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Загадки",
-      "points": 2,
-      "question": "Что имеет много иголок, но не умеет шить?",
+      "points": 1,
+      "question": "Какое небольшое лесное животное покрыто иголками, но не умеет шить?",
       "answer": "Ёж",
       "accepted_answers": [
         "Ёж",
         "еж",
         "ёлка"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0180",
@@ -4586,12 +4629,13 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "Маша стоит левее Коли, а Коля левее Пети. Кто стоит посередине?",
       "answer": "Коля",
       "accepted_answers": [
         "Коля"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0242",
@@ -4624,112 +4668,121 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "В очереди Оля стоит перед Ирой, а Ира перед Таней. Кто стоит последней?",
       "answer": "Таня",
       "accepted_answers": [
         "Таня"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0245",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "На полке чай стоит левее кофе, а кофе левее какао. Что стоит в центре?",
       "answer": "Кофе",
       "accepted_answers": [
         "Кофе"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0246",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "Синий шар тяжелее красного, а красный тяжелее белого. Какой шар самый лёгкий?",
       "answer": "Белый",
       "accepted_answers": [
         "Белый",
         "белый шар"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0247",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "Первый поезд медленнее второго, а второй медленнее третьего. Какой поезд самый быстрый?",
       "answer": "Третий",
       "accepted_answers": [
         "Третий",
         "третий поезд"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0248",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 3,
       "question": "У Кати больше книг, чем у Лены, но меньше, чем у Маши. У кого больше всего книг?",
       "answer": "У Маши",
       "accepted_answers": [
         "У Маши",
         "Маша"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0249",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 3,
       "question": "Саша пришёл позже Димы, но раньше Паши. Кто пришёл первым?",
       "answer": "Дима",
       "accepted_answers": [
         "Дима"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0250",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "Белая коробка меньше серой, а серая меньше чёрной. Какая коробка самая большая?",
       "answer": "Чёрная",
       "accepted_answers": [
         "Чёрная",
         "чёрная коробка"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0251",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 5,
+      "points": 2,
       "question": "У Ани одна сестра Маша. У Маши есть сестра. Кто это?",
       "answer": "Аня",
       "accepted_answers": [
         "Аня"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0252",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 6,
+      "points": 2,
       "question": "У двух братьев одна общая сестра. Сколько всего детей в семье?",
       "answer": "3",
       "accepted_answers": [
         "3"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0253",
@@ -4750,40 +4803,43 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 6,
+      "points": 3,
       "question": "Мама Оли — сестра папы Кати. Кем Оля и Катя приходятся друг другу?",
       "answer": "Двоюродными сёстрами",
       "accepted_answers": [
         "Двоюродными сёстрами",
         "двоюродные сестры",
         "кузины"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0255",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 6,
+      "points": 2,
       "question": "Иван — брат Марии, а Мария — мама Лены. Кем Иван приходится Лене?",
       "answer": "Дядей",
       "accepted_answers": [
         "Дядей",
         "дядя"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0256",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Вывод из условий",
-      "points": 6,
+      "points": 2,
       "question": "Анна — дочь бабушки Нины и мама Пети. Кем Нина приходится Пете?",
       "answer": "Бабушкой",
       "accepted_answers": [
         "Бабушкой",
         "бабушка"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0257",
@@ -4822,8 +4878,10 @@
       "question": "Есть две верёвки. Каждая полностью сгорает за час, но горит неравномерно. Как с их помощью отмерить ровно 45 минут?",
       "answer": "Первую поджечь с двух концов, вторую — с одного. Через 30 минут первая сгорит; тогда поджечь второй конец второй верёвки, и она догорит за 15 минут.",
       "accepted_answers": [
+        "Первую поджечь с двух концов, вторую — с одного. Через 30 минут первая сгорит; тогда поджечь второй конец второй верёвки, и она догорит за 15 минут.",
         "Первую поджечь с двух концов, вторую с одного, затем поджечь второй конец"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "reasoning-logic-0003",
@@ -4834,8 +4892,10 @@
       "question": "Есть восемь одинаковых на вид шаров, но один тяжелее остальных. Как найти его за два взвешивания на чашечных весах без гирь?",
       "answer": "Взвесить три шара против трёх. Если равны — тяжёлый среди двух оставшихся; если нет — в более тяжёлой тройке. Затем взвесить два шара из нужной группы.",
       "accepted_answers": [
+        "Взвесить три шара против трёх. Если равны — тяжёлый среди двух оставшихся; если нет — в более тяжёлой тройке. Затем взвесить два шара из нужной группы.",
         "Сначала три против трёх, затем один против одного"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0262",
@@ -5071,12 +5131,13 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
+      "points": 2,
       "question": "Если бросить белый камень в Чёрное море, каким он станет?",
       "answer": "Мокрым",
       "accepted_answers": [
         "Мокрым"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0285",
@@ -5116,9 +5177,10 @@
       "question": "Невысокий человек живёт на десятом этаже. Обычно он едет на лифте до седьмого и идёт выше пешком, а в дождь едет сразу до десятого. Почему?",
       "answer": "Он не достаёт до кнопки десятого этажа, а в дождь нажимает её зонтом.",
       "accepted_answers": [
-        "В дождь он нажимает кнопку зонтом",
-        "Он невысокий и не достаёт до верхней кнопки"
-      ]
+        "Он не достаёт до кнопки десятого этажа, а в дождь нажимает её зонтом.",
+        "Он дотягивается зонтом"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "reasoning-logic-0004",
@@ -5194,53 +5256,57 @@
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
+      "points": 3,
       "question": "Есть три больших коробки, в каждой по две маленьких. Сколько всего коробок?",
       "answer": "9",
       "accepted_answers": [
         "9",
         "Девять"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "logic-0294",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
+      "points": 3,
       "question": "Вы смотрите на север, поворачиваете направо, затем на 180°, затем налево. Куда вы смотрите?",
       "answer": "На юг",
       "accepted_answers": [
         "На юг",
         "Юг"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit": 6
     },
     {
       "id": "logic-0283",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 5,
+      "points": 2,
       "question": "Электричка едет на север. Куда летит дым?",
       "answer": "У электрички нет дыма",
       "accepted_answers": [
         "У электрички нет дыма",
         "никуда"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0295",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
+      "points": 5,
       "question": "Если пять машин делают пять деталей за пять минут, сколько деталей сделают сто машин за пять минут?",
       "answer": "100",
       "accepted_answers": [
         "100"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0284",
@@ -5266,49 +5332,54 @@
       "question": "Два ребёнка родились у одной матери в один день, час и год, но они не близнецы. Как это возможно?",
       "answer": "Они входят в тройню или в большее число одновременно родившихся детей.",
       "accepted_answers": [
-        "Они тройняшки",
-        "Они из тройни"
-      ]
+        "Они входят в тройню или в большее число одновременно родившихся детей.",
+        "Тройня",
+        "Тройняшки"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0296",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
+      "points": 5,
       "question": "Три курицы несут три яйца за три дня. Сколько яиц снесут девять кур за девять дней?",
       "answer": "27",
       "accepted_answers": [
         "27"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0297",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
+      "points": 4,
       "question": "Кирпич весит килограмм и ещё полкирпича. Сколько весит кирпич?",
       "answer": "2 килограмма",
       "accepted_answers": [
         "2 килограмма",
         "2 кг",
         "2"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0298",
       "category": "Логика",
       "category_key": "logic",
       "subcategory": "Внимательность",
-      "points": 6,
-      "question": "На часах 3:15. Какой угол примерно между минутной и часовой стрелками?",
+      "points": 5,
+      "question": "Часы показывают 3:15. Какой меньший угол между часовой и минутной стрелками?",
       "answer": "7,5 градуса",
       "accepted_answers": [
         "7,5 градуса",
         "7.5",
         "7,5°"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "logic-0270",
@@ -5726,24 +5797,26 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
-      "points": 5,
+      "points": 3,
       "question": "Из какого химического элемента состоит алмаз?",
       "answer": "Углерод",
       "accepted_answers": [
         "Углерод"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0037",
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
-      "points": 5,
+      "points": 3,
       "question": "Из какого химического элемента в основном состоит графит карандаша?",
       "answer": "Углерод",
       "accepted_answers": [
         "Углерод"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0024",
@@ -5786,12 +5859,13 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
-      "points": 5,
+      "points": 3,
       "question": "Какой химический элемент самый распространённый во Вселенной?",
       "answer": "Водород",
       "accepted_answers": [
         "Водород"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0028",
@@ -5810,13 +5884,14 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Наука вокруг нас",
-      "points": 6,
+      "points": 3,
       "question": "Почему лёд плавает на воде?",
       "answer": "Он менее плотный, чем вода",
       "accepted_answers": [
         "Он менее плотный, чем вода",
         "плотность льда меньше"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0052",
@@ -6344,24 +6419,26 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 3,
       "question": "С каким художественным направлением особенно связывают Пабло Пикассо?",
       "answer": "Кубизм",
       "accepted_answers": [
         "Кубизм"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0145",
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 3,
       "question": "С каким художественным направлением связывают Клода Моне?",
       "answer": "Импрессионизм",
       "accepted_answers": [
         "Импрессионизм"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0113",
@@ -6395,12 +6472,13 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 2,
       "question": "Как называется картина, на которой художник изображает самого себя?",
       "answer": "Автопортрет",
       "accepted_answers": [
         "Автопортрет"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0115",
@@ -6433,12 +6511,13 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 1,
       "question": "Как называется изображение человека в живописи или фотографии?",
       "answer": "Портрет",
       "accepted_answers": [
         "Портрет"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0116",
@@ -6458,24 +6537,26 @@
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 1,
       "question": "Как называется жанр живописи с изображением природы?",
       "answer": "Пейзаж",
       "accepted_answers": [
         "Пейзаж"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0150",
       "category": "Общие знания",
       "category_key": "general",
       "subcategory": "Литература и искусство",
-      "points": 5,
+      "points": 2,
       "question": "Как называется жанр с изображением предметов, цветов или фруктов?",
       "answer": "Натюрморт",
       "accepted_answers": [
         "Натюрморт"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "general-0136",
@@ -7981,13 +8062,14 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 5,
+      "points": 3,
       "question": "Какая актриса сыграла Вивиан в фильме «Красотка»?",
       "answer": "Джулия Робертс",
       "accepted_answers": [
         "Джулия Робертс",
         "Робертс"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0001",
@@ -8031,12 +8113,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 5,
+      "points": 1,
       "question": "Какое животное является угрозой в фильме «Челюсти»?",
       "answer": "Акула",
       "accepted_answers": [
         "Акула"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0059",
@@ -8069,13 +8152,16 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Кино",
-      "points": 5,
-      "question": "Кем является герой фильма «Инопланетянин» Спилберга?",
-      "answer": "Инопланетянином",
+      "points": 2,
+      "question": "Как зовут инопланетянина, которому помогает мальчик Эллиот в фильме Спилберга 1982 года?",
+      "answer": "И-Ти",
       "accepted_answers": [
-        "Инопланетянином",
-        "пришелец"
-      ]
+        "И-Ти",
+        "E.T.",
+        "ET",
+        "Инопланетянин"
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0010",
@@ -8890,13 +8976,14 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Сериалы",
-      "points": 5,
+      "points": 1,
       "question": "Где оказываются выжившие после авиакатастрофы в «Остаться в живых»?",
       "answer": "На острове",
       "accepted_answers": [
         "На острове",
         "остров"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0196",
@@ -9212,14 +9299,15 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Музыка",
-      "points": 5,
+      "points": 2,
       "question": "На каком инструменте часто играет Элтон Джон во время выступлений?",
       "answer": "Фортепиано",
       "accepted_answers": [
         "Фортепиано",
         "пианино",
         "рояль"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0249",
@@ -9239,12 +9327,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Музыка",
-      "points": 5,
+      "points": 3,
       "question": "Какая певица исполнила «Levitating» и «New Rules»?",
       "answer": "Дуа Липа",
       "accepted_answers": [
         "Дуа Липа"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0250",
@@ -9265,12 +9354,13 @@
       "category": "Поп-культура",
       "category_key": "pop_culture",
       "subcategory": "Музыка",
-      "points": 5,
+      "points": 3,
       "question": "Какая группа исполнила песню «Что такое осень»?",
       "answer": "ДДТ",
       "accepted_answers": [
         "ДДТ"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "pop-0256",
@@ -9401,12 +9491,13 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Древний мир",
-      "points": 5,
+      "points": 3,
       "question": "Кто из братьев, по легенде, стал первым царём Рима?",
       "answer": "Ромул",
       "accepted_answers": [
         "Ромул"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0010",
@@ -9586,38 +9677,41 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Древний мир",
-      "points": 5,
+      "points": 3,
       "question": "Какого римского полководца убили заговорщики в мартовские иды?",
       "answer": "Юлий Цезарь",
       "accepted_answers": [
         "Юлий Цезарь",
         "Цезарь"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0028",
       "category": "История",
       "category_key": "history",
       "subcategory": "Древний мир",
-      "points": 5,
+      "points": 3,
       "question": "Как назывались римские сооружения для подачи воды в города?",
       "answer": "Акведуки",
       "accepted_answers": [
         "Акведуки",
         "акведук"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0029",
       "category": "История",
       "category_key": "history",
       "subcategory": "Древний мир",
-      "points": 5,
+      "points": 3,
       "question": "Как называлось основное крупное подразделение римской армии?",
       "answer": "Легион",
       "accepted_answers": [
         "Легион"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0052",
@@ -10057,13 +10151,14 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Возрождение и открытия",
-      "points": 5,
+      "points": 4,
       "question": "Какой философ известен фразой «Мыслю, следовательно, существую»?",
       "answer": "Рене Декарт",
       "accepted_answers": [
         "Рене Декарт",
         "Декарт"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0121",
@@ -10377,12 +10472,13 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Революции и империи",
-      "points": 5,
+      "points": 3,
       "question": "Как называется быстрый рост городов из-за переселения людей из деревень?",
       "answer": "Урбанизация",
       "accepted_answers": [
         "Урбанизация"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0171",
@@ -10401,38 +10497,41 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "Революции и империи",
-      "points": 5,
+      "points": 3,
       "question": "Между какими сторонами шла Гражданская война в США?",
       "answer": "Севером и Югом",
       "accepted_answers": [
         "Севером и Югом",
         "Север и Юг"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0173",
       "category": "История",
       "category_key": "history",
       "subcategory": "Революции и империи",
-      "points": 5,
+      "points": 3,
       "question": "Кто был президентом США во время Гражданской войны?",
       "answer": "Авраам Линкольн",
       "accepted_answers": [
         "Авраам Линкольн",
         "Линкольн"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0174",
       "category": "История",
       "category_key": "history",
       "subcategory": "Революции и империи",
-      "points": 5,
+      "points": 3,
       "question": "Какой институт был отменён в США после Гражданской войны?",
       "answer": "Рабство",
       "accepted_answers": [
         "Рабство"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0176",
@@ -10565,13 +10664,14 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 3,
       "question": "На какие два японских города были сброшены атомные бомбы?",
       "answer": "Хиросима и Нагасаки",
       "accepted_answers": [
         "Хиросима и Нагасаки",
         "Нагасаки и Хиросима"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0201",
@@ -10591,63 +10691,68 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 2,
       "question": "Как называется длительное противостояние СССР и США после Второй мировой войны?",
       "answer": "Холодная война",
       "accepted_answers": [
         "Холодная война"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0241",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 3,
       "question": "Какую фразу содержит самая известная речь Мартина Лютера Кинга?",
       "answer": "У меня есть мечта",
       "accepted_answers": [
         "У меня есть мечта",
         "I Have a Dream"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0226",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 2,
       "question": "Какой город был разделён стеной во время Холодной войны?",
       "answer": "Берлин",
       "accepted_answers": [
         "Берлин"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0231",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 6,
+      "points": 4,
       "question": "Как называлась американская миссия первой высадки людей на Луну?",
       "answer": "Аполлон-11",
       "accepted_answers": [
         "Аполлон-11",
         "Apollo 11",
         "Аполлон 11"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0210",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 3,
       "question": "Как назывался мировой экономический кризис, начавшийся в 1929 году?",
       "answer": "Великая депрессия",
       "accepted_answers": [
         "Великая депрессия"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0211",
@@ -10667,90 +10772,97 @@
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 6,
+      "points": 2,
       "question": "Кто возглавлял ненасильственную борьбу за независимость Индии?",
       "answer": "Махатма Ганди",
       "accepted_answers": [
         "Махатма Ганди",
         "Ганди"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0218",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 3,
       "question": "Как звали премьер-министра Великобритании во время большей части Второй мировой войны?",
       "answer": "Уинстон Черчилль",
       "accepted_answers": [
         "Уинстон Черчилль",
         "Черчилль"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0236",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 6,
+      "points": 3,
       "question": "Как называлась система расовой сегрегации в Южной Африке?",
       "answer": "Апартеид",
       "accepted_answers": [
         "Апартеид"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0219",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 3,
       "question": "Как звали президента США в большую часть Второй мировой войны?",
       "answer": "Франклин Рузвельт",
       "accepted_answers": [
         "Франклин Рузвельт",
         "Рузвельт"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0237",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 6,
+      "points": 3,
       "question": "Кто стал первым чернокожим президентом Южной Африки?",
       "answer": "Нельсон Мандела",
       "accepted_answers": [
         "Нельсон Мандела",
         "Мандела"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0217",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 5,
+      "points": 4,
       "question": "Как называют сражение лета 1943 года под Курском, ставшее одним из ключевых событий на Восточном фронте?",
       "answer": "Курская битва",
       "accepted_answers": [
         "Курская битва",
         "Курская дуга"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0240",
       "category": "История",
       "category_key": "history",
       "subcategory": "XX век",
-      "points": 7,
+      "points": 4,
       "question": "Какое движение в США боролось против расовой сегрегации под руководством Мартина Лютера Кинга?",
       "answer": "Движение за гражданские права",
       "accepted_answers": [
         "Движение за гражданские права",
         "гражданские права"
-      ]
+      ],
+      "editorial_audit": 6
     },
     {
       "id": "history-0220",
