@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-06",
   "language": "en",
   "title": "Almost Said It — English edition",
   "questions": [
@@ -977,15 +977,14 @@
       "id": "en-mathematics-0028",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 3,
-      "question": "How many millimetres are in 3.5 centimetres?",
-      "answer": "35",
+      "points": 5,
+      "question": "What is the smallest three-digit number divisible by both 4 and 9?",
+      "answer": "108",
       "accepted_answers": [
-        "35",
-        "35 millimetres",
-        "35 millimeters"
+        "108"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-mathematics-0029",
@@ -1004,15 +1003,15 @@
       "id": "en-mathematics-0030",
       "category": "Математика",
       "category_key": "mathematics",
-      "points": 3,
-      "question": "How many cubic centimetres are in one litre?",
-      "answer": "1000",
+      "points": 5,
+      "question": "How many positive factors does 36 have?",
+      "answer": "9",
       "accepted_answers": [
-        "1000",
-        "1,000",
-        "1000 cm³"
+        "9",
+        "Nine"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-mathematics-0031",
@@ -1317,14 +1316,15 @@
       "category": "Логика",
       "category_key": "logic",
       "points": 2,
-      "question": "What has keys but cannot open a lock?",
+      "question": "What familiar 88-key instrument has keys but cannot open a lock?",
       "answer": "A piano",
       "accepted_answers": [
         "A piano",
         "Piano",
         "Keyboard"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0004",
@@ -1636,38 +1636,45 @@
       "id": "en-logic-0027",
       "category": "Логика",
       "category_key": "logic",
-      "points": 4,
-      "question": "The red box is above the blue box, and the blue box is above the green box. Which box is lowest?",
-      "answer": "The green box",
+      "points": 6,
+      "question": "Three boxes say Apples, Pears and Mixed. All labels are wrong. Which box should you sample one fruit from?",
+      "answer": "The box labelled Mixed",
       "accepted_answers": [
-        "The green box",
-        "Green"
+        "The box labelled Mixed",
+        "Mixed",
+        "The mixed box"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0028",
       "category": "Логика",
       "category_key": "logic",
-      "points": 4,
-      "question": "Every rose is a flower. The vase contains only roses. Does it contain only flowers?",
-      "answer": "Yes",
+      "points": 5,
+      "question": "Every rose is a flower, and some flowers are red. Must any roses be red?",
+      "answer": "No",
       "accepted_answers": [
-        "Yes"
+        "No",
+        "Not necessarily"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0029",
       "category": "Логика",
       "category_key": "logic",
-      "points": 4,
-      "question": "All tickets marked A win a prize. Your ticket is marked A. Does it win a prize?",
-      "answer": "Yes",
+      "points": 8,
+      "question": "Cards show A, K, 4 and 7, with a letter on one side and a number on the other. Which to flip to test 'vowel → even'?",
+      "answer": "A and 7",
       "accepted_answers": [
-        "Yes"
+        "A and 7",
+        "A, 7",
+        "7 and A"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0030",
@@ -1685,13 +1692,15 @@
       "id": "en-logic-0031",
       "category": "Логика",
       "category_key": "logic",
-      "points": 4,
-      "question": "All cats in a room are black. Luna is a cat in that room. What colour is Luna?",
-      "answer": "Black",
+      "points": 6,
+      "question": "A says 'B lies'. B says 'C lies'. C says 'Both A and B lie'. Exactly one tells the truth. Who?",
+      "answer": "B",
       "accepted_answers": [
-        "Black"
+        "B",
+        "Person B"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0032",
@@ -1777,14 +1786,15 @@
       "category": "Логика",
       "category_key": "logic",
       "points": 3,
-      "question": "A drawer holds only black and white socks. What is the fewest socks you must take without looking to guarantee a matching pair?",
+      "question": "A drawer has only black and white socks. How many must you draw blindly to guarantee a matching pair?",
       "answer": "3",
       "accepted_answers": [
         "3",
         "Three"
       ],
       "editorial_revision": 5,
-      "editorial_audit": 6
+      "editorial_audit": 6,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0039",
@@ -1888,14 +1898,15 @@
       "category": "Логика",
       "category_key": "logic",
       "points": 6,
-      "question": "One of eight identical-looking balls is heavier. What should your first weighing on balance scales be to find it in two weighings?",
+      "question": "One of eight identical-looking balls is heavier. What first weighing allows you to find it in two weighings?",
       "answer": "Weigh three balls against three balls",
       "accepted_answers": [
         "Weigh three balls against three balls",
         "Three against three",
         "3 vs 3"
       ],
-      "editorial_revision": 5
+      "editorial_revision": 5,
+      "editorial_audit_round2": 7
     },
     {
       "id": "en-logic-0047",
