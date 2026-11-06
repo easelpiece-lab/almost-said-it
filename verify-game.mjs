@@ -2,10 +2,11 @@ import { readFile } from "node:fs/promises";
 import vm from "node:vm";
 
 const read = name => readFile(new URL(`./${name}`, import.meta.url), "utf8");
-const [ruData,enData,bundle,app,source,standalone,edits] = await Promise.all([
+const [ruData,enData,bundle,app,source,standalone,edits,secondPass] = await Promise.all([
   read("questions.json").then(JSON.parse), read("questions-en.json").then(JSON.parse),
   read("questions-ru.js"), read("app-v7.js"), read("index-source.html"), read("standalone.html"),
-  read("editorial-overrides.json").then(JSON.parse)
+  read("editorial-overrides.json").then(JSON.parse),
+  read("editorial-overrides-round2.json").then(JSON.parse)
 ]);
 
 function verifyBank(database,{count,language,revised}) {
@@ -22,17 +23,51 @@ verifyBank(enData,{count:350,language:"en",revised:350});
 
 for (const [language,database] of [["ru",ruData],["en",enData]]) {
   const byId=new Map(database.questions.map(item=>[item.id,item]));
+  const secondById=new Map(secondPass[language].map(item=>[item.id,item]));
   const verified=database.questions.filter(item=>item.editorial_audit===6).length;
   if (verified!==edits[language].length) throw new Error(`${language}: editorial patches lost during rebuild`);
   for (const patch of edits[language]) {
     const item=byId.get(patch.id);
     if (!item) throw new Error(`${language}: missing patched question ${patch.id}`);
     for (const field of ["question","answer","points"]) {
-      if (field in patch && item[field]!==patch[field]) throw new Error(`${language}: patch not applied: ${patch.id}.${field}`);
+      if (field in patch && !(field in (secondById.get(patch.id)||{})) && item[field]!==patch[field]) throw new Error(`${language}: patch not applied: ${patch.id}.${field}`);
+    }
+  }
+  const secondPassCount=database.questions.filter(item=>item.editorial_audit_round2===7).length;
+  if (secondPassCount!==secondPass[language].length) throw new Error(`${language}: second-pass changes missing after rebuild`);
+  for (const patch of secondPass[language]) {
+    const item=byId.get(patch.id);
+    if (!item) throw new Error(`${language}: missing second-pass question ${patch.id}`);
+    for (const field of ["question","answer","points"]) {
+      if (field in patch && item[field]!==patch[field]) throw new Error(`${language}: second-pass patch not applied: ${patch.id}.${field}`);
     }
   }
 }
 if (!ruData.questions.some(item=>item.points===8) || !enData.questions.some(item=>item.points===8)) throw new Error("Both languages must support the approved 1–8 point range");
+
+// Independently check the arithmetic/logic of several newly introduced puzzles.
+const ruById=new Map(ruData.questions.map(item=>[item.id,item]));
+const expectedCases={
+  "math-0061":String([1,2,3].reduce((acc,n)=>acc*n,1)),
+  "math-0261":String(Array.from({length:144},(_,i)=>i+1).filter(n=>144%n===0).length),
+  "math-0262":String(Array.from({length:100},(_,i)=>i+1).find(n=>n%3===2&&n%5===4)),
+  "math-0265":String(Array.from({length:20},(_,i)=>i+3).find(n=>n*(n-3)/2===9)),
+  "math-0281":`${Array.from({length:11},(_,i)=>i).find(y=>y+(y+3)+10===21)} года`,
+  "logic-0063":"Б"
+};
+for (const [id,expected] of Object.entries(expectedCases)) {
+  if (ruById.get(id)?.answer!==expected) throw new Error(`Incorrect reasoning-puzzle answer: ${id}`);
+}
+for (let headsInSelected=0;headsInSelected<=3;headsInSelected++) {
+  const headsInOtherPile=3-headsInSelected;
+  const headsAfterFlippingThree=3-headsInSelected;
+  if (headsInOtherPile!==headsAfterFlippingThree) throw new Error("Coin flip invariant failed");
+}
+const validTruthAssignments=[];
+for (const a of [false,true]) for (const b of [false,true]) for (const c of [false,true]) {
+  if (a===!b && b===!c && c===(!a&&!b) && Number(a)+Number(b)+Number(c)===1) validTruthAssignments.push({a,b,c});
+}
+if (validTruthAssignments.length!==1 || validTruthAssignments[0].b!==true) throw new Error("Three-speaker logic puzzle is ambiguous");
 
 const enCounts=Object.groupBy(enData.questions,item=>item.category_key);
 if (Object.keys(enCounts).length!==7 || Object.values(enCounts).some(items=>items.length!==50)) throw new Error("English edition must have 50 reviewed questions in all seven categories");
